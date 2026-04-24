@@ -107,10 +107,10 @@ CrawlerAgent（采集）
 # 6. 编码规范
 ·Agent 类名：XxxAgent（大驼峰），如 CrawlerAgent、AnalyzerAgent、FormatterAgent
 · Skill 文件名：snake_case.py，如 source_crawl.py
-方法名：snake_case，如 crawl_source()、analyze_content()、format_output()
-常量名：UPPER_SNAKE_CASE，如 SOURCE_GITHUB = "github_trending"
-JSON 字段名：统一 snake_case
-每个 Agent 职责单一，禁止跨角色直接耦合
+- 方法名：snake_case，如 crawl_source()、analyze_content()、format_output()
+- 常量名：UPPER_SNAKE_CASE，如 SOURCE_GITHUB = "github_trending"
+· JSON 字段名：统一 snake_case
+· 每个 Agent 职责单一，禁止跨角色直接耦合
 Agent 间通信：仅通过 output/ 目录下的 JSON 文件传递数据，不允许内存直传
 # 7. 多 Agent 协作规范
 ## 7.1 权限控制
