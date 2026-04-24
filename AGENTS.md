@@ -11,6 +11,7 @@
 | 数据来源 | GitHub Trending、Hacker News、arXiv |
 
 # 3. 项目结构
+```
 ai-knowledge-base/
 ├── agents/
 │   ├── crawler_agent.py          # 采集者 Agent
@@ -33,7 +34,7 @@ ai-knowledge-base/
 │   └── sources.json              # 数据源配置
 ├── .gitignore
 └── Agents.md
-
+```
 输出文件命名规范
 | 阶段 | 命名格式 | 示例 |
 |------|---------|------|
@@ -48,6 +49,7 @@ v{N}：同日多次产出时递增的版本序号
 职责：从指定数据源抓取 AI 领域原始内容
 数据源：GitHub Trending、Hacker News、arXiv（cs.AI、cs.LG）
 输出：原始数据 JSON，写入 output/raw/
+```
 {
   "agent": "CrawlerAgent",
   "role": "crawler",
@@ -56,6 +58,7 @@ v{N}：同日多次产出时递增的版本序号
   "output_dir": "output/raw/",
   "output_format": "json"
 }
+```
 
 ## 4.2 分析者（AnalyzerAgent）
 职责：对采集者的原始数据进行去重、分类、摘要提炼
@@ -64,6 +67,7 @@ v{N}：同日多次产出时递增的版本序号
 按主题分类（模型、工具、论文、开源项目等）
 去除重复或低质量条目，标注质量评分
 输出：结构化分析结果 JSON，写入 output/analyzed/
+```
 {
   "agent": "AnalyzerAgent",
   "role": "analyzer",
@@ -72,6 +76,7 @@ v{N}：同日多次产出时递增的版本序号
   "output_dir": "output/analyzed/",
   "output_format": "json"
 }
+```
 
 ## 4.3 整理者（FormatterAgent）
 职责：将分析者的结构化数据转化为最终 JSON 输出，执行 Schema 校验，触发 Git 归档
