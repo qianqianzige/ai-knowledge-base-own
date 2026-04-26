@@ -125,9 +125,9 @@ CrawlerAgent（采集）
 每个 Agent 只能读取上游 Agent 的输出目录
 禁止任何 Agent 修改或删除上游已产出的文件
 ## 7.2 质量控制
-CrawlerAgent：每条采集数据必须包含 source、url、title、crawled_at 字段，缺失任一字段则丢弃该条目
-AnalyzerAgent：为每条内容标注 quality_score（1-5分），低于 3 分的条目标记为 low_quality 并在最终输出中过滤
-FormatterAgent：最终 JSON 必须通过 json_schema_validate 技能校验，校验失败则拒绝写入并触发告警
+- CrawlerAgent：每条采集数据必须包含 source、url、title、crawled_at 字段，缺失任一字段则丢弃该条目
+- AnalyzerAgent：为每条内容标注 quality_score（1-5分），低于 3 分的条目标记为 low_quality 并在最终输出中过滤
+- FormatterAgent：最终 JSON 必须通过 json_schema_validate 技能校验，校验失败则拒绝写入并触发告警
 ## 7.3 可追溯性
 每个阶段的输出文件名包含 git-short-hash，可追溯至具体代码版本
 每条数据在流转过程中携带 trace_id（格式：{date}_{source}_{seq}），贯穿采集→分析→整理全链路
