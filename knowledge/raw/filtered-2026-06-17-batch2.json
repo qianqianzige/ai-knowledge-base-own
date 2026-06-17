@@ -1,0 +1,15 @@
+{
+  "filter_date": "2026-06-17",
+  "batch": "github-trending-2026-06-17 (round 2)",
+  "total_analyzed": 15,
+  "total_passed": 14,
+  "total_discarded": 1,
+  "discarded": [
+    {
+      "id": "Nanako0129/coralline",
+      "url": "https://github.com/Nanako0129/coralline",
+      "reason": "relevance_score 0.58 < 0.6",
+      "relevance_score": 0.58
+    }
+  ]
+}

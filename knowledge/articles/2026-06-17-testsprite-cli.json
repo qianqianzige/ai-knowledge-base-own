@@ -1,0 +1,14 @@
+{
+  "id": "kb-2026-06-17-026",
+  "title": "TestSprite/testsprite-cli",
+  "source": "github-trending",
+  "source_id": "TestSprite/testsprite-cli",
+  "url": "https://github.com/TestSprite/testsprite-cli",
+  "summary": "AI 驱动的端到端测试命令行工具，在终端中用自然语言描述测试场景即可自动生成和执行 Playwright 测试脚本。支持交互式测试生成、测试用例回放和 CI/CD 流水线集成。底层集成 Playwright 浏览器自动化引擎，AI 负责将测试意图转换为可执行的页面操作序列（点击、输入、断言），降低编写 E2E 测试的门槛。面向 QA 工程师和希望快速建立测试覆盖的开发团队。",
+  "tags": ["code-generation", "developer-tools", "code-assistant"],
+  "relevance_score": 0.69,
+  "collected_at": "2026-06-17T00:00:00Z",
+  "analyzed_at": "2026-06-17T00:00:00Z",
+  "organized_at": "2026-06-17T12:00:00Z",
+  "status": "published"
+}

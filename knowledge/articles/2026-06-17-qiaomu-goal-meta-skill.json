@@ -1,0 +1,14 @@
+{
+  "id": "kb-2026-06-17-019",
+  "title": "joeseesun/qiaomu-goal-meta-skill",
+  "source": "github-trending",
+  "source_id": "joeseesun/qiaomu-goal-meta-skill",
+  "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+  "summary": "Codex 元技能（Meta-Skill），将模糊或口语化的任务描述自动转化为强约束 /goal 指令——自动附加产出物定义、验证方式、约束条件、边界定义、迭代策略和完成证据。相当于在 Agent 任务入口加入一层结构化编译器，消除「Agent 理解偏差导致跑偏」的常见痛点。对复杂多步骤任务的执行可控性和可靠性有显著提升，尤其适合需要精确控制 Codex Agent 行为的工程场景。",
+  "tags": ["prompt-engineering", "agent-framework", "code-generation", "workflow-automation"],
+  "relevance_score": 0.77,
+  "collected_at": "2026-06-17T00:00:00Z",
+  "analyzed_at": "2026-06-17T00:00:00Z",
+  "organized_at": "2026-06-17T12:00:00Z",
+  "status": "published"
+}

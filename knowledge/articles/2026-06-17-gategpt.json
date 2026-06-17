@@ -1,0 +1,14 @@
+{
+  "id": "kb-2026-06-17-021",
+  "title": "fguzman82/gateGPT",
+  "source": "github-trending",
+  "source_id": "fguzman82/gateGPT",
+  "url": "https://github.com/fguzman82/gateGPT",
+  "summary": "Andrej Karpathy 的 microGPT 的完整 FPGA 硬件实现（Xilinx Virtex-5 XC5VLX110T）。单个 Transformer Block（RMSNorm→多头 Causal Attention→MLP），全 Q5.11 定点运算，微码 ROM 序列器驱动模块化数据通路执行器。KV Cache 实现增量解码（仅计算新 Token 的 K/V），带来 3.2 倍吞吐提升。经历 10 轮优化（微码核心→BRAM 重写→KV Cache→24 通道脉动 MAC 阵列→并行除法器→radix-4 除法→双端口 Scratchpad），最终从 2.4k 提升到 ~56k tokens/s（28 倍），约 45 万门等效逻辑 + 74 Kbit SRAM，DSP 利用率 96%。所有阶段 bit-exact 对 Python 参考实现。",
+  "tags": ["large-language-model", "transformer", "code-generation", "fine-tuning"],
+  "relevance_score": 0.74,
+  "collected_at": "2026-06-17T00:00:00Z",
+  "analyzed_at": "2026-06-17T00:00:00Z",
+  "organized_at": "2026-06-17T12:00:00Z",
+  "status": "published"
+}

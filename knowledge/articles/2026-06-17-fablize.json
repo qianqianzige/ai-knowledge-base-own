@@ -1,0 +1,14 @@
+{
+  "id": "kb-2026-06-17-025",
+  "title": "fivetaku/fablize",
+  "source": "github-trending",
+  "source_id": "fivetaku/fablize",
+  "url": "https://github.com/fivetaku/fablize",
+  "summary": "Claude Code 插件，让 Opus 模型模拟 Fable 的行为模式——将完成验证、证据提供和过程约束固化为内置流程，仅保留经 Opus vs Fable 对比实验验证可迁移的能力子集。与 fable-mode 的区别在于：fablize 侧重「行为风格迁移」（让 Opus 像 Fable 一样工作），而非「流程结构注入」。属于 Claude Code 生态中模型行为编排品类的早期探索，安装即用。",
+  "tags": ["prompt-engineering", "anthropic", "claude-code", "agent-framework"],
+  "relevance_score": 0.69,
+  "collected_at": "2026-06-17T00:00:00Z",
+  "analyzed_at": "2026-06-17T00:00:00Z",
+  "organized_at": "2026-06-17T12:00:00Z",
+  "status": "published"
+}

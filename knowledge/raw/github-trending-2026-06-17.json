@@ -1,0 +1,152 @@
+[
+  {
+    "title": "DietrichGebert/ponytail",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "source": "github",
+    "popularity": 25875,
+    "summary": "Ponytail 是一个 AI Agent 技能工具，让 AI 编码助手像最懒的高级工程师一样思考，推崇 YAGNI 原则（The best code is the code you never wrote），避免过度工程。适用 Claude Code、Cursor Rules 等 AI 编程环境，内置 agent-skills 和 prompt-engineering 能力，本周在 AI Agent 社区中迅速走红。",
+    "language": "JavaScript",
+    "topics": ["agent-skills", "ai-agents", "claude", "claude-code", "claude-code-plugin", "cursor-rules", "developer-tools", "llm", "prompt-engineering", "yagni"],
+    "collected_at": "2026-06-17T00:00:00Z"
+  },
+  {
+    "title": "omnigent-ai/omnigent",
+    "url": "https://github.com/omnigent-ai/omnigent",
+    "source": "github",
+    "popularity": 2872,
+    "summary": "Omnigent 是一个 AI Agent 元编排框架（meta-harness），在 Claude Code、Codex、Pi 等多种 Agent 之上提供统一抽象层，支持无痛切换与组合、策略与沙箱安全管控、多设备实时协作会话，是构建多 Agent 系统的统一入口。",
+    "language": "Python",
+    "topics": ["agents", "ai", "ai-agents", "developer-tools", "llm", "ml", "python"],
+    "collected_at": "2026-06-17T00:00:00Z"
+  },
+  {
+    "title": "orange2ai/renwei-writing",
+    "url": "https://github.com/orange2ai/renwei-writing",
+    "source": "github",
+    "popularity": 727,
+    "summary": "人味儿写作（renwei-writing）是一个 AI Agent 写作技能，专注于编辑文字的语法和逻辑而不抹去作者的个人风格（edit people's words without erasing the person behind them），让 AI 辅助写作保持'人味儿'，适用于中文内容创作者。",
+    "language": null,
+    "topics": [],
+    "collected_at": "2026-06-17T00:00:00Z"
+  },
+  {
+    "title": "joeseesun/qiaomu-goal-meta-skill",
+    "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+    "source": "github",
+    "popularity": 634,
+    "summary": "乔木 Goal Meta-Skill 是一个将模糊或复杂的 Codex 任务转化为强约束 `/goal` 指令的元技能，自动附加产出物、验证方式、约束条件、边界定义、迭代策略和完成证据，显著提升 AI Agent 任务执行的可控性与可靠性。",
+    "language": "Python",
+    "topics": [],
+    "collected_at": "2026-06-17T00:00:00Z"
+  },
+  {
+    "title": "nolangz/pixel2motion",
+    "url": "https://github.com/nolangz/pixel2motion",
+    "source": "github",
+    "popularity": 610,
+    "summary": "Pixel2motion 是一个 AI Logo 动画生成技能，将静态位图 Logo 转换为流畅的 SVG 动画、HTML 演示、GIF/视频预览和运动质量验证，覆盖从静态图像到品牌动效的完整工作流，可作为 Claude Skill 或 Codex Skill 使用。",
+    "language": "Python",
+    "topics": ["ai-design-tools", "animated-logo", "brand-motion", "claude-skill", "codex-skill", "html-animation", "logo-animation", "motion-design", "pixel-to-svg", "svg-animation"],
+    "collected_at": "2026-06-17T00:00:00Z"
+  },
+  {
+    "title": "DanMcInerney/architect-loop",
+    "url": "https://github.com/DanMcInerney/architect-loop",
+    "source": "github",
+    "popularity": 486,
+    "summary": "Architect-Loop 是一个跨厂商 AI Agent 协作循环技能：Claude（Fable 5）担任架构师角色，GPT-5.5 Codex 作为构建者，Git 仓库作为共享记忆，实现研究支撑的跨模型 Agent 开发流程，探索多模型协同编程的最佳实践。",
+    "language": "HTML",
+    "topics": [],
+    "collected_at": "2026-06-17T00:00:00Z"
+  },
+  {
+    "title": "alchaincyf/loop-engineering-orange-book",
+    "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
+    "source": "github",
+    "popularity": 476,
+    "summary": "Loop Engineering 橙皮书是一本关于 Agent 循环工程的中英文通俗指南，以'别再问我什么是 Loop Engineering'为切入点，系统讲解 AI Agent 的迭代循环设计方法论，免费提供 PDF 下载，适合 Agent 开发者入门参考。",
+    "language": null,
+    "topics": [],
+    "collected_at": "2026-06-17T00:00:00Z"
+  },
+  {
+    "title": "fguzman82/gateGPT",
+    "url": "https://github.com/fguzman82/gateGPT",
+    "source": "github",
+    "popularity": 448,
+    "summary": "gateGPT 是一个将完整 Transformer 模型硬件化到定制芯片的开源项目，使用 Verilog RTL 在 Virtex-5 FPGA 上以约 56k tokens/秒的速度运行名字生成推理，展示了 LLM 推理在 FPGA 上的前沿实践与性能潜力。",
+    "language": "Verilog",
+    "topics": [],
+    "collected_at": "2026-06-17T00:00:00Z"
+  },
+  {
+    "title": "mrtooher/fable-mode",
+    "url": "https://github.com/mrtooher/fable-mode",
+    "source": "github",
+    "popularity": 433,
+    "summary": "Fable-Mode 是一个 Claude Skill，激活类似 Fable 风格的 Agent 行为模式：实现显式多阶段任务规划、子 Agent 委派与调度，以及输出自验证机制，将 AI 编码从一次性生成升级为结构化、可追溯的多步骤执行流程。",
+    "language": null,
+    "topics": [],
+    "collected_at": "2026-06-17T00:00:00Z"
+  },
+  {
+    "title": "LearnPrompt/luban-skill",
+    "url": "https://github.com/LearnPrompt/luban-skill",
+    "source": "github",
+    "popularity": 369,
+    "summary": "鲁班（Luban）是一个 Agent Skill 打磨工作坊，提出「验料·访行·过尺·慢刨·回炉」五步法，帮助开发者将功能可用的 Skill 打磨为可复用安装、可传播共享、可自动验证、可持续进化的公共资产，推动 Agent 生态标准化。",
+    "language": "Shell",
+    "topics": [],
+    "collected_at": "2026-06-17T00:00:00Z"
+  },
+  {
+    "title": "fivetaku/fablize",
+    "url": "https://github.com/fivetaku/fablize",
+    "source": "github",
+    "popularity": 359,
+    "summary": "Fablize 是一个 Claude Code 插件，让 Opus 模型模拟 Fable 的行为风格——将完成验证、证据提供和过程约束固化为内置流程，仅保留经 Opus-vs-Fable 对比验证可迁移的能力，是 Claude Code 生态中模型行为编排的有趣尝试。",
+    "language": "Shell",
+    "topics": ["agentic", "anthropic", "claude", "claude-code", "fable", "harness", "opus"],
+    "collected_at": "2026-06-17T00:00:00Z"
+  },
+  {
+    "title": "Nanako0129/coralline",
+    "url": "https://github.com/Nanako0129/coralline",
+    "source": "github",
+    "popularity": 324,
+    "summary": "Coralline 是一个受 Powerlevel10k 启发的 Claude Code 终端状态栏，只需粘贴一条提示词即可让 AI 自动访谈用户并完成安装配置，融合 Nerd Fonts 图标美化 Claude Code 的终端视觉体验，是 AI 开发工具链中的趣味性增强插件。",
+    "language": "Shell",
+    "topics": ["bash", "claude", "claude-code", "nerd-fonts", "powerlevel10k", "statusline", "terminal", "vibe-coding"],
+    "collected_at": "2026-06-17T00:00:00Z"
+  },
+  {
+    "title": "NO6KIKO/gorest-2d-animation-spritesheet-generator",
+    "url": "https://github.com/NO6KIKO/gorest-2d-animation-spritesheet-generator",
+    "source": "github",
+    "popularity": 320,
+    "summary": "Gorest 是一个 Codex 辅助的本地 2D 动画精灵表（Spritesheet）生成器和场景合成工作台，结合 AI 辅助设计简化游戏动画素材的生成与编排流程，面向独立游戏开发者和 2D 动画创作者。",
+    "language": "TypeScript",
+    "topics": [],
+    "collected_at": "2026-06-17T00:00:00Z"
+  },
+  {
+    "title": "duolahypercho/fusion-fable",
+    "url": "https://github.com/duolahypercho/fusion-fable",
+    "source": "github",
+    "popularity": 320,
+    "summary": "Fusion-Fable 是一个 Claude Code Skill，将两个前沿模型的输出融合为 Fable 级别的高质量回答——Opus 4.8 起草、第二个模型（Opus 4.8 或 Codex GPT-5.5）复审、Opus 融合定稿，实现了跨模型协同推理与结果质量增强。",
+    "language": "Shell",
+    "topics": [],
+    "collected_at": "2026-06-17T00:00:00Z"
+  },
+  {
+    "title": "TestSprite/testsprite-cli",
+    "url": "https://github.com/TestSprite/testsprite-cli",
+    "source": "github",
+    "popularity": 316,
+    "summary": "TestSprite CLI 是官方 TestSprite 命令行工具，通过 AI 从终端驱动端到端自动化测试，底层集成 Playwright，支持测试用例自动生成与执行，面向 QA 工程师和 CI/CD 流水线中的测试自动化场景。",
+    "language": "TypeScript",
+    "topics": ["ai", "cli", "e2e-testing", "playwright", "qa", "test-automation", "testing"],
+    "collected_at": "2026-06-17T00:00:00Z"
+  }
+]

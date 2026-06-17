@@ -1,0 +1,14 @@
+{
+  "id": "kb-2026-06-17-014",
+  "title": "DietrichGebert/ponytail",
+  "source": "github-trending",
+  "source_id": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "summary": "基于6级阶梯式决策协议（是否需要存在→标准库→原生平台→已安装依赖→一行搞定→最简实现），将 AI Agent 的代码输出量减少 80–94%、执行速度提升 3–6 倍、API 成本降低 42–75%。每一次对话自动注入规则集，Agent 每次输出前按梯级过滤不必要的实现。覆盖 Claude Code、Codex、Cursor、Cline、Windsurf、Copilot、OpenCode、Pi、Gemini CLI 等 13+ 种 Agent 运行时，配备 /ponytail-review（代码审计）、/ponytail-audit（全局审查）、/ponytail-debt（快捷债务追踪）等配套命令。基准测试横跨 Haiku/Sonnet/Opus，10 次重复取中位数，所有 Benchmark 可复现。",
+  "tags": ["prompt-engineering", "agent-framework", "claude-code", "developer-tools", "code-generation"],
+  "relevance_score": 0.94,
+  "collected_at": "2026-06-17T00:00:00Z",
+  "analyzed_at": "2026-06-17T00:00:00Z",
+  "organized_at": "2026-06-17T12:00:00Z",
+  "status": "published"
+}
