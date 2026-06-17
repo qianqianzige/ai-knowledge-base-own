@@ -1,0 +1,20 @@
+{
+  "id": "kb-2026-06-17-004",
+  "title": "chopratejas/headroom",
+  "source": "github",
+  "url": "https://github.com/chopratejas/headroom",
+  "summary": "面向 AI Agent 的上下文压缩层，在 LLM 接收输入之前对工具输出、日志、文件和 RAG 块进行压缩，实现 60-95% 的 token 缩减。提供 Library、Proxy、MCP Server 和 Agent Wrapper 四种集成模式，支持 Claude Code、Codex、Cursor 等主流 Agent。内部采用 ContentRouter 路由不同内容类型到 SmartCrusher（JSON）、CodeCompressor（AST）或基于 HuggingFace 的 Kompress-base 模型，并支持可逆压缩（CCR）。还提供跨 Agent 共享内存和从失败会话中学习的 headroom learn 功能。对高频使用 AI Agent 编码且关注 token 成本的团队极其实用。",
+  "tags": ["context-compression", "token-optimization", "agent-middleware", "rag", "mcp"],
+  "relevance_score": 0.94,
+  "score_breakdown": {
+    "tech_depth": 0.92,
+    "practical_value": 0.97,
+    "timeliness": 0.90,
+    "community_heat": 0.90,
+    "domain_match": 0.98
+  },
+  "collected_at": "2026-06-16T00:00:00Z",
+  "analyzed_at": "2026-06-17T00:00:00Z",
+  "organized_at": "2026-06-17T00:00:00Z",
+  "status": "published"
+}

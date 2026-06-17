@@ -1,0 +1,20 @@
+{
+  "id": "kb-2026-06-17-013",
+  "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+  "source": "github",
+  "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "summary": "目前 GitHub 上最全面的 AI 编码工具 System Prompt 和内部工具泄露合集，覆盖 Augment Code、Claude Code、Cursor、Devin AI、Kiro、Lovable、Manus、Replit、Trae、v0、Windsurf 等 25+ 个主流 AI 编码平台。不仅包含 system prompt 文本，还包含各工具的内部工具定义和模型信息。与 asgeirtj 的仓库形成互补——前者聚焦聊天模型 API 的 system prompt，本仓库则覆盖 IDE 和 Agent 产品。对研究 AI 编码 Agent 的产品设计、安全边界和提示策略的从业者具有极高的参考价值。140K+ Star 反映了社区对透明度的强烈需求。",
+  "tags": ["system-prompts", "ai-coding-tools", "cursor", "claude-code", "windsurf"],
+  "relevance_score": 0.83,
+  "score_breakdown": {
+    "tech_depth": 0.60,
+    "practical_value": 0.85,
+    "timeliness": 0.88,
+    "community_heat": 0.95,
+    "domain_match": 0.95
+  },
+  "collected_at": "2026-06-16T00:00:00Z",
+  "analyzed_at": "2026-06-17T00:00:00Z",
+  "organized_at": "2026-06-17T00:00:00Z",
+  "status": "published"
+}

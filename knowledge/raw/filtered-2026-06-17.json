@@ -1,0 +1,48 @@
+{
+  "filter_date": "2026-06-17",
+  "total_discarded": 7,
+  "discarded": [
+    {
+      "id": "apple/container",
+      "url": "https://github.com/apple/container",
+      "reason": "relevance_score 0.23 < 0.6",
+      "relevance_score": 0.23
+    },
+    {
+      "id": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "reason": "relevance_score 0.52 < 0.6",
+      "relevance_score": 0.52
+    },
+    {
+      "id": "music-assistant/server",
+      "url": "https://github.com/music-assistant/server",
+      "reason": "relevance_score 0.08 < 0.6",
+      "relevance_score": 0.08
+    },
+    {
+      "id": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "reason": "relevance_score 0.40 < 0.6",
+      "relevance_score": 0.40
+    },
+    {
+      "id": "mattermost/mattermost",
+      "url": "https://github.com/mattermost/mattermost",
+      "reason": "relevance_score 0.15 < 0.6",
+      "relevance_score": 0.15
+    },
+    {
+      "id": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "reason": "relevance_score 0.28 < 0.6",
+      "relevance_score": 0.28
+    },
+    {
+      "id": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "reason": "relevance_score 0.10 < 0.6",
+      "relevance_score": 0.10
+    }
+  ]
+}

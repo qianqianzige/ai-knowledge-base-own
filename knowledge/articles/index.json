@@ -1,0 +1,110 @@
+{
+  "last_updated": "2026-06-17T00:00:00Z",
+  "total_count": 13,
+  "entries": [
+    {
+      "id": "kb-2026-06-17-005",
+      "title": "addyosmani/agent-skills",
+      "file": "2026-06-17-agent-skills.json",
+      "tags": ["agent-skills", "software-engineering", "code-quality", "tdd", "google-engineering"],
+      "relevance_score": 0.96,
+      "organized_at": "2026-06-17T00:00:00Z"
+    },
+    {
+      "id": "kb-2026-06-17-004",
+      "title": "chopratejas/headroom",
+      "file": "2026-06-17-headroom.json",
+      "tags": ["context-compression", "token-optimization", "agent-middleware", "rag", "mcp"],
+      "relevance_score": 0.94,
+      "organized_at": "2026-06-17T00:00:00Z"
+    },
+    {
+      "id": "kb-2026-06-17-001",
+      "title": "mvanhorn/last30days-skill",
+      "file": "2026-06-17-last30days-skill.json",
+      "tags": ["agent-skill", "deep-research", "multi-platform", "social-media-analysis", "claude-code"],
+      "relevance_score": 0.92,
+      "organized_at": "2026-06-17T00:00:00Z"
+    },
+    {
+      "id": "kb-2026-06-17-006",
+      "title": "Panniantong/Agent-Reach",
+      "file": "2026-06-17-agent-reach.json",
+      "tags": ["agent-tool", "web-scraping", "multi-platform", "zero-api-fee", "agent-infrastructure"],
+      "relevance_score": 0.90,
+      "organized_at": "2026-06-17T00:00:00Z"
+    },
+    {
+      "id": "kb-2026-06-17-003",
+      "title": "NVIDIA/SkillSpector",
+      "file": "2026-06-17-skillspector.json",
+      "tags": ["agent-security", "vulnerability-scanner", "nvidia", "prompt-injection", "supply-chain-security"],
+      "relevance_score": 0.89,
+      "organized_at": "2026-06-17T00:00:00Z"
+    },
+    {
+      "id": "kb-2026-06-17-010",
+      "title": "microsoft/markitdown",
+      "file": "2026-06-17-markitdown.json",
+      "tags": ["document-conversion", "markdown", "rag", "data-preprocessing", "llm-tools"],
+      "relevance_score": 0.88,
+      "organized_at": "2026-06-17T00:00:00Z"
+    },
+    {
+      "id": "kb-2026-06-17-007",
+      "title": "RyanCodrai/turbovec",
+      "file": "2026-06-17-turbovec.json",
+      "tags": ["vector-search", "quantization", "rag", "rust", "faiss-alternative"],
+      "relevance_score": 0.87,
+      "organized_at": "2026-06-17T00:00:00Z"
+    },
+    {
+      "id": "kb-2026-06-17-011",
+      "title": "asgeirtj/system_prompts_leaks",
+      "file": "2026-06-17-system-prompts-leaks.json",
+      "tags": ["system-prompts", "prompt-engineering", "llm-research", "ai-security", "claude"],
+      "relevance_score": 0.85,
+      "organized_at": "2026-06-17T00:00:00Z"
+    },
+    {
+      "id": "kb-2026-06-17-012",
+      "title": "huggingface/OpenEnv",
+      "file": "2026-06-17-openenv.json",
+      "tags": ["reinforcement-learning", "agent-environment", "llm-training", "gymnasium", "huggingface"],
+      "relevance_score": 0.84,
+      "organized_at": "2026-06-17T00:00:00Z"
+    },
+    {
+      "id": "kb-2026-06-17-013",
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "file": "2026-06-17-system-prompts-and-models-of-ai-tools.json",
+      "tags": ["system-prompts", "ai-coding-tools", "cursor", "claude-code", "windsurf"],
+      "relevance_score": 0.83,
+      "organized_at": "2026-06-17T00:00:00Z"
+    },
+    {
+      "id": "kb-2026-06-17-002",
+      "title": "phuryn/pm-skills",
+      "file": "2026-06-17-pm-skills.json",
+      "tags": ["agent-skills", "product-management", "claude-code", "workflow-automation", "ai-shipping"],
+      "relevance_score": 0.82,
+      "organized_at": "2026-06-17T00:00:00Z"
+    },
+    {
+      "id": "kb-2026-06-17-008",
+      "title": "Leonxlnx/taste-skill",
+      "file": "2026-06-17-taste-skill.json",
+      "tags": ["agent-skill", "frontend-design", "ui-engineering", "vibe-coding", "anti-slop"],
+      "relevance_score": 0.81,
+      "organized_at": "2026-06-17T00:00:00Z"
+    },
+    {
+      "id": "kb-2026-06-17-009",
+      "title": "openai/plugins",
+      "file": "2026-06-17-plugins.json",
+      "tags": ["openai", "codex", "plugin-system", "agent-extension", "mcp"],
+      "relevance_score": 0.78,
+      "organized_at": "2026-06-17T00:00:00Z"
+    }
+  ]
+}

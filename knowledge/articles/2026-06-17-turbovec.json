@@ -1,0 +1,20 @@
+{
+  "id": "kb-2026-06-17-007",
+  "title": "RyanCodrai/turbovec",
+  "source": "github",
+  "url": "https://github.com/RyanCodrai/turbovec",
+  "summary": "基于 Google Research TurboQuant 算法的高性能向量索引库，Rust 核心 + Python 绑定。核心优势在于在线数据无关量化——无需单独训练阶段，添加向量即刻索引；使用 SIMD 指令（NEON/AVX-512）加速搜索，在 ARM 上比 FAISS IndexPQFastScan 快 10-19%；通过 Lloyd-Max 标量量化和长度重归一化实现高召回率压缩：1000 万文档仅需 4GB 内存（float32 需 31GB）。提供 LangChain、LlamaIndex、Haystack、Agno 框架的即插即用集成。适合需要本地部署、低内存、高隐私的 RAG 应用场景。",
+  "tags": ["vector-search", "quantization", "rag", "rust", "faiss-alternative"],
+  "relevance_score": 0.87,
+  "score_breakdown": {
+    "tech_depth": 0.92,
+    "practical_value": 0.90,
+    "timeliness": 0.85,
+    "community_heat": 0.75,
+    "domain_match": 0.90
+  },
+  "collected_at": "2026-06-16T00:00:00Z",
+  "analyzed_at": "2026-06-17T00:00:00Z",
+  "organized_at": "2026-06-17T00:00:00Z",
+  "status": "published"
+}

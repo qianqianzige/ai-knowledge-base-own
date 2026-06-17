@@ -1,0 +1,20 @@
+{
+  "id": "kb-2026-06-17-011",
+  "title": "asgeirtj/system_prompts_leaks",
+  "source": "github",
+  "url": "https://github.com/asgeirtj/system_prompts_leaks",
+  "summary": "汇集了 Anthropic（Claude Fable 5/Opus 4.8/Claude Code）、OpenAI（GPT-5.5/GPT-5.4/Codex）、Google（Gemini 3.5 Flash/3.1 Pro/Antigravity）、xAI（Grok）、Microsoft Copilot、Cursor 等主流 AI 系统和工具的完整 System Prompt 泄露集合。覆盖聊天模型、编码 Agent、工具定义、安全策略等多个维度，华盛顿邮报曾专题报道。对 AI 从业者而言，这是研究提示工程策略、理解不同模型行为约束的宝贵一手资料，也是安全研究者分析 prompt injection 攻击面时的重要参考。持续更新，紧跟最新模型发布。",
+  "tags": ["system-prompts", "prompt-engineering", "llm-research", "ai-security", "claude"],
+  "relevance_score": 0.85,
+  "score_breakdown": {
+    "tech_depth": 0.70,
+    "practical_value": 0.85,
+    "timeliness": 0.90,
+    "community_heat": 0.92,
+    "domain_match": 0.95
+  },
+  "collected_at": "2026-06-16T00:00:00Z",
+  "analyzed_at": "2026-06-17T00:00:00Z",
+  "organized_at": "2026-06-17T00:00:00Z",
+  "status": "published"
+}

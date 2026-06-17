@@ -1,0 +1,20 @@
+{
+  "id": "kb-2026-06-17-005",
+  "title": "addyosmani/agent-skills",
+  "source": "github",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "summary": "Google 工程总监 Addy Osmani 出品的 AI 编码 Agent 生产级工程技能包，包含 24 个技能覆盖完整开发生命周期：Define（spec/idea-refine）→ Plan（任务拆解）→ Build（增量实现/TDD/前后端/API 设计）→ Verify（调试/浏览器测试）→ Review（代码审查/安全加固/性能优化）→ Ship（CI/CD/可观测性/发布）。每个 SKILL.md 包含结构化工作流、反合理化表和证据要求，融入 Google 工程文化中的 Hyrum's Law、Chesterton's Fence、Beyonce Rule 等原则。兼容 Claude Code、Cursor、Gemini CLI、Codex 等所有主流 Agent。这是目前最权威的 Agent 编码规范集合。",
+  "tags": ["agent-skills", "software-engineering", "code-quality", "tdd", "google-engineering"],
+  "relevance_score": 0.96,
+  "score_breakdown": {
+    "tech_depth": 0.90,
+    "practical_value": 0.98,
+    "timeliness": 0.95,
+    "community_heat": 0.98,
+    "domain_match": 1.00
+  },
+  "collected_at": "2026-06-16T00:00:00Z",
+  "analyzed_at": "2026-06-17T00:00:00Z",
+  "organized_at": "2026-06-17T00:00:00Z",
+  "status": "published"
+}

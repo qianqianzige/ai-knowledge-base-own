@@ -1,0 +1,20 @@
+{
+  "id": "kb-2026-06-17-008",
+  "title": "Leonxlnx/taste-skill",
+  "source": "github",
+  "url": "https://github.com/Leonxlnx/taste-skill",
+  "summary": "专治 AI 生成千篇一律界面的 Agent 技能集，通过可移植的 SKILL.md 文件指导 Claude Code、Codex、Cursor 等 Agent 产出有设计品味的前端代码。v2 版本引入 VARIANCE/MOTION/DENSITY 三档可调参数，自动推断设计语言、强制执行反套路规则（如禁用 em-dash）。除默认 skill 外还提供 minimalist、brutalist、soft 等多种风格变体，以及品牌套件和图片生成技能（配合 ChatGPT Images 使用）。本质是将设计审美和前端最佳实践编码为 Agent 可循的规则集，解决了 vibe coding 场景下 UI 质量失控的痛点。",
+  "tags": ["agent-skill", "frontend-design", "ui-engineering", "vibe-coding", "anti-slop"],
+  "relevance_score": 0.81,
+  "score_breakdown": {
+    "tech_depth": 0.55,
+    "practical_value": 0.90,
+    "timeliness": 0.90,
+    "community_heat": 0.92,
+    "domain_match": 0.85
+  },
+  "collected_at": "2026-06-16T00:00:00Z",
+  "analyzed_at": "2026-06-17T00:00:00Z",
+  "organized_at": "2026-06-17T00:00:00Z",
+  "status": "published"
+}
