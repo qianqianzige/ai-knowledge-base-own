@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260617-006",
+  "title": "Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17312",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T12:00:02.282055+00:00",
+  "collected_at": "2026-06-17T12:00:02.282055+00:00",
+  "summary": "该论文提出了一种通过结构不确定性来量化大语言模型逻辑推理一致性的方法。核心价值在于为评估LLM推理可靠性提供了新的度量标准，有助于提升模型的可信度。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T12:00:42.580924+00:00"
+}
