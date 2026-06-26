@@ -12,3 +12,6 @@ pyyaml>=6.0
 
 # OpenAI SDK（可选，作为 httpx 的替代）
 # openai>=1.30.0
+
+# requirements.txt 添加 feedparser
+feedparser>=6.0.0
