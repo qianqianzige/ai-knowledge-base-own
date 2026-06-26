@@ -16,11 +16,11 @@ pipeline/rss_reader.py — RSS 数据源采集模块
 from __future__ import annotations
 
 import logging
-import re
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
+import feedparser
 import httpx
 import yaml
 
@@ -61,21 +61,36 @@ def collect_rss(limit: int = 10) -> list[dict[str, Any]]:
                 resp.raise_for_status()
                 feed_text = resp.text
 
-                # 简易 RSS 解析：提取 <item> 中的 <title> 和 <link>
-                items = re.findall(
-                    r"<item[^>]*>.*?<title[^>]*>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</title>.*?"
-                    r"<link[^>]*>(.*?)</link>.*?</item>",
-                    feed_text,
-                    re.DOTALL,
-                )
+                # 使用 feedparser 解析 RSS/Atom feed，替代正则解析
+                feed = feedparser.parse(feed_text)
 
-                for title, link in items:
+                for entry in feed.entries:
                     if count >= limit:
                         break
-                    title = title.strip()
-                    link = link.strip()
+
+                    title = entry.get("title", "").strip()
+                    link = entry.get("link", "").strip()
                     if not title or not link:
                         continue
+
+                    # 获取发布时间，优先 parsed 后的结构化时间
+                    published_at = ""
+                    if hasattr(entry, "published") and entry.published:
+                        published_at = entry.published
+                    elif hasattr(entry, "updated") and entry.updated:
+                        published_at = entry.updated
+
+                    # 获取描述/摘要
+                    raw_description = ""
+                    if hasattr(entry, "summary"):
+                        raw_description = entry.summary or ""
+                    elif hasattr(entry, "description"):
+                        raw_description = entry.description or ""
+
+                    # 获取作者
+                    author = source.get("name", "unknown")
+                    if hasattr(entry, "author") and entry.author:
+                        author = entry.author
 
                     now = datetime.now(timezone.utc).isoformat()
                     count += 1
@@ -84,14 +99,14 @@ def collect_rss(limit: int = 10) -> list[dict[str, Any]]:
                         "title": title,
                         "source": f"rss:{source['name']}",
                         "source_url": link,
-                        "author": source.get("name", "unknown"),
-                        "published_at": now,
-                        "raw_description": "",
+                        "author": author,
+                        "published_at": published_at,
+                        "raw_description": raw_description,
                         "category": source.get("category", "general"),
                         "collected_at": now,
                     })
 
-                logger.info("RSS [%s] 采集: %d 条", source["name"], len(items))
+                logger.info("RSS [%s] 采集: %d 条", source["name"], len(feed.entries))
 
             except httpx.HTTPError as e:
                 logger.warning("RSS 源 [%s] 获取失败: %s", source["name"], e)
