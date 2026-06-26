@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260626-015",
+  "title": "CALHippo - Mapping neurons and glial cells in the human brain hippocampus in 3D using SOTA segmentation and density estimation models [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uf8thw/calhippo_mapping_neurons_and_glial_cells_in_the/",
+  "author": "/u/V_ector",
+  "published_at": "2026-06-25T12:37:44+00:00",
+  "collected_at": "2026-06-26T08:40:38.590722+00:00",
+  "summary": "该研究提出CALHippo方法，利用CellPoseSAM等SOTA分割模型和密度估计网络，在3D空间中对人类海马体中的兴奋性/抑制性神经元及胶质细胞进行高分辨率映射。通过将高分辨率注释迁移到低分辨率切片并训练UNet进行密度估计，最终重建出三维点云，验证了生物学合理性，并被MICCAI 2026接收。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-26T08:41:49.190278+00:00"
+}

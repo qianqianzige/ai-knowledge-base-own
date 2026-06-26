@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260626-017",
+  "title": "Kuma: compiling PyTorch models into self-contained WebGPU executables [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ufl9tu/kuma_compiling_pytorch_models_into_selfcontained/",
+  "author": "/u/svictoroff",
+  "published_at": "2026-06-25T20:17:17+00:00",
+  "collected_at": "2026-06-26T08:40:38.590748+00:00",
+  "summary": "Kuma 是一个编译器/运行时项目，旨在将 PyTorch 模型编译为自包含的 WebGPU 可执行包，包含图结构、权重和内核，无需 Python 或服务器即可在浏览器中运行。该项目主要面向算子网络和科学 ML 场景，强调便携性和轻量级部署，作者正在寻求关于架构设计、是否重复造轮子以及现有系统对比的反馈。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-26T08:41:49.190288+00:00"
+}

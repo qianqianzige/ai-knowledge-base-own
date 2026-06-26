@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260626-008",
+  "title": "Showcase: geolocating a dashcam video without GPS, only from the footage [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ufx8nx/showcase_geolocating_a_dashcam_video_without_gps/",
+  "author": "/u/Ok-Apricot956",
+  "published_at": "2026-06-26T05:03:04+00:00",
+  "collected_at": "2026-06-26T08:40:38.590625+00:00",
+  "summary": "该项目提出了一种视觉地理定位方法，通过帧级地点识别、轨迹搜索和几何验证，仅从行车记录仪视频内容即可在地图上绘制路线，无需GPS。在纽约市12平方公里区域测试中表现良好，并注重处理不确定性。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-26T08:41:49.190232+00:00"
+}

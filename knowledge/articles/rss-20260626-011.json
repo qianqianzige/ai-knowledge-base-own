@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260626-011",
+  "title": "Made a free tool that automatically cuts the best clips from long videos — thought this community might find it useful [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ufzbpr/made_a_free_tool_that_automatically_cuts_the_best/",
+  "author": "/u/godblesed",
+  "published_at": "2026-06-26T06:57:13+00:00",
+  "collected_at": "2026-06-26T08:40:38.590668+00:00",
+  "summary": "Clipify 是一个开源工具，利用音频能量、文本分析和钩子检测自动从长视频中提取精彩片段，并支持多种输出格式。它无需订阅或云端上传，完全在本地运行，旨在减少手动剪辑工作。",
+  "score": 7,
+  "tags": [
+    "audio",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-26T08:41:49.190250+00:00"
+}

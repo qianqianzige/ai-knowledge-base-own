@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260626-014",
+  "title": "Optimising LMAPF guidance graphs using Evolutionary algorithms: Advice needed [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ufdzsr/optimising_lmapf_guidance_graphs_using/",
+  "author": "/u/Michi122211",
+  "published_at": "2026-06-25T15:54:31+00:00",
+  "collected_at": "2026-06-26T08:40:38.590709+00:00",
+  "summary": "该内容讨论了使用进化算法优化LMAPF（终身多智能体路径规划）中的引导图，以提升任务吞吐量。作者描述了当前算法的实现、面临的挑战（如适应度评估的随机性、高维搜索空间和低效的变异策略），并寻求改进建议。核心价值在于探索进化算法在路径规划中的实际应用，并揭示了优化过程中的关键难点。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "optimization",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-26T08:41:49.190272+00:00"
+}
