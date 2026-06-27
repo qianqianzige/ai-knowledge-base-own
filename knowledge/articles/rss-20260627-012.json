@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260627-012",
+  "title": "Live Continual Learning in Machine Learning [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ug7vxs/live_continual_learning_in_machine_learning_d/",
+  "author": "/u/fourwheels2512",
+  "published_at": "2026-06-26T14:08:21+00:00",
+  "collected_at": "2026-06-27T09:58:26.696807+00:00",
+  "summary": "该帖子讨论了在线持续学习（live continual learning）及其核心挑战——灾难性遗忘（catastrophic forgetting），作者认为这是一个前沿研究领域，但被版主误判为基础问题。内容引发了关于持续学习在实际应用中的技术难点和潜在研究方向的讨论。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-27T09:59:53.124812+00:00"
+}
