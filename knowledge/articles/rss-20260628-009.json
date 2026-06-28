@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260628-009",
+  "title": "MathFormer: Testing whether symbolic math is pattern matching or reasoning [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uhatw8/mathformer_testing_whether_symbolic_math_is/",
+  "author": "/u/AlphaCode1",
+  "published_at": "2026-06-27T18:57:56+00:00",
+  "collected_at": "2026-06-28T10:22:18.262057+00:00",
+  "summary": "MathFormer 通过一个仅 4M 参数的 seq2seq 模型在符号数学任务上达到 98.6% 的准确率，表明模型可能仅学习结构化的 token 变换而非真正的数学推理。该研究挑战了 LLM 在数学任务中展现“推理”能力的观点，暗示其本质是大规模模式补全。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-28T10:23:41.240773+00:00"
+}
