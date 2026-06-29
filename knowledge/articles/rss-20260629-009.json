@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260629-009",
+  "title": "Google's Agentic Peer-Reviewer Handled ~10K Papers at ICML/STOC — Formal Research Paper Now Out [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uio9rb/googles_agentic_peerreviewer_handled_10k_papers/",
+  "author": "/u/Justgototheeffinmoon",
+  "published_at": "2026-06-29T10:05:50+00:00",
+  "collected_at": "2026-06-29T12:24:42.726074+00:00",
+  "summary": "Google 在顶级计算机科学会议 ICML 和 STOC 上部署了基于智能体的 AI 审稿系统，处理了约 10,000 篇论文，平均审稿时间仅 30 分钟。正式研究论文显示，该系统在捕捉数学错误方面比零样本提示方法多出 34%，为大规模 AI 自动化科学评审树立了先例。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-29T12:26:01.405574+00:00"
+}

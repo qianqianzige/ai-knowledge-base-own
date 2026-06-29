@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260629-008",
+  "title": "Cerebras OpenAI deal capacity has effectively killed the waitlist for everyone else [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uiqhiv/cerebras_openai_deal_capacity_has_effectively/",
+  "author": "/u/Kortopi-98",
+  "published_at": "2026-06-29T12:00:06+00:00",
+  "collected_at": "2026-06-29T12:24:42.726040+00:00",
+  "summary": "Cerebras与OpenAI达成约200亿美元的芯片交易，导致其推理计算容量被单一客户预占，使得小型AI初创公司无法获得API访问权限。这凸显了AI基础设施资源分配不均的问题，对依赖高吞吐量推理的小型团队构成严重挑战。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-29T12:26:01.405571+00:00"
+}

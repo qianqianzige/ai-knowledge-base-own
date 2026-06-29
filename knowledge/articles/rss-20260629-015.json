@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260629-015",
+  "title": "I made a quiz that tells you which LLM you align with most, based on personality and values research across 15 models [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uin5ad/i_made_a_quiz_that_tells_you_which_llm_you_align/",
+  "author": "/u/DarkyPaky",
+  "published_at": "2026-06-29T09:00:12+00:00",
+  "collected_at": "2026-06-29T12:24:42.726158+00:00",
+  "summary": "该项目通过117道问题对15个主流LLM进行人格与价值观评估，并制作了交互式测验让用户找到与自己最契合的模型。研究揭示了模型在道德、政治、社会议题上的显著差异，并公开了完整数据集与人格框架分析结果。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-29T12:26:01.405599+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260629-010",
+  "title": "RAGless: Q-Q retrieval with score aggregation for closed-domain FAQ [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uilov7/ragless_qq_retrieval_with_score_aggregation_for/",
+  "author": "/u/xrobotx",
+  "published_at": "2026-06-29T07:33:17+00:00",
+  "collected_at": "2026-06-29T12:24:42.726092+00:00",
+  "summary": "RAGless 是一种面向封闭域 FAQ 的语义检索系统，通过预生成每个答案的多个问题变体并嵌入，在查询时匹配最相似的问题变体并聚合得分，直接返回预写答案，完全消除了生成步骤。相比标准 RAG，它在封闭域中提升了检索精度，但牺牲了灵活性。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "retrieval",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-29T12:26:01.405578+00:00"
+}

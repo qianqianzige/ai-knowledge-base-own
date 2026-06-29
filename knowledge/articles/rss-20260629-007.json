@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260629-007",
+  "title": "EML Trees are Universal Approximators [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uipl1t/eml_trees_are_universal_approximators_r/",
+  "author": "/u/JoeGermany",
+  "published_at": "2026-06-29T11:16:01+00:00",
+  "collected_at": "2026-06-29T12:24:42.726024+00:00",
+  "summary": "该论文证明了EML树（一种通过组合初等函数表示的函数结构）具有通用逼近能力，即能够以任意精度逼近连续函数等广泛函数空间中的函数。核心证明通过显式构造二元运算、多项式、双曲正切等“乐高”模块，并处理了对数函数定义域等技术难点，为神经符号学习和函数逼近提供了新视角。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-29T12:26:01.405566+00:00"
+}
