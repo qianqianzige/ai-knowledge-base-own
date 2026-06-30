@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260630-007",
+  "title": "Loss functions in Instance Representation Learning [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uj8nse/loss_functions_in_instance_representation/",
+  "author": "/u/No_Balance_9777",
+  "published_at": "2026-06-29T23:34:34+00:00",
+  "collected_at": "2026-06-30T10:50:21.106387+00:00",
+  "summary": "该帖子讨论了实例表示学习中损失函数的选择，特别是非参数Softmax和噪声对比估计（NCE）之间的权衡。作者指出，当数据集很大时，计算非参数Softmax的分母在计算上不可行，因此使用NCE来近似，但质疑为何不直接近似分母。帖子还探讨了NCE损失与负对数似然损失在梯度上的匹配关系。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-30T10:51:36.007086+00:00"
+}

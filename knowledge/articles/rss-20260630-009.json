@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260630-009",
+  "title": "I do historical swordfighting and noticed AI struggles to track it. I’m building an open dataset to help fix this. Does my schema make sense? [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uivddx/i_do_historical_swordfighting_and_noticed_ai/",
+  "author": "/u/fonssagrives",
+  "published_at": "2026-06-29T15:16:53+00:00",
+  "collected_at": "2026-06-30T10:50:21.106416+00:00",
+  "summary": "该项目构建了一个针对历史剑术（HEMA）的多视角视频数据集，旨在解决计算机视觉在高速运动、遮挡和运动模糊等极端场景下的跟踪难题。其JSON标注结构涵盖了元数据、时间戳、生物力学、视觉挑战和逐帧关键点/分割掩码，为轨迹预测和姿态估计提供了针对性测试数据。这是一个优秀的技术分享，将小众运动与AI研究瓶颈相结合，具有实际应用价值。",
+  "score": 7,
+  "tags": [
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-30T10:51:36.007089+00:00"
+}
