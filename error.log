@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/home/admin/ai-knowledge-base-own/pipeline/pipeline.py", line 28, in <module>
+    from rss_reader import collect_rss  # noqa: F401 — 重导出供内部使用
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/admin/ai-knowledge-base-own/pipeline/rss_reader.py", line 23, in <module>
+    import feedparser
+ModuleNotFoundError: No module named 'feedparser'

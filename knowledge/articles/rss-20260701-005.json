@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260701-005",
+  "title": "How to improve a 5-class Diabetic Retinopathy model (APTOS 2019) – Mixed predictions across classes[P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ujztdd/how_to_improve_a_5class_diabetic_retinopathy/",
+  "author": "/u/Delicious_Corner_754",
+  "published_at": "2026-06-30T19:58:49+00:00",
+  "collected_at": "2026-07-01T03:01:42.411089+00:00",
+  "summary": "一位计算机工程专业学生分享了在APTOS 2019数据集上训练5类糖尿病视网膜病变分类模型时遇到的预测不一致问题，包括类别混淆和高置信度错误预测。文章详细列出了已尝试的改进方法（如不同预训练模型、预处理、TTA等），并寻求关于领域偏移、类别不平衡、集成模型和预处理技巧的建议。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T03:02:46.708031+00:00"
+}

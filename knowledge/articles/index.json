@@ -1,0 +1,76 @@
+{
+  "updated_at": "2026-07-01T11:00:00Z",
+  "total": 7,
+  "articles": [
+    {
+      "id": "github-20260701-001",
+      "title": "DeepSpec — DeepSeek 开源全栈推测解码训练与评估框架",
+      "source": "github",
+      "source_url": "https://github.com/deepseek-ai/DeepSpec",
+      "collected_at": "2026-07-01T11:00:00Z",
+      "relevance_score": 0.9,
+      "tags": ["speculative-decoding", "large-language-model", "inference-acceleration", "deepseek", "pytorch"],
+      "status": "published"
+    },
+    {
+      "id": "github-20260701-002",
+      "title": "self-learning-skills — AI 编码 Agent 的自我进化元技能系统",
+      "source": "github",
+      "source_url": "https://github.com/Kulaxyz/self-learning-skills",
+      "collected_at": "2026-07-01T11:00:00Z",
+      "relevance_score": 0.86,
+      "tags": ["agent-framework", "self-improving", "meta-skill", "code-assistant", "ai-agent"],
+      "status": "published"
+    },
+    {
+      "id": "github-20260701-003",
+      "title": "Godcoder — Rust 构建的本地优先开源桌面编码 Agent",
+      "source": "github",
+      "source_url": "https://github.com/eli-labz/Godcoder",
+      "collected_at": "2026-07-01T11:00:00Z",
+      "relevance_score": 0.81,
+      "tags": ["coding-agent", "local-first", "rust", "mcp", "self-improving"],
+      "status": "published"
+    },
+    {
+      "id": "github-20260701-004",
+      "title": "OpenTag — CopilotKit 推出的开源 Slack AI Agent，替代 Claude in Slack",
+      "source": "github",
+      "source_url": "https://github.com/CopilotKit/OpenTag",
+      "collected_at": "2026-07-01T11:00:00Z",
+      "relevance_score": 0.71,
+      "tags": ["agent-framework", "slack-bot", "open-source", "copilotkit", "human-in-the-loop"],
+      "status": "published"
+    },
+    {
+      "id": "github-20260701-005",
+      "title": "theeleven — 11 个 AI Agent 驱动的去中心化足球预测市场",
+      "source": "github",
+      "source_url": "https://github.com/winsznx/theeleven",
+      "collected_at": "2026-07-01T11:00:00Z",
+      "relevance_score": 0.7,
+      "tags": ["ai-agents", "multi-agent", "defi", "mcp", "blockchain"],
+      "status": "published"
+    },
+    {
+      "id": "github-20260701-006",
+      "title": "Browser-BC — 基于行为克隆的浏览器 Agent 训练框架",
+      "source": "github",
+      "source_url": "https://github.com/Einsia/Browser-BC",
+      "collected_at": "2026-07-01T11:00:00Z",
+      "relevance_score": 0.7,
+      "tags": ["behavior-cloning", "gui-agent", "browser-automation", "skill-library", "agent-training"],
+      "status": "published"
+    },
+    {
+      "id": "github-20260701-007",
+      "title": "sim-use — 为 AI Agent 赋予移动模拟器视觉与触控能力",
+      "source": "github",
+      "source_url": "https://github.com/lycorp-jp/sim-use",
+      "collected_at": "2026-07-01T11:00:00Z",
+      "relevance_score": 0.69,
+      "tags": ["ai-agents", "mobile-automation", "gui-agent", "ios-simulator", "android-emulator"],
+      "status": "published"
+    }
+  ]
+}

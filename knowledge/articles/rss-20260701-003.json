@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260701-003",
+  "title": "A map of the latest 11 million papers split by semantic similarity and time slices [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ujn3u5/a_map_of_the_latest_11_million_papers_split_by/",
+  "author": "/u/icannotchangethename",
+  "published_at": "2026-06-30T11:55:44+00:00",
+  "collected_at": "2026-07-01T03:01:42.411061+00:00",
+  "summary": "该项目构建了一个包含1100万篇最新论文的交互式地图，通过SPECTER 2编码和UMAP降维实现语义相似性可视化，并支持时间切片浏览。它旨在帮助研究人员快速把握宏观科研趋势，提供关键词和语义搜索功能，以及机构、作者排名等分析层。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T03:02:46.708021+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "github-20260701-003",
+  "title": "Godcoder — Rust 构建的本地优先开源桌面编码 Agent",
+  "source": "github",
+  "source_url": "https://github.com/eli-labz/Godcoder",
+  "collected_at": "2026-07-01T11:00:00Z",
+  "summary": "本地优先的开源桌面编码 Agent，基于 Rust + Tauri 2 构建。核心差异化：Agent 能实时构建和优化自身工具链（Harness Mode），支持五种模式。Harness 模式下自动搭建沙箱、编写和改进 Agent 循环；CoWork 模式可操作桌面应用。支持 MCP、Voice API、图感知代码搜索。",
+  "tags": ["coding-agent", "local-first", "rust", "mcp", "self-improving"],
+  "relevance_score": 0.81,
+  "score_breakdown": {"tech_depth": 0.9, "practical_value": 0.8, "timeliness": 0.85, "community_heat": 0.55, "domain_match": 0.95},
+  "status": "published"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "github-20260701-002",
+  "title": "self-learning-skills — AI 编码 Agent 的自我进化元技能系统",
+  "source": "github",
+  "source_url": "https://github.com/Kulaxyz/self-learning-skills",
+  "collected_at": "2026-07-01T11:00:00Z",
+  "summary": "元技能系统：让 AI 编码 Agent 在编程过程中自动识别来之不易的黄金路径，将其采收为可复用的技能/规则文件，供下次会话自动加载。支持 Claude Code、Cursor、Codex、Aider 等主流 Agent，通过 npx skills CLI 一键安装。每节课有严格的晋升规则（通过校验 + 命名失败模式 + 死胡同排除），避免 Agent 陷入重复学习。",
+  "tags": ["agent-framework", "self-improving", "meta-skill", "code-assistant", "ai-agent"],
+  "relevance_score": 0.86,
+  "score_breakdown": {"tech_depth": 0.85, "practical_value": 0.9, "timeliness": 0.9, "community_heat": 0.65, "domain_match": 0.95},
+  "status": "published"
+}

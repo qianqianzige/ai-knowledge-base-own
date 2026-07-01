@@ -1,0 +1,12 @@
+{
+  "id": "github-20260701-004",
+  "title": "OpenTag — CopilotKit 推出的开源 Slack AI Agent，替代 Claude in Slack",
+  "source": "github",
+  "source_url": "https://github.com/CopilotKit/OpenTag",
+  "collected_at": "2026-07-01T11:00:00Z",
+  "summary": "CopilotKit 推出的开源 Slack AI Agent，可替代 Claude in Slack。Agent 能阅读频道消息、调用自定义工具、渲染富文本结果（图表、表格等），并支持人工确认网关（Human-in-the-loop）。基于 CopilotKit Bot SDK 构建，支持自托管（自带 LLM 密钥）或未来托管服务。架构简洁，一个系统 Prompt 控制行为，便于修改和扩展。",
+  "tags": ["agent-framework", "slack-bot", "open-source", "copilotkit", "human-in-the-loop"],
+  "relevance_score": 0.71,
+  "score_breakdown": {"tech_depth": 0.6, "practical_value": 0.8, "timeliness": 0.75, "community_heat": 0.6, "domain_match": 0.8},
+  "status": "published"
+}

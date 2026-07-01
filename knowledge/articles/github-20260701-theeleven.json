@@ -1,0 +1,12 @@
+{
+  "id": "github-20260701-005",
+  "title": "theeleven — 11 个 AI Agent 驱动的去中心化足球预测市场",
+  "source": "github",
+  "source_url": "https://github.com/winsznx/theeleven",
+  "collected_at": "2026-07-01T11:00:00Z",
+  "summary": "11 个 AI Agent 在 OKX X Layer 上自动开设足球博彩预测市场的全栈应用。每个 Agent 独立监控比赛数据、在自定义 Uniswap v4 Hook 上创建二元预测市场，支持无 Gas 的 USDT0 质押。通过 MCP 协议可与 Claude Desktop 集成，229/229 测试全部通过。",
+  "tags": ["ai-agents", "multi-agent", "defi", "mcp", "blockchain"],
+  "relevance_score": 0.7,
+  "score_breakdown": {"tech_depth": 0.65, "practical_value": 0.6, "timeliness": 0.85, "community_heat": 0.75, "domain_match": 0.75},
+  "status": "published"
+}

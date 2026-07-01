@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260701-010",
+  "title": "Are all LLM research papers nowadays 100+ pages beasts?[D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ujv03i/are_all_llm_research_papers_nowadays_100_pages/",
+  "author": "/u/NeighborhoodFatCat",
+  "published_at": "2026-06-30T17:04:35+00:00",
+  "collected_at": "2026-07-01T03:01:42.411153+00:00",
+  "summary": "该帖子讨论了当前LLM研究论文的趋势，指出许多论文篇幅超过100页、缺乏数学内容、使用专有模型且难以复现，并质疑其可读性和实用性。核心价值在于引发对LLM研究论文质量和受众的反思。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T03:02:46.708036+00:00"
+}
