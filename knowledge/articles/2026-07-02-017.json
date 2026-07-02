@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-02-017",
+  "title": "langchain-ai/langgraph",
+  "source": "github",
+  "url": "https://github.com/langchain-ai/langgraph",
+  "collected_at": "2026-07-02T08:14:22.636724+00:00",
+  "summary": "LangGraph 是一个用于构建弹性智能体（Agent）的框架，基于 LangChain 生态，支持有状态、多步骤的工作流编排。它通过图结构定义智能体的行为逻辑，允许开发者灵活组合 LLM、工具和记忆模块，实现复杂任务的可靠执行与错误恢复。",
+  "tags": [
+    "langchain",
+    "agent",
+    "workflow",
+    "state-machine",
+    "resilience"
+  ],
+  "relevance_score": 0.9,
+  "category": "framework",
+  "key_insight": "LangGraph 通过图计算模型将智能体行为显式建模为状态机，解决了传统 Agent 在复杂多步任务中的不可控和脆弱性问题。"
+}

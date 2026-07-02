@@ -170,5 +170,65 @@
     "title": "earendil-works/pi",
     "category": "framework",
     "relevance_score": 0.85
+  },
+  {
+    "id": "2026-07-02-010",
+    "title": "mem0ai/mem0",
+    "category": "framework",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-07-02-011",
+    "title": "headroomlabs-ai/headroom",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-07-02-012",
+    "title": "aaif-goose/goose",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-07-02-013",
+    "title": "CherryHQ/cherry-studio",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-07-02-014",
+    "title": "jeecgboot/JeecgBoot",
+    "category": "framework",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-07-02-015",
+    "title": "zhayujie/CowAgent",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-07-02-016",
+    "title": "HKUDS/nanobot",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-07-02-017",
+    "title": "langchain-ai/langgraph",
+    "category": "framework",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-07-02-018",
+    "title": "AstrBotDevs/AstrBot",
+    "category": "framework",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-07-02-019",
+    "title": "CopilotKit/CopilotKit",
+    "category": "framework",
+    "relevance_score": 0.85
   }
 ]
