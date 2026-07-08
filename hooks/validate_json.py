@@ -164,6 +164,10 @@ def main() -> int:
         if not path.suffix == ".json":
             print(f"[SKIP] 非 JSON 文件: {filepath}")
             continue
+        # index.json 是索引数组，不是单篇文章，跳过校验
+        if path.name == "index.json":
+            print(f"[SKIP] 索引文件: {filepath}")
+            continue
 
         total_files += 1
 

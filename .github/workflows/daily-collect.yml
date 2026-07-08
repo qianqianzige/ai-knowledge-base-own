@@ -58,6 +58,12 @@ jobs:
             echo "No new articles to commit"
           else
             ARTICLE_COUNT=$(git diff --staged --name-only | grep -c '\.json$' || true)
-            git commit -m "chore: daily collection - ${ARTICLE_COUNT} articles [$(date -u +%Y-%m-%d)]"
+            DIGEST_COUNT=$(git diff --staged --name-only | grep -c '\.md$' || true)
+            COMMIT_MSG="chore: daily collection - ${ARTICLE_COUNT} articles"
+            if [ "$DIGEST_COUNT" -gt 0 ]; then
+              COMMIT_MSG="${COMMIT_MSG}, ${DIGEST_COUNT} digest"
+            fi
+            COMMIT_MSG="${COMMIT_MSG} [$(date -u +%Y-%m-%d)]"
+            git commit -m "$COMMIT_MSG"
             git push
           fi
