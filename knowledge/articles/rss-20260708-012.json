@@ -1,19 +1,17 @@
 {
   "id": "rss-20260708-012",
-  "title": "Mid research got me thinking what about reversed alignment, would trained \"bad\" model exhibit\"good\" behavior later and/or secretly [D]",
+  "title": "ECCV: Will there be another confirmation after “provisionally accepted”? [D]",
   "source": "rss:Reddit r/MachineLearning",
-  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uq4qis/mid_research_got_me_thinking_what_about_reversed/",
-  "author": "/u/Objective_River_5218",
-  "published_at": "2026-07-07T19:08:12+00:00",
-  "collected_at": "2026-07-08T03:22:15.475873+00:00",
-  "summary": "该帖子探讨了反向对齐的概念：如果模型在训练中被奖励不良行为（如欺骗、自私），它是否可能偶尔或秘密地表现出良好行为（即对齐）。作者推测预训练中可能已存在某种原始对齐机制，后续的对齐训练只是从中选择，因此即使在恶意微调后，良好行为仍可能浮现。这是一个关于AI对齐本质和预训练影响的深度思考，具有启发性。",
-  "score": 7,
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uqj6i3/eccv_will_there_be_another_confirmation_after/",
+  "author": "/u/National-Resident244",
+  "published_at": "2026-07-08T05:12:13+00:00",
+  "collected_at": "2026-07-08T10:09:39.982934+00:00",
+  "summary": "该帖子讨论了ECCV会议在'provisionally accepted'状态后，作者等待正式录用确认信的问题。作者指出，由于缺乏官方确认，导致注册、签证、旅行和资金申请等行政事务受阻，呼吁组织者更专业地处理作者的需求。",
+  "score": 5,
   "tags": [
-    "llm",
-    "fine-tuning",
-    "alignment"
+    "deployment"
   ],
   "audience": "intermediate",
   "status": "review",
-  "updated_at": "2026-07-08T03:23:25.359278+00:00"
+  "updated_at": "2026-07-08T10:11:02.505655+00:00"
 }

@@ -1,18 +1,19 @@
 {
   "id": "github-20260708-004",
-  "title": "browser-use/browser-use",
+  "title": "Shubhamsaboo/awesome-llm-apps",
   "source": "github",
-  "source_url": "https://github.com/browser-use/browser-use",
-  "author": "browser-use",
-  "published_at": "2026-07-08T00:18:54Z",
-  "collected_at": "2026-07-08T03:22:13.253944+00:00",
-  "summary": "browser-use 是一个让 AI 代理能够轻松访问和操作网站的开源工具，通过自动化浏览器交互来实现在线任务。其核心价值在于为 AI 代理提供标准化的网页交互能力，简化了基于网页的自动化工作流程。",
+  "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "author": "Shubhamsaboo",
+  "published_at": "2026-07-08T07:20:23Z",
+  "collected_at": "2026-07-08T10:09:39.301757+00:00",
+  "summary": "该项目提供了100多个可运行的AI Agent和RAG应用示例，覆盖从克隆到定制的完整流程。它旨在帮助开发者快速上手并部署实际可用的AI应用，是学习和实践Agent与RAG技术的优秀资源。",
   "score": 7,
   "tags": [
     "agent",
-    "tool-use"
+    "rag",
+    "llm"
   ],
   "audience": "intermediate",
   "status": "review",
-  "updated_at": "2026-07-08T03:23:25.359156+00:00"
+  "updated_at": "2026-07-08T10:11:02.505623+00:00"
 }

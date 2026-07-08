@@ -1,18 +1,18 @@
 {
   "id": "rss-20260708-003",
-  "title": "TorchJD: Training with multiple losses in PyTorch [P]",
-  "source": "rss:Reddit r/MachineLearning",
-  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/",
-  "author": "/u/Skeylos2",
-  "published_at": "2026-07-07T16:20:47+00:00",
-  "collected_at": "2026-07-08T03:22:15.475745+00:00",
-  "summary": "TorchJD 是一个被 PyTorch 生态系统接受的库，用于处理多损失训练，支持标量化和雅可比下降两种方法，用户只需更改几行代码即可切换。该库实现了文献中的大多数现有方法，旨在成为多损失训练的首选工具，并欢迎社区贡献。",
+  "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+  "author": "LabsLucas",
+  "published_at": "Mon, 06 Jul 2026 15:01:18 +0000",
+  "collected_at": "2026-07-08T10:09:39.391522+00:00",
+  "summary": "AMD 推出 Ryzen AI Halo 开发者套件，售价 4000 美元，旨在为 AI 开发者提供高性能本地推理和开发平台。该套件集成了强大的 CPU 和 GPU 计算能力，适合运行大型语言模型和复杂 AI 工作负载。",
   "score": 7,
   "tags": [
-    "fine-tuning",
-    "deployment"
+    "deployment",
+    "llm"
   ],
   "audience": "intermediate",
   "status": "review",
-  "updated_at": "2026-07-08T03:23:25.359249+00:00"
+  "updated_at": "2026-07-08T10:11:02.505649+00:00"
 }

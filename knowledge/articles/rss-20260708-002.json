@@ -1,17 +1,19 @@
 {
   "id": "rss-20260708-002",
-  "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-  "source": "rss:Reddit r/MachineLearning",
-  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uk949b/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-  "author": "/u/AutoModerator",
-  "published_at": "2026-07-01T02:30:09+00:00",
-  "collected_at": "2026-07-08T03:22:15.475727+00:00",
-  "summary": "该帖子是Reddit机器学习社区的月度招聘与求职帖，提供了标准化的模板供雇主和求职者发布信息。内容聚焦于机器学习领域的职位匹配，旨在促进社区内的职业交流。",
-  "score": 5,
+  "title": "GLM 5.2 and the coming AI margin collapse",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+  "author": "martinald",
+  "published_at": "Mon, 06 Jul 2026 20:14:55 +0000",
+  "collected_at": "2026-07-08T10:09:39.391505+00:00",
+  "summary": "文章探讨了GLM 5.2模型发布后可能引发的AI行业利润率下降趋势，分析了模型性能提升与商业化成本之间的张力，并预测了市场整合与竞争加剧的潜在影响。核心价值在于为AI从业者提供了关于技术迭代与商业模式演变的战略视角。",
+  "score": 7,
   "tags": [
-    "deployment"
+    "llm",
+    "deployment",
+    "reasoning"
   ],
   "audience": "intermediate",
   "status": "review",
-  "updated_at": "2026-07-08T03:23:25.359246+00:00"
+  "updated_at": "2026-07-08T10:11:02.505643+00:00"
 }
