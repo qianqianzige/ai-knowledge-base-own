@@ -347,6 +347,118 @@ def step_save(items: list[dict[str, Any]], dry_run: bool = False) -> list[Path]:
     return saved_files
 
 
+# ── Step 5: 汇总（Summarize） ──────────────────────────────────────────
+
+DIGEST_DIR = PROJECT_ROOT / "knowledge" / "digests"
+
+SUMMARIZE_PROMPT_TEMPLATE = """你是一位 AI 技术领域的主编，请根据以下今日采集的知识条目，撰写一篇结构化的中文技术日报。
+
+## 今日采集条目
+
+{entries_text}
+
+## 要求
+
+1. 按技术领域分类（如 Agent、LLM、RAG、工具、框架等），每个类别下列出重点项目
+2. 每个项目用 1-2 句话概括其核心亮点
+3. 开头写一段 2-3 句话的「今日概览」，总结整体趋势
+4. 结尾写一段「值得关注的趋势」，指出跨项目的共性方向
+5. 用 Markdown 格式输出，层级清晰
+6. 不要编造条目中没有的项目
+"""
+
+
+def step_summarize(items: list[dict[str, Any]], dry_run: bool = False) -> Path | None:
+    """
+    Step 5: 将当日采集的条目汇总为一篇 Markdown 技术日报。
+
+    Args:
+        items: 整理后的文章列表
+        dry_run: 仅模拟，不实际写入
+
+    Returns:
+        生成的日报文件路径，或 None
+    """
+    print(f"\n{'='*60}")
+    print(f"📝 Step 5: 汇总生成日报（{len(items)} 条内容）")
+    print(f"{'='*60}")
+
+    if not items:
+        print("  没有条目，跳过汇总")
+        return None
+
+    # 构建条目文本
+    entries_text = ""
+    for item in items:
+        entries_text += (
+            f"- **{item.get('title', '未知')}** "
+            f"(来源: {item.get('source', 'unknown')}, "
+            f"评分: {item.get('score', '?')}/10)\n"
+            f"  摘要: {item.get('summary', '无')}\n"
+            f"  标签: {', '.join(item.get('tags', []))}\n"
+            f"  链接: {item.get('source_url', '')}\n\n"
+        )
+
+    # 如果条目太多，截断控制 token
+    max_entries_chars = 8000
+    if len(entries_text) > max_entries_chars:
+        entries_text = entries_text[:max_entries_chars] + "\n... (更多条目已省略)"
+
+    prompt = SUMMARIZE_PROMPT_TEMPLATE.format(entries_text=entries_text)
+
+    provider = create_provider()
+    try:
+        response = chat_with_retry(
+            provider,
+            messages=[
+                {"role": "system", "content": "你是一位资深 AI 技术编辑，擅长从大量信息中提炼趋势和亮点。"},
+                {"role": "user", "content": prompt},
+            ],
+            temperature=0.5,
+            max_tokens=2000,
+        )
+
+        digest_content = response.content.strip()
+        cost = estimate_cost(provider.model, response.usage)
+        print(f"  LLM 汇总完成，估算成本: ${cost:.6f}")
+
+    except Exception as e:
+        logger.error("汇总 LLM 调用失败: %s", e)
+        # LLM 失败时用简单模板生成
+        today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        digest_content = f"# AI 技术日报 — {today}\n\n"
+        digest_content += "> ⚠️ LLM 汇总失败，以下为自动生成的条目列表。\n\n"
+        for item in items:
+            digest_content += (
+                f"- **{item.get('title', '未知')}** — {item.get('summary', '')[:100]}\n"
+            )
+        print(f"  LLM 汇总失败，使用简单模板: {e}")
+    finally:
+        provider.close()
+
+    # 添加页脚元数据
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    footer = (
+        f"\n\n---\n\n"
+        f"*本日报由 AI 知识库自动生成 | 日期: {today} | "
+        f"条目数: {len(items)}*\n"
+    )
+    digest_content += footer
+
+    # 写入文件
+    DIGEST_DIR.mkdir(parents=True, exist_ok=True)
+    digest_path = DIGEST_DIR / f"{today}.md"
+
+    if dry_run:
+        print(f"  [DRY RUN] 将保存: {digest_path}")
+    else:
+        with open(digest_path, "w", encoding="utf-8") as f:
+            f.write(digest_content)
+        print(f"  已保存日报: {digest_path}")
+
+    return digest_path
+
+
 # ── 主流程 ───────────────────────────────────────────────────────────────
 
 def run_pipeline(
@@ -354,6 +466,7 @@ def run_pipeline(
     limit: int = 20,
     dry_run: bool = False,
     steps: list[int] | None = None,
+    summarize: bool = True,
 ) -> dict[str, Any]:
     """
     运行完整的四步流水线。
@@ -362,12 +475,13 @@ def run_pipeline(
         sources: 数据源列表
         limit: 每个源的最大采集数
         dry_run: 仅模拟运行
-        steps: 要执行的步骤列表（1-4），默认全部执行
+        steps: 要执行的步骤列表（1-5），默认全部执行
+        summarize: 是否在保存后生成汇总日报
 
     Returns:
         运行统计信息
     """
-    run_steps = set(steps) if steps else {1, 2, 3, 4}
+    run_steps = set(steps) if steps else {1, 2, 3, 4, 5}
 
     start_time = datetime.now()
     print(f"\n{'#'*60}")
@@ -380,6 +494,7 @@ def run_pipeline(
     analyzed_items: list[dict] = []
     organized_items: list[dict] = []
     saved_files: list[str] = []
+    digest_path: str = ""
 
     # Step 1: 采集
     if 1 in run_steps:
@@ -400,6 +515,12 @@ def run_pipeline(
     if 4 in run_steps and organized_items:
         saved_files = step_save(organized_items, dry_run=dry_run)
 
+    # Step 5: 汇总生成日报
+    if 5 in run_steps and summarize and organized_items:
+        result = step_summarize(organized_items, dry_run=dry_run)
+        if result:
+            digest_path = str(result)
+
     # 统计
     elapsed = (datetime.now() - start_time).total_seconds()
     stats = {
@@ -407,6 +528,7 @@ def run_pipeline(
         "analyzed": len(analyzed_items),
         "organized": len(organized_items),
         "saved": len(saved_files),
+        "digest": digest_path,
         "elapsed_seconds": round(elapsed, 1),
         "dry_run": dry_run,
     }
@@ -415,6 +537,8 @@ def run_pipeline(
     print(f"# 流水线完成！耗时 {elapsed:.1f} 秒")
     print(f"# 采集: {stats['collected']} → 分析: {stats['analyzed']} "
           f"→ 整理: {stats['organized']} → 保存: {stats['saved']}")
+    if digest_path:
+        print(f"# 日报: {digest_path}")
     print(f"{'#'*60}\n")
 
     return stats
@@ -467,6 +591,11 @@ def main() -> None:
         default=None,
         help="LLM 提供商（deepseek/qwen/openai），覆盖环境变量 LLM_PROVIDER",
     )
+    parser.add_argument(
+        "--no-summarize",
+        action="store_true",
+        help="不生成汇总日报（默认生成）",
+    )
 
     args = parser.parse_args()
 
@@ -486,6 +615,7 @@ def main() -> None:
         limit=args.limit,
         dry_run=args.dry_run,
         steps=args.step,
+        summarize=not args.no_summarize,
     )
 
 
