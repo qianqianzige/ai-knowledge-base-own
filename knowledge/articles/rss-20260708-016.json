@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260708-016",
+  "title": "How should I encode both target and feature variable for a multiclass classification? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1upa8yc/how_should_i_encode_both_target_and_feature/",
+  "author": "/u/Rami02021",
+  "published_at": "2026-07-06T21:07:37+00:00",
+  "collected_at": "2026-07-08T03:22:15.475951+00:00",
+  "summary": "该内容讨论了在多分类任务中如何对特征变量和目标变量进行编码，指出特征变量（含数值和类别）通常使用独热编码，而目标变量（多类别）应使用标签编码而非独热编码，以避免维度爆炸和模型误解。这是一个针对XGBoost等模型的实用编码指南，解决了常见的数据预处理困惑。",
+  "score": 6,
+  "tags": [
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T03:23:25.359291+00:00"
+}

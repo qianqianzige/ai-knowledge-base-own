@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260708-015",
+  "title": "TRACE: open-source hierarchical memory for LLM agents, 82.5% on MemoryAgentBench’s EventQA using gpt-oss-20B [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uoz5jo/trace_opensource_hierarchical_memory_for_llm/",
+  "author": "/u/PsychologicalDot7749",
+  "published_at": "2026-07-06T14:35:56+00:00",
+  "collected_at": "2026-07-08T03:22:15.475938+00:00",
+  "summary": "TRACE 是一个开源的分层记忆系统，通过将对话历史组织成主题树结构（分支+摘要）来提升 LLM 代理的记忆检索能力。在 MemoryAgentBench 的 EventQA 任务上，使用 gpt-oss-20B 模型达到 82.5% F1 分数，显著优于 Mem0 和 MemGPT 等基线方法。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "rag",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T03:23:25.359288+00:00"
+}

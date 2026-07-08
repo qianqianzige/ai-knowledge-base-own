@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260708-018",
+  "title": "CPU TTS benchmark with UTMOS MOS scoring: Kokoro, Supertonic, Inflect-Nano, and Kyutai's new Pocket TTS [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1up0azr/cpu_tts_benchmark_with_utmos_mos_scoring_kokoro/",
+  "author": "/u/gvij",
+  "published_at": "2026-07-06T15:17:36+00:00",
+  "collected_at": "2026-07-08T03:22:15.475977+00:00",
+  "summary": "该基准测试在CPU上对Kokoro、Supertonic、Inflect-Nano和Pocket TTS四种TTS模型进行了客观MOS评分和实时因子(RTF)对比。核心发现包括：Pocket TTS的流式LM架构具有平坦的RTF缩放特性，适合交互式系统；UTMOS在小声码器上存在失效模式，无法区分“干净机械”与“干净自然”；Inflect-Nano存在未文档化的输出长度限制。",
+  "score": 8,
+  "tags": [
+    "audio",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T03:23:25.359297+00:00"
+}

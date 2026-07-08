@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260708-014",
+  "title": "LingBot-Vision: masked boundary modeling for self-supervised pretraining (0.296 NYUv2 linear-probe RMSE at 1.1B vs 0.309 for DINOv3-7B, trails on ImageNet); weights in 4 sizes[R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/",
+  "author": "/u/StillThese3747",
+  "published_at": "2026-07-06T17:37:58+00:00",
+  "collected_at": "2026-07-08T03:22:15.475924+00:00",
+  "summary": "LingBot-Vision 提出了一种名为“掩码边界建模”的自监督预训练方法，通过让教师网络在线预测密集边界场，强制学生网络重建无法通过上下文推断的边界区域，从而提升视觉表示学习效果。在 NYUv2 深度估计任务上，1.1B 参数模型以 0.296 RMSE 优于 DINOv3-7B 的 0.309，且仅使用 1.61 亿张图像（不到 DINOv3 的三分之一），但在 ImageNet 分类上仍落后于 DINOv3 系列。该方法开源了 4 种尺寸的权重，并提供了代码和报告。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "self-supervised-learning",
+    "pretraining"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T03:23:25.359284+00:00"
+}

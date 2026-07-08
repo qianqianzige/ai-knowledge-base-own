@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260708-007",
+  "title": "Raffi Krikorian (CTO, Mozilla) — AMA on the State of Open Source AI (July 14 @ 1pm EDT) [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1upxdvc/raffi_krikorian_cto_mozilla_ama_on_the_state_of/",
+  "author": "/u/raffikrikorian",
+  "published_at": "2026-07-07T14:51:29+00:00",
+  "collected_at": "2026-07-08T03:22:15.475805+00:00",
+  "summary": "Mozilla CTO Raffi Krikorian 举办 AMA，讨论其即将发布的《State of Open Source AI》报告，涵盖开源 AI 在生产中的实际成本、企业采用现状、中国模型的影响、开发者信任度以及“代理化”趋势。该内容为社区提供了关于开源 AI 生态系统的深度见解和实用分析。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T03:23:25.359262+00:00"
+}

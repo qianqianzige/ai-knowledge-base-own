@@ -1,0 +1,19 @@
+{
+  "id": "github-20260708-006",
+  "title": "OpenHands/OpenHands",
+  "source": "github",
+  "source_url": "https://github.com/OpenHands/OpenHands",
+  "author": "OpenHands",
+  "published_at": "2026-07-07T22:18:02Z",
+  "collected_at": "2026-07-08T03:22:13.253960+00:00",
+  "summary": "OpenHands 是一个基于 GitHub 的开源项目，旨在通过 AI 驱动软件开发流程，提升开发效率。该项目可能涉及代码生成、自动化任务或智能助手功能，为开发者提供实用的工具支持。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T03:23:25.359166+00:00"
+}

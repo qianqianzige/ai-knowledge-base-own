@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260708-004",
+  "title": "Ph.D. thesis on Differentiable Ray Tracing for Radio Propagation Modeling [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1upvkp5/phd_thesis_on_differentiable_ray_tracing_for/",
+  "author": "/u/jeertmans",
+  "published_at": "2026-07-07T13:45:40+00:00",
+  "collected_at": "2026-07-08T03:22:15.475759+00:00",
+  "summary": "该博士论文系统介绍了可微分光线追踪在无线电传播建模中的应用，通过将自动微分（如JAX）集成到光线追踪管线中，实现了对复杂物理环境的精确梯度计算，从而支持逆问题求解和机器学习模型训练。论文分为物理基础、算法构建和实际应用三部分，并强调了可重复开源软件的重要性。",
+  "score": 8,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T03:23:25.359252+00:00"
+}

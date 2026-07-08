@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260708-017",
+  "title": "Edge AI ASL Recognition on Raspberry Pi 5 – Looking for Feedback on My System Design [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1up3kby/edge_ai_asl_recognition_on_raspberry_pi_5_looking/",
+  "author": "/u/Unlikely_Let_9147",
+  "published_at": "2026-07-06T17:10:57+00:00",
+  "collected_at": "2026-07-08T03:22:15.475963+00:00",
+  "summary": "该帖子介绍了在Raspberry Pi 5上实现离线美国手语（ASL）识别系统的设计，使用MediaPipe提取手部关键点，并利用TensorFlow Lite进行模型推理。作者正在寻求关于1D CNN、MLP和GRU架构在低延迟边缘部署场景下的权衡建议，核心价值在于为嵌入式设备上的手势识别提供实践参考。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T03:23:25.359294+00:00"
+}

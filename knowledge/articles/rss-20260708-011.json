@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260708-011",
+  "title": "Machine learning industry job requirements used to be myopic, but now it feels impossible. Anyone else seeing this? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uov7or/machine_learning_industry_job_requirements_used/",
+  "author": "/u/NeighborhoodFatCat",
+  "published_at": "2026-07-06T11:57:00+00:00",
+  "collected_at": "2026-07-08T03:22:15.475860+00:00",
+  "summary": "Reddit用户抱怨当前机器学习行业职位要求过于宽泛且不切实际，例如要求同时精通LLM、机器人动力学、CUDA编程等多个深度领域，并引用数学家Terence Tao的观点指出这种跨领域专长极为罕见。该帖子反映了行业招聘标准可能脱离现实，引发对人才市场供需失衡的讨论。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "vision",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T03:23:25.359275+00:00"
+}

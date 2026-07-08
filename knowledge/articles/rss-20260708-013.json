@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260708-013",
+  "title": "Masked depth modeling with sensor-validity masking: reports best RMSE on 7 of 8 masked/sparse depth benchmarks, plus a controlled encoder-init study[R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1upqghy/masked_depth_modeling_with_sensorvalidity_masking/",
+  "author": "/u/Ok-Line2658",
+  "published_at": "2026-07-07T09:54:50+00:00",
+  "collected_at": "2026-07-08T03:22:15.475910+00:00",
+  "summary": "该研究提出了一种基于传感器有效性的掩码深度建模方法，利用RGB-D相机自然缺失区域（如高光、透明表面）作为训练信号，在7/8个掩码/稀疏深度基准上取得最佳RMSE。通过控制编码器初始化和数据规模实验，验证了LingBot-Vision骨干网络的优势，并在透明物体深度估计上实现显著提升。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T03:23:25.359282+00:00"
+}

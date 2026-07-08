@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260708-010",
+  "title": "[D] Issue with arxiv - abstract not matching pdf/html [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1upr21d/d_issue_with_arxiv_abstract_not_matching_pdfhtml_d/",
+  "author": "/u/Ok-Painter573",
+  "published_at": "2026-07-07T10:26:18+00:00",
+  "collected_at": "2026-07-08T03:22:15.475847+00:00",
+  "summary": "用户报告arXiv上openRLHF论文的摘要页面错误地显示了另一篇论文“REINFORCE++”的摘要，而PDF和HTML版本内容正确，怀疑是arXiv的符号链接问题。该问题可能影响论文检索和引用准确性，需要arXiv工作人员修复。",
+  "score": 5,
+  "tags": [
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T03:23:25.359272+00:00"
+}

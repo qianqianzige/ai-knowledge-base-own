@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260708-005",
+  "title": "MIRA: Multiplayer Interactive World Models trained on Rocket League [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/",
+  "author": "/u/MasterScrat",
+  "published_at": "2026-07-07T07:59:10+00:00",
+  "collected_at": "2026-07-08T03:22:15.475773+00:00",
+  "summary": "MIRA是一个基于5B参数的世界模型，在1万小时合成《火箭联盟》数据上训练，支持4名玩家以20fps实时交互。该项目由General Intuition、Kyutai和Epic Games合作开发，已开源技术报告、数据集和可玩演示，代表了交互式世界模型在游戏领域的重大进展。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T03:23:25.359256+00:00"
+}

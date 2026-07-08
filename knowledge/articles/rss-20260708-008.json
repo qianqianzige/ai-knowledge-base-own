@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260708-008",
+  "title": "What if a model could only learn what trusted LoRA adapters can express? [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uq68li/what_if_a_model_could_only_learn_what_trusted/",
+  "author": "/u/Bright_Warning_8406",
+  "published_at": "2026-07-07T20:00:11+00:00",
+  "collected_at": "2026-07-08T03:22:15.475820+00:00",
+  "summary": "该论文提出了一种通过将微调限制在可信LoRA适配器所表达的子空间内，来防御针对模型微调投毒攻击的方法。实验表明，该方法能显著降低攻击成功率，同时保留大部分有用适应能力，为模型安全微调提供了新思路。",
+  "score": 8,
+  "tags": [
+    "fine-tuning",
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T03:23:25.359265+00:00"
+}

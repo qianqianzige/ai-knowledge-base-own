@@ -1,0 +1,19 @@
+{
+  "id": "github-20260708-018",
+  "title": "langchain-ai/langgraph",
+  "source": "github",
+  "source_url": "https://github.com/langchain-ai/langgraph",
+  "author": "langchain-ai",
+  "published_at": "2026-07-06T20:40:30Z",
+  "collected_at": "2026-07-08T03:22:13.254071+00:00",
+  "summary": "LangGraph 是一个用于构建有状态、多步骤 AI 代理的框架，支持复杂工作流和工具调用。它通过图结构管理代理逻辑，使开发更具弹性和可扩展性。该项目在 GitHub 上广受关注，是构建生产级代理应用的核心工具。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T03:23:25.359227+00:00"
+}
