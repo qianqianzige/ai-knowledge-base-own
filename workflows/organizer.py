@@ -44,19 +44,21 @@ def organize_node(state: KBState) -> dict:
 
     # Step 3: 格式化为标准 article
     articles: list[dict] = []
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    today = datetime.now(timezone.utc).strftime("%Y%m%d")
     for i, item in enumerate(unique):
+        source = item.get("source", "unknown")
         articles.append({
-            "id": f"{today}-{i:03d}",
+            "id": f"{source}-{today}-{i:03d}",
             "title": item.get("title", ""),
             "source": item.get("source", "unknown"),
-            "url": item.get("url", ""),
+            "source_url": item.get("source_url", "") or item.get("url", ""),
             "collected_at": item.get("collected_at", ""),
             "summary": item.get("summary", ""),
             "tags": item.get("tags", []),
             "relevance_score": item.get("relevance_score", 0.5),
             "category": item.get("category", "other"),
             "key_insight": item.get("key_insight", ""),
+            "status": item.get("status", "review"),
         })
 
     print(f"[Organizer] 整理出 {len(articles)} 条知识条目（准备入库）")
@@ -97,6 +99,10 @@ def _save_articles_to_disk(articles: list[dict], tracker: dict) -> None:
             index.append({
                 "id": article["id"],
                 "title": article["title"],
+                "source_url": article.get("source_url", ""),
+                "summary": article.get("summary", ""),
+                "tags": article.get("tags", []),
+                "status": article.get("status", "review"),
                 "category": article.get("category", "other"),
                 "relevance_score": article.get("relevance_score", 0.5),
             })
@@ -106,4 +112,3 @@ def _save_articles_to_disk(articles: list[dict], tracker: dict) -> None:
 
     print(f"[Organizer] 已写入 {len(articles)} 篇到磁盘")
     print(f"[Organizer] 本次运行总成本: ¥{tracker.get('total_cost_yuan', 0)}")
-
