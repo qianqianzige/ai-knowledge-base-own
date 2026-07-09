@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260709-008",
+  "title": "TorchJD: Training with multiple losses in PyTorch [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/",
+  "author": "/u/Skeylos2",
+  "published_at": "2026-07-07T16:20:47+00:00",
+  "collected_at": "2026-07-09T10:47:56.251587+00:00",
+  "summary": "TorchJD 是一个已加入 PyTorch 生态的库，用于处理多损失训练，支持标量化和雅可比下降两种方法。它集成了文献中多种现有方法，允许用户通过少量代码更改切换不同策略，旨在成为多损失训练的首选工具。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-09T10:49:25.566363+00:00"
+}

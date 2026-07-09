@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260709-013",
+  "title": "Agentic safety triggers aren't textual safety triggers — MCP attacks that beat SOTA guardrails more than half the time (code + dataset) [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ur1fnz/agentic_safety_triggers_arent_textual_safety/",
+  "author": "/u/mlsandwich",
+  "published_at": "2026-07-08T18:36:04+00:00",
+  "collected_at": "2026-07-09T10:47:56.251656+00:00",
+  "summary": "本文揭示了LLM代理的安全防护机制存在根本性缺陷：传统基于文本分类的防护无法检测通过工具调用序列实施的攻击。实验表明，即使最先进的安全微调方法（DPO、SafeDPO）也只能将拒绝率提升至48%，而无需微调的方法可将拒绝率提升至基线水平的3倍。该研究强调了针对代理工具使用场景开发新型安全触发机制的必要性。",
+  "score": 8,
+  "tags": [
+    "security",
+    "agent",
+    "llm",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-09T10:49:25.566366+00:00"
+}

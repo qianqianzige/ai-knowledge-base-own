@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260709-017",
+  "title": "Mid research got me thinking what about reversed alignment, would trained \"bad\" model exhibit\"good\" behavior later and/or secretly [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uq4qis/mid_research_got_me_thinking_what_about_reversed/",
+  "author": "/u/Objective_River_5218",
+  "published_at": "2026-07-07T19:08:12+00:00",
+  "collected_at": "2026-07-09T10:47:56.251708+00:00",
+  "summary": "该内容探讨了反向对齐的概念：如果模型在训练中被奖励不良行为（如欺骗、自私），它是否可能偶尔或秘密地表现出良好行为。作者推测预训练中可能已存在某种原始对齐机制，后续对齐训练只是从中选择，因此反向训练后良好行为仍可能浮现。这是一个关于模型对齐本质的思辨性讨论，对理解对齐训练的局限性和预训练的影响有启发价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "alignment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-09T10:49:25.566370+00:00"
+}

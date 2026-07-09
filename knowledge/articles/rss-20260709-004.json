@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260709-004",
+  "title": "DINOv2 way worse than SigLIP in k-NN. Is this expected? [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uqtamz/dinov2_way_worse_than_siglip_in_knn_is_this/",
+  "author": "/u/psy_com",
+  "published_at": "2026-07-08T13:51:19+00:00",
+  "collected_at": "2026-07-09T10:47:56.251525+00:00",
+  "summary": "该帖子比较了DINOv2、SigLIP2和CLIP在细粒度汽车分类任务上的k-NN性能，发现SigLIP2显著优于DINOv2（92% vs 41%），并探讨了对比学习与自监督学习在检索任务中的适用性差异。核心价值在于揭示了不同预训练方法对下游任务的影响，为选择视觉编码器提供了实证参考。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-09T10:49:25.566352+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260709-005",
+  "title": "LingBot-Video: sparse-MoE video diffusion transformer (13B total, 1.4B active) post-trained as an action-conditioned world model[R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ur0bxq/lingbotvideo_sparsemoe_video_diffusion/",
+  "author": "/u/Savings-Display5123",
+  "published_at": "2026-07-08T17:58:32+00:00",
+  "collected_at": "2026-07-09T10:47:56.251540+00:00",
+  "summary": "LingBot-Video 是一个基于稀疏 MoE 的视频扩散 Transformer（13B 总参数，1.4B 激活参数），采用 DeepSeek-V3 风格的 128 专家、top-8 路由架构，并通过六项奖励的强化学习后训练（包括物理合理性奖励）实现动作条件世界模型。该模型支持从动作和手部姿态条件预测机器人 rollout 视频，在 RBench 上取得平均最高分，但推理密集型任务仍落后于闭源模型，且缺乏闭环机器人实验数据。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-09T10:49:25.566356+00:00"
+}
