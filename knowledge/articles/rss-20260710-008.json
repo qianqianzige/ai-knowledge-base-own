@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260710-008",
+  "title": "I built IMGNet – a face verification model that identifies people using sign patterns, not cosine similarity [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1urxvxh/i_built_imgnet_a_face_verification_model_that/",
+  "author": "/u/img-_-",
+  "published_at": "2026-07-09T18:00:10+00:00",
+  "collected_at": "2026-07-10T10:46:11.807556+00:00",
+  "summary": "IMGNet 提出了一种新颖的人脸验证方法，用滑动窗口符号模式匹配替代传统的余弦相似度，在 LFW 上达到 96.27% 的准确率，模型仅 10.58 MB。该方法还发现符号模式一致性是良好训练的人脸嵌入的固有属性，无需重新训练即可应用于 ArcFace 嵌入。",
+  "score": 7,
+  "tags": [
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-10T10:47:30.956885+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260710-005",
+  "title": "Hyperparameter tuning approach question [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1usa46w/hyperparameter_tuning_approach_question_r/",
+  "author": "/u/Beautiful-Expert-156",
+  "published_at": "2026-07-10T01:55:38+00:00",
+  "collected_at": "2026-07-10T10:46:11.807505+00:00",
+  "summary": "用户面临大规模细胞类型分类任务（430万细胞，512维特征），在超参数调优时遭遇计算瓶颈，尝试使用Optuna但训练时间过长，转而采用训练集子采样（15%）进行调优，但不确定其鲁棒性。该问题涉及大规模机器学习中的超参数优化策略，具有实际参考价值。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-10T10:47:30.956873+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260710-007",
+  "title": "Talos-XII: hand-written autograd + small RL/MLP stack in Rust, applied to gacha probability modeling (no tch-rs/ndarray/PyTorch) — looking for benchmark help on ARM/AVX-512/GPU [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1urvxgb/talosxii_handwritten_autograd_small_rlmlp_stack/",
+  "author": "/u/zay0kami",
+  "published_at": "2026-07-09T16:52:11+00:00",
+  "collected_at": "2026-07-10T10:46:11.807540+00:00",
+  "summary": "Talos-XII 是一个用 Rust 从头实现的强化学习/MLP 框架，应用于游戏抽卡概率建模，不依赖任何外部 ML 库。它包含自定义自动求导引擎、SIMD 调度和多种 RL 算法，并引入了一种实验性的自适应缓存感知超连接（ACHF）组件。该项目寻求社区帮助，在不同硬件上运行基准测试以验证其性能。",
+  "score": 8,
+  "tags": [
+    "reinforcement-learning",
+    "deployment",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-10T10:47:30.956881+00:00"
+}
