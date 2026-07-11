@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260711-007",
+  "title": "Predicting human preference for generated image pairs using HPSv3 [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1utdj1f/predicting_human_preference_for_generated_image/",
+  "author": "/u/dh7net",
+  "published_at": "2026-07-11T07:36:36+00:00",
+  "collected_at": "2026-07-11T09:20:07.932830+00:00",
+  "summary": "该内容讨论了使用HPSv3模型预测人类对生成图像偏好的实践，并指出了其局限性。作者在imagebench.ai项目中尝试了该模型，并分享了评估结果，同时寻求更优的人类偏好预测模型。这是一个关于图像生成评估工具的技术分享和问题探讨。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T09:21:25.539307+00:00"
+}

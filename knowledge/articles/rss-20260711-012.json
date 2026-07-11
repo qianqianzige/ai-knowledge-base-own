@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260711-012",
+  "title": "How should I approach training this specific ML model for my startup project [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1usnuc0/how_should_i_approach_training_this_specific_ml/",
+  "author": "/u/OkRoyal9187",
+  "published_at": "2026-07-10T13:33:11+00:00",
+  "collected_at": "2026-07-11T09:20:07.932879+00:00",
+  "summary": "该内容讨论了在低预算初创项目中，使用针对印度语言的muRIL模型进行情感分析的技术方案。核心价值在于为资源有限的团队提供了基于政治新闻、X帖子和Instagram标签的印度语言情感分析模型选择建议。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T09:21:25.539319+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260711-006",
+  "title": "Why doesn't the ML research community limit the number of submissions per author? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1usq43t/why_doesnt_the_ml_research_community_limit_the/",
+  "author": "/u/alafaya101",
+  "published_at": "2026-07-10T14:59:23+00:00",
+  "collected_at": "2026-07-11T09:20:07.932815+00:00",
+  "summary": "该帖子讨论了机器学习研究社区为何不限制每位作者的投稿数量，指出这导致投稿量巨大、审稿质量下降，并对比了其他领域（如安全、计算机体系结构）的成功实践。核心价值在于引发对ML社区审稿机制和文化的反思。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T09:21:25.539304+00:00"
+}

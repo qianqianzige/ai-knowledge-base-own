@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260711-010",
+  "title": "multiple linear regression in scratch [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uszkri/multiple_linear_regression_in_scratch_p/",
+  "author": "/u/mehmetflix_",
+  "published_at": "2026-07-10T20:42:20+00:00",
+  "collected_at": "2026-07-11T09:20:07.932861+00:00",
+  "summary": "作者在Scratch平台上实现了一个多元线性回归训练器，支持自定义数据。虽然算法本身常见，但在Scratch这种教育性编程环境中实现机器学习模型，展示了技术趣味性和教育价值。",
+  "score": 7,
+  "tags": [
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T09:21:25.539317+00:00"
+}

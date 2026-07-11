@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260711-009",
+  "title": "Please help me understand figure on subspace similarity in LoRA paper. [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uso667/please_help_me_understand_figure_on_subspace/",
+  "author": "/u/BelzebubReincarnated",
+  "published_at": "2026-07-10T13:46:15+00:00",
+  "collected_at": "2026-07-11T09:20:07.932851+00:00",
+  "summary": "该内容讨论了LoRA论文中子空间相似性图表的理解问题，用户对图表中i和j的取值关系及坐标轴含义存在困惑。核心价值在于澄清LoRA中低秩矩阵子空间包含关系的可视化方法，帮助研究者正确解读实验结果。",
+  "score": 6,
+  "tags": [
+    "fine-tuning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T09:21:25.539312+00:00"
+}
