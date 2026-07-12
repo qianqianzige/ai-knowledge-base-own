@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260712-009",
+  "title": "Withdraw from ACL ARR and resubmit to a workshop? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uth7j8/withdraw_from_acl_arr_and_resubmit_to_a_workshop_d/",
+  "author": "/u/H4RZ3RK4S3",
+  "published_at": "2026-07-11T11:09:15+00:00",
+  "collected_at": "2026-07-12T09:45:01.694052+00:00",
+  "summary": "一位博士生在EMNLP论文的ACL ARR评审中获得中等分数，考虑撤回并转投BlackboxNLP研讨会。核心问题是评审者未能理解论文的“so what”，即实际意义，而非方法论问题。",
+  "score": 5,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-12T09:46:33.195547+00:00"
+}

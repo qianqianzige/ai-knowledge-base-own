@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260712-012",
+  "title": "VultronRetriever family of models released on HuggingFace![R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1utmxq8/vultronretriever_family_of_models_released_on/",
+  "author": "/u/madkimchi",
+  "published_at": "2026-07-11T15:22:33+00:00",
+  "collected_at": "2026-07-12T09:45:01.694091+00:00",
+  "summary": "VultronRetriever 模型家族在 HuggingFace 上发布，包括 Prime、Core 和 Flash 三个版本，在 MTEB 排行榜上各自类别中排名第一，其中 Prime-8B 为全球第一。该系列模型支持完全离线的端到端运行，在 iPhone 上实现问答和文档嵌入，具有更小的索引存储和更高的吞吐量，并采用 Hydra 架构实现后期交互检索和生成。",
+  "score": 8,
+  "tags": [
+    "rag",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-12T09:46:33.195554+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260712-004",
+  "title": "How the terrorist group Boko Haram uses frontier AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://casp.ac/reports/ai-enabled-terrorism",
+  "author": "imustachyou",
+  "published_at": "Fri, 10 Jul 2026 18:49:26 +0000",
+  "collected_at": "2026-07-12T09:45:00.974863+00:00",
+  "summary": "该报告分析了恐怖组织博科圣地如何利用前沿AI技术，包括使用大型语言模型进行宣传、策划和规避检测。内容揭示了AI在安全领域的潜在滥用风险，对研究AI伦理和安全具有警示价值。",
+  "score": 7,
+  "tags": [
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-12T09:46:33.195533+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260712-010",
+  "title": "Developers building with LLMs, how are you actually handling memory, context persistence, and multi-model routing? Genuinely curious what everyone's doing [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uu96ap/developers_building_with_llms_how_are_you/",
+  "author": "/u/No_Caregiver_2922",
+  "published_at": "2026-07-12T07:58:40+00:00",
+  "collected_at": "2026-07-12T09:45:01.694065+00:00",
+  "summary": "该帖子讨论了开发者在构建LLM应用时面临的上下文管理、记忆持久化和多模型路由等基础设施挑战，强调了这些非产品核心的“管道”工作占据了大量开发时间。作者通过具体问题（如记忆持久化方案、多模型切换成本、第三方工具信任度、基础设施成本）收集社区经验，反映了当前AI工程实践中普遍存在的重复造轮子现象。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "rag",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-12T09:46:33.195551+00:00"
+}

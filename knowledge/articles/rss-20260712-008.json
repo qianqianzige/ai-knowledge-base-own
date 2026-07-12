@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260712-008",
+  "title": "Context and average best linear mappings [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uu2p63/context_and_average_best_linear_mappings_d/",
+  "author": "/u/oatmealcraving",
+  "published_at": "2026-07-12T02:18:08+00:00",
+  "collected_at": "2026-07-12T09:45:01.694037+00:00",
+  "summary": "该内容从上下文视角重新审视神经网络，提出将每一层视为最佳平均线性映射的观点，为理解网络层行为提供了简洁的数学框架。尽管未涉及突破性创新，但其视角对中间水平研究者理解网络内部机制具有启发价值。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-12T09:46:33.195540+00:00"
+}
