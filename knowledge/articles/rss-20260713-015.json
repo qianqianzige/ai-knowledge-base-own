@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260713-015",
+  "title": "Where to publish a construction BIM Benchmark? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uufp11/where_to_publish_a_construction_bim_benchmark_d/",
+  "author": "/u/brunorosilva",
+  "published_at": "2026-07-12T13:36:08+00:00",
+  "collected_at": "2026-07-13T10:52:48.008844+00:00",
+  "summary": "该内容介绍了一个由AI初创公司创建的施工BIM基准数据集，包含专业估算师标注的施工图纸项目级工程量清单，并经过多轮审查以确保准确性。作者计划公开该基准以测试和比较不同模型（如LLM）在施工成本估算上的表现，并寻求适合发表此研究的会议或期刊。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T10:54:06.952388+00:00"
+}

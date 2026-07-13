@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260713-017",
+  "title": "Obtaining Irregular Learning Curves with HyberBand Tuned ANN model for Price Prediction [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uud3qj/obtaining_irregular_learning_curves_with/",
+  "author": "/u/Grouchy-Archer3034",
+  "published_at": "2026-07-12T11:38:41+00:00",
+  "collected_at": "2026-07-13T10:52:48.008871+00:00",
+  "summary": "用户使用HyperBand自动调参优化ANN模型进行价格预测，得到了R2为1.00的过拟合结果和不规则的学习曲线。问题可能源于代码中验证集划分不当或超参数搜索空间过大，导致模型在验证集上表现异常。",
+  "score": 6,
+  "tags": [
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T10:54:06.952392+00:00"
+}

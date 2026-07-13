@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260713-001",
+  "title": "Ask HN: Add flag for AI-generated articles",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://news.ycombinator.com/item?id=48886741",
+  "author": "levkk",
+  "published_at": "Mon, 13 Jul 2026 01:24:20 +0000",
+  "collected_at": "2026-07-13T10:52:47.130560+00:00",
+  "summary": "Hacker News 用户提议增加一个标记AI生成文章的选项，以便读者可以跳过不感兴趣的内容，同时不影响文章排名。该讨论引发了关于社区平台是否应适应生成式AI时代的思考，以及现有投票系统是否足够应对AI内容泛滥的问题。",
+  "score": 7,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T10:54:06.952346+00:00"
+}

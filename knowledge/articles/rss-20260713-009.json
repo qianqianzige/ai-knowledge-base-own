@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260713-009",
+  "title": "Evaluating J-space entropy as an error predictor across 7 datasets on Qwen3-4B [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uv5l75/evaluating_jspace_entropy_as_an_error_predictor/",
+  "author": "/u/dasjomsyeet",
+  "published_at": "2026-07-13T08:27:09+00:00",
+  "collected_at": "2026-07-13T10:52:48.008762+00:00",
+  "summary": "该研究在Qwen3-4B模型上，跨7个数据集约11400个样本，评估了J-space熵作为错误预测器的有效性。结果表明，该熵在事实检索中可作为输出置信度的补充，但无法可靠检测内部错误信念，且校准高度依赖任务，并非通用的幻觉检测信号。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T10:54:06.952368+00:00"
+}

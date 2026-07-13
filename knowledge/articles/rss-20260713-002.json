@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260713-002",
+  "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+  "author": "brryant",
+  "published_at": "Sun, 12 Jul 2026 17:13:07 +0000",
+  "collected_at": "2026-07-13T10:52:47.130593+00:00",
+  "summary": "文章介绍了将生产环境中的AI代理迁移到GPT-5.6后，性能提升2.2倍，成本降低27%的实践经验。核心内容包括迁移过程中的技术挑战、优化策略以及实际效果评估，为其他团队提供了有价值的参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T10:54:06.952355+00:00"
+}

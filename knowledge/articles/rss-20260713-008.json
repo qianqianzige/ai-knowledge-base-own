@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260713-008",
+  "title": "Prompt-engineering paper accepted to ICML [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uv1xb3/promptengineering_paper_accepted_to_icml_r/",
+  "author": "/u/Mean_Revolution1490",
+  "published_at": "2026-07-13T05:00:07+00:00",
+  "collected_at": "2026-07-13T10:52:48.008747+00:00",
+  "summary": "该论文提出了一种简单的提示工程技巧，通过改变提示方式实现更多样化的采样，以缓解模式崩溃问题。尽管被ICML接收，但作者质疑这种缺乏严格理论分析的工作是否适合顶级机器学习会议。",
+  "score": 5,
+  "tags": [
+    "prompt-engineering",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T10:54:06.952364+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260713-010",
+  "title": "Zer0Fit: I took Google's new TabFM & TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uue8cc/zer0fit_i_took_googles_new_tabfm_timesfm_ml/",
+  "author": "/u/Porespellar",
+  "published_at": "2026-07-12T12:32:29+00:00",
+  "collected_at": "2026-07-13T10:52:48.008777+00:00",
+  "summary": "该项目将Google新发布的TabFM和TimesFM基础模型封装为MCP服务器，支持零样本的表格数据分类、回归和时间序列预测任务，并可在本地通过Docker容器运行，连接LLM进行交互式ML任务。作者作为AI研究生，旨在降低传统ML模型训练和调参的门槛，使非专家用户也能利用强大的预训练模型进行数据分析。",
+  "score": 7,
+  "tags": [
+    "mcp",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T10:54:06.952371+00:00"
+}
