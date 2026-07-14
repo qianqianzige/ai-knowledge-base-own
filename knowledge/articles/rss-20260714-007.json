@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260714-007",
+  "title": "Are the contents of this monograph reliable with respect to the modern theoretical understanding of deep neural networks? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uvuavs/are_the_contents_of_this_monograph_reliable_with/",
+  "author": "/u/Carbon1674",
+  "published_at": "2026-07-14T01:14:30+00:00",
+  "collected_at": "2026-07-14T09:49:43.855372+00:00",
+  "summary": "该帖子讨论了一本声称通过信息论提供深度学习统一理论的专著，并对其可靠性提出质疑。作者指出该专著引用的论文质量参差不齐，其中一篇关于机械可解释性的论文质量较差，而其提出的“白盒”Transformer在表达力上不如现有模型。整体上，帖子寻求社区对这本专著及其相关研究的评价。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-14T09:51:01.370929+00:00"
+}

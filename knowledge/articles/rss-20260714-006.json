@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260714-006",
+  "title": "Chain of Thought is a scaling trap. the next wave is latent reasoning (Coconut / HRM / RecrusiveMAS)... but then we hit the black box wall. Where does BDH fit? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uviru5/chain_of_thought_is_a_scaling_trap_the_next_wave/",
+  "author": "/u/meowsterpieces",
+  "published_at": "2026-07-13T17:50:49+00:00",
+  "collected_at": "2026-07-14T09:49:43.855352+00:00",
+  "summary": "该内容批判了Chain of Thought作为可扩展推理路径的局限性，指出其存在忠实性和系统成本问题，并探讨了转向潜在推理（如Coconut、HRM、RecursiveMAS）的趋势。同时，提出了潜在推理带来的黑箱问题，以及通过外部循环治理（如DAG、验证）来解决可审计性的方案，并讨论了BDH（Dragon Hatchling）在此背景下的定位。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-14T09:51:01.370925+00:00"
+}

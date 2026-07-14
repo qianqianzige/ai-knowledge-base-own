@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260714-010",
+  "title": "[N] AMA Reminder: Raffi Krikorian (CTO, Mozilla)",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uw2do8/n_ama_reminder_raffi_krikorian_cto_mozilla/",
+  "author": "/u/Benlus",
+  "published_at": "2026-07-14T08:08:19+00:00",
+  "collected_at": "2026-07-14T09:49:43.855416+00:00",
+  "summary": "Mozilla CTO Raffi Krikorian 举办 AMA，讨论其首份《开源 AI 现状报告》，涵盖企业采用、模型真实成本、开发者信任、中国开源模型影响及智能体 AI 基础设施等关键议题。该活动为社区提供了与行业领袖直接交流开源 AI 未来发展的机会。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-14T09:51:01.370936+00:00"
+}

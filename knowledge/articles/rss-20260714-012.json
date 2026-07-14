@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260714-012",
+  "title": "How many on-the-fly augmentations per image for a single-class segmentation mode [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uvxt70/how_many_onthefly_augmentations_per_image_for_a/",
+  "author": "/u/Loganbirdy",
+  "published_at": "2026-07-14T03:58:22+00:00",
+  "collected_at": "2026-07-14T09:49:43.855443+00:00",
+  "summary": "用户询问在单类分割模型中，对每张原始图像应用100种在线增强组合是否过多，以及应优先使用孤立变换还是交叉组合变换。核心是探讨如何通过数据增强模拟真实拍摄变化，以提升分割精度，特别是边界准确性。",
+  "score": 7,
+  "tags": [
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-14T09:51:01.370943+00:00"
+}

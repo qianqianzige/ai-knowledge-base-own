@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260714-009",
+  "title": "Cloud-vLLM Benchmark Differences [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uw2j9e/cloudvllm_benchmark_differences_r/",
+  "author": "/u/No_Cardiologist7609",
+  "published_at": "2026-07-14T08:17:25+00:00",
+  "collected_at": "2026-07-14T09:49:43.855403+00:00",
+  "summary": "该帖子询问是否存在关于云推理平台（如Together AI）与本地vLLM在贪婪解码下基准测试结果差异的分析或论文。核心价值在于揭示不同部署环境可能导致的模型输出不一致问题，对模型可重复性和可靠性有重要意义。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-14T09:51:01.370933+00:00"
+}

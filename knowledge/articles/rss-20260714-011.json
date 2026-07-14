@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260714-011",
+  "title": "GPUHedge: Hedging serverless GPU providers improves cold start p95 latency from 117s to 30s [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uvlb6h/gpuhedge_hedging_serverless_gpu_providers/",
+  "author": "/u/Putrid_Construction3",
+  "published_at": "2026-07-13T19:20:07+00:00",
+  "collected_at": "2026-07-14T09:49:43.855430+00:00",
+  "summary": "GPUHedge 是一个开源工具，通过投机执行策略（在主要 GPU 提供商启动请求后，若超时则切换到备用提供商）来缓解无服务器 GPU 的冷启动延迟问题。基准测试显示，该方法将 p95 延迟从 116.6 秒降至 29.4 秒，同时降低了每次请求的计算成本。该项目处于 alpha 阶段，旨在为 AI 推理提供更可靠的 GPU 资源。",
+  "score": 8,
+  "tags": [
+    "deployment",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-14T09:51:01.370939+00:00"
+}
