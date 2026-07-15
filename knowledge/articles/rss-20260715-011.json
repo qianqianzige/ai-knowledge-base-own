@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260715-011",
+  "title": "Things I got wrong building an incremental indexing pipeline [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uwnb3g/things_i_got_wrong_building_an_incremental/",
+  "author": "/u/Whole-Assignment6240",
+  "published_at": "2026-07-14T22:21:51+00:00",
+  "collected_at": "2026-07-15T09:54:12.748541+00:00",
+  "summary": "本文分享了构建增量索引管道时遇到的常见陷阱，包括未处理删除导致索引膨胀、部分更新引发数据漂移以及缺乏幂等性造成重复文档。作者强调这些分布式系统的基础问题在实际长期运行中比模型选择更值得关注。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-15T09:55:27.696705+00:00"
+}

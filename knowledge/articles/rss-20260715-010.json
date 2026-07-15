@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260715-010",
+  "title": "New LLM Coordination Benchmark - Benchmarking Open-Ended Multi-Agent Coordination in Language Agents [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uwc6ni/new_llm_coordination_benchmark_benchmarking/",
+  "author": "/u/ktessera",
+  "published_at": "2026-07-14T15:37:52+00:00",
+  "collected_at": "2026-07-15T09:54:12.748533+00:00",
+  "summary": "该研究提出了一个评估LLM智能体在开放世界中进行长期多智能体协作的新基准，发现大多数模型表现不佳，平均归一化回报仅约6%。然而，零样本的Gemini 3.1 Pro在最难设置下与经过10亿环境步训练的最优MARL智能体性能相当，表明协调能力是独立于任务能力的瓶颈。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-15T09:55:27.696702+00:00"
+}

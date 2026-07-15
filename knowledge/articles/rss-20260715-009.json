@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260715-009",
+  "title": "LLM hallucination paper(using math) accepted to ICML workshop[R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uw4j6a/llm_hallucination_paperusing_math_accepted_to/",
+  "author": "/u/Round_Apple2573",
+  "published_at": "2026-07-14T10:13:24+00:00",
+  "collected_at": "2026-07-15T09:54:12.748524+00:00",
+  "summary": "该论文提出了一种基于子黎曼几何的LoRA方法(SRM-LoRA)，通过构建基于敏感度的黎曼度量来重塑反向传播梯度，抑制高代价更新方向，从而减少LLM幻觉。该方法仅使用HaluEval-QA数据集训练，即可提升模型在相关和分布外基准上的事实可靠性，且不改变前向计算和推理成本。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-15T09:55:27.696699+00:00"
+}

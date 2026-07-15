@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260715-007",
+  "title": "Mechanistic interpretability: a first paper on disentangling a convolutional neuron [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uwya70/mechanistic_interpretability_a_first_paper_on/",
+  "author": "/u/narang_27",
+  "published_at": "2026-07-15T06:59:41+00:00",
+  "collected_at": "2026-07-15T09:54:12.748505+00:00",
+  "summary": "本文提出了一种新的机械可解释性方法，通过分析Hadamard积来解构InceptionV1模型中单个1x1卷积神经元的检测模式，发现神经元能检测多种概念（如汽车、猫、狗、字母、人脸），且低激活值簇的依赖神经元也响应相同概念，权重分布平衡，揭示了梯度下降在噪声范围内组织模式的证据。该工作为卷积神经网络的可解释性提供了有价值的分析技术。",
+  "score": 7,
+  "tags": [
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-15T09:55:27.696694+00:00"
+}
