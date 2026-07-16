@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260716-012",
+  "title": "All major robotics and VLA papers, ranked and benchmarked in a single place [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uxa7ak/all_major_robotics_and_vla_papers_ranked_and/",
+  "author": "/u/NielsRogge",
+  "published_at": "2026-07-15T16:05:04+00:00",
+  "collected_at": "2026-07-16T10:00:44.607538+00:00",
+  "summary": "该内容介绍了Papers with Code平台新增的机器人学与视觉-语言-动作（VLA）模型专用页面，汇集了主要基准测试（如LIBERO、SimplerEnv WidowX、RoboTwin）及约110篇论文的排名与开源状态，为研究者提供了系统化的技术对比与资源导航。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:01:47.752845+00:00"
+}

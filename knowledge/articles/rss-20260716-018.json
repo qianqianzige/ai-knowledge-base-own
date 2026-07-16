@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260716-018",
+  "title": "If your model finds edge against closing lines, does that edge transfer to earlier bets? [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ux1n0v/if_your_model_finds_edge_against_closing_lines/",
+  "author": "/u/MrProbability101",
+  "published_at": "2026-07-15T10:11:16+00:00",
+  "collected_at": "2026-07-16T10:00:44.607596+00:00",
+  "summary": "该帖子探讨了体育预测模型在回测时对收盘线有稳定优势，但在实际推理时因开盘线信息不完整导致优势可能消失的悖论。核心问题是收盘线的高效性与模型信号在早期市场中的有效性之间的权衡。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:01:47.752856+00:00"
+}

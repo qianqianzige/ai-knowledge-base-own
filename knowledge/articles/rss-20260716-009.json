@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260716-009",
+  "title": "PyTorch model running 170x slower on T4 vs A100. What could cause a bottleneck this extreme? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ux6a9x/pytorch_model_running_170x_slower_on_t4_vs_a100/",
+  "author": "/u/Future-Structure-296",
+  "published_at": "2026-07-15T13:44:23+00:00",
+  "collected_at": "2026-07-16T10:00:44.607508+00:00",
+  "summary": "用户报告在T4 GPU上运行PyTorch点跟踪模型比A100慢170倍，尽管GPU利用率达99%且已排除常见问题。分析指出，纯FP32精度下，T4缺乏Tensor Core支持，且4D相关体积和Transformer层可能因内存带宽和计算能力差异导致极端性能瓶颈。建议优先使用混合精度训练或分析内核执行效率。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:01:47.752839+00:00"
+}

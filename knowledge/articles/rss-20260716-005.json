@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260716-005",
+  "title": "Looking for JEPA devil advocates [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uxcryc/looking_for_jepa_devil_advocates_r/",
+  "author": "/u/Amazing-Coat5160",
+  "published_at": "2026-07-15T17:34:44+00:00",
+  "collected_at": "2026-07-16T10:00:44.607460+00:00",
+  "summary": "该帖子在Reddit的r/MachineLearning社区中，用户寻求对JEPA（联合嵌入预测架构）模型的批判性分析，特别是与机器人学习中的世界模型相比的缺点。用户对LeCun的乐观观点持怀疑态度，希望了解JEPA方法的潜在红旗和局限性。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:01:47.752828+00:00"
+}

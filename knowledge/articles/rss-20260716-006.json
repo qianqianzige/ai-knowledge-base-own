@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260716-006",
+  "title": "Best current tools for Multi-Objective Surrogate-Based Optimization (MOSBO) on heterogeneous study data meta-analysis?[P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uxty9v/best_current_tools_for_multiobjective/",
+  "author": "/u/BleakReason",
+  "published_at": "2026-07-16T05:43:55+00:00",
+  "collected_at": "2026-07-16T10:00:44.607471+00:00",
+  "summary": "该帖子讨论了在异质性研究数据元分析中，使用多目标替代模型优化（MOSBO）的最佳工具栈，涉及分层建模、连续数值优化和生理约束。用户寻求Colab友好的Python解决方案，并比较了PyMC、pymoo、SMT等工具，同时询问是否有AI工具能直接处理上传的电子表格数据。内容聚焦于实际应用中的技术选型，对从事类似优化任务的从业者有参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:01:47.752833+00:00"
+}
