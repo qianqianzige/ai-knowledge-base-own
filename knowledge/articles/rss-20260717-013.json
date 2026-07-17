@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260717-013",
+  "title": "ExTernD: Expanded-Rank Ternary Decomposition Ternary LLM PTQ with Accuracy Approaching Any Quantization Level [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uy2zb3/externd_expandedrank_ternary_decomposition/",
+  "author": "/u/LMTLS5",
+  "published_at": "2026-07-16T13:31:07+00:00",
+  "collected_at": "2026-07-17T09:50:19.591525+00:00",
+  "summary": "ExTernD 提出了一种扩展秩三元分解方法，通过将矩阵分解为两个三元矩阵和一个对角缩放矩阵，解决了三元后训练量化（PTQ）中固定矩阵大小的限制，使得精度可任意接近任何量化级别。该方法仅需略高于当前量化方法的显存，但能充分利用三元数学的优势，是一种高效且精度高的量化技术。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-17T09:51:37.066691+00:00"
+}

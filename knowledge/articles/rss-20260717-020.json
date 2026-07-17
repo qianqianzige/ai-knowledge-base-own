@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260717-020",
+  "title": "New Fable5/Opus4.8 harness called \"Schema\" claims 99% on ARC-3 [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uyf8oo/new_fable5opus48_harness_called_schema_claims_99/",
+  "author": "/u/we_are_mammals",
+  "published_at": "2026-07-16T21:02:45+00:00",
+  "collected_at": "2026-07-17T09:50:19.591579+00:00",
+  "summary": "Schema 是一个新型 AI 框架，通过改进模型周围的流程（如观察转模型、预测测试、计划执行）而非修改模型权重，在 ARC-AGI-3 公开集上使用 Claude Opus 4.8 和 Fable 5 达到 99% 准确率，使用 GPT-5.6 Sol 达到 95.35%。该框架采用固定回退规则，先运行 Opus 4.8 和 Sol xhigh，对得分低于 80 的游戏使用 Fable 5 和 Sol max 重跑，保留每局最高分，展示了无需调整模型权重即可显著提升推理性能的潜力。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-17T09:51:37.066700+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260717-017",
+  "title": "PnP-CoSMo: A Multi-Contrast MRI Reconstruction Framework based on Content/Style Modeling [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uy2h66/pnpcosmo_a_multicontrast_mri_reconstruction/",
+  "author": "/u/void_gear",
+  "published_at": "2026-07-16T13:10:56+00:00",
+  "collected_at": "2026-07-17T09:50:19.591555+00:00",
+  "summary": "PnP-CoSMo 提出了一种基于内容/风格建模的多对比度 MRI 重建框架，通过显式建模对比度不变的潜在“内容”实现高效重建。该方法无需原始 k-space 训练数据，可泛化至不同 MR 对比度和前向算子，并具备内置解释性，在医学图像分析领域具有重要价值。",
+  "score": 8,
+  "tags": [
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-17T09:51:37.066698+00:00"
+}

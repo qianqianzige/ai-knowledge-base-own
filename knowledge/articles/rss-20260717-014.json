@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260717-014",
+  "title": "The qlora 2e-4 default is wrong under 10k samples and nobody talks about it [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uy1z8b/the_qlora_2e4_default_is_wrong_under_10k_samples/",
+  "author": "/u/Pretty-Ad774",
+  "published_at": "2026-07-16T12:50:35+00:00",
+  "collected_at": "2026-07-17T09:50:19.591532+00:00",
+  "summary": "该帖子指出，在少于10k样本的小数据集上使用QLoRA微调时，默认学习率2e-4会导致过拟合和评估指标停滞。作者通过实验发现，将学习率降至1e-4并增加训练轮数能显著提升效果，并建议根据数据量调整学习率。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-17T09:51:37.066693+00:00"
+}

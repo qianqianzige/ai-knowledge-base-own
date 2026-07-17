@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260717-012",
+  "title": "Are Current AI Memory Architectures Optimizing for the Wrong Abstraction? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uy6yht/are_current_ai_memory_architectures_optimizing/",
+  "author": "/u/Boris_Ljevar",
+  "published_at": "2026-07-16T16:00:01+00:00",
+  "collected_at": "2026-07-17T09:50:19.591517+00:00",
+  "summary": "本文探讨了当前AI记忆系统是否优化了错误的抽象层次，指出现有系统主要存储事实和偏好，而未来系统应能推断用户的高层思维模式（如解释框架和推理风格）。作者质疑这种能力是否能自然涌现于现有架构，还是需要根本不同的设计。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-17T09:51:37.066689+00:00"
+}

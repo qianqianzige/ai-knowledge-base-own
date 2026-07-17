@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260717-008",
+  "title": "EU AI Act OpenRAG: 933 legally structured chunks and BGE-M3 embeddings in one SQLite file [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uytlac/eu_ai_act_openrag_933_legally_structured_chunks/",
+  "author": "/u/Automatic-Forever-63",
+  "published_at": "2026-07-17T08:18:09+00:00",
+  "collected_at": "2026-07-17T09:50:19.591485+00:00",
+  "summary": "该项目发布了EU AI Act OpenRAG数据集，基于法律结构（如条款、段落）对《欧盟人工智能法案》进行分块，生成933个结构化块并嵌入BGE-M3向量，存储在SQLite中。评估显示结构化分块在检索任务上优于滑动窗口基线，但分类任务受生成器行为影响更大。该资源为RAG和法律NLP实验提供了高质量基准。",
+  "score": 8,
+  "tags": [
+    "rag",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-17T09:51:37.066680+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260717-003",
+  "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+  "author": "JeremyTheo",
+  "published_at": "Thu, 16 Jul 2026 11:59:01 +0000",
+  "collected_at": "2026-07-17T09:50:18.678243+00:00",
+  "summary": "作者承认LLM批评者的观点有道理，但仍坚持使用LLM，探讨了在批评声中如何实际应用LLM技术，并平衡其优缺点。文章提供了实用的使用经验和反思，适合对LLM有基础了解的读者。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-17T09:51:37.066670+00:00"
+}

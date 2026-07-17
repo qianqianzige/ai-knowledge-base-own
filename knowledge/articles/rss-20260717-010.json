@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260717-010",
+  "title": "Seeking collaborators for scaling and independent evaluation of a new recurrent language model architecture (preprint + code) [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uycffg/seeking_collaborators_for_scaling_and_independent/",
+  "author": "/u/BleedingXiko",
+  "published_at": "2026-07-16T19:17:01+00:00",
+  "collected_at": "2026-07-17T09:50:19.591501+00:00",
+  "summary": "该内容介绍了一种名为DABSN（动态自适应偏置状态网络）的新型循环语言模型架构，作者在推理、记忆和长序列基准测试上展示了初步成果，并训练了一个24M参数的模型。作者正在寻求合作者以进行独立复现、设计更强基线或提供更大GPU集群来扩展该架构，旨在推动开放和可复现的研究。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-17T09:51:37.066686+00:00"
+}

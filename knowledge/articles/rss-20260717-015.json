@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260717-015",
+  "title": "CfP | RTCA @ NeurIPS 2026 [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uy8e0v/cfp_rtca_neurips_2026_r/",
+  "author": "/u/Few-Ferret9700",
+  "published_at": "2026-07-16T16:51:34+00:00",
+  "collected_at": "2026-07-17T09:50:19.591540+00:00",
+  "summary": "该内容是关于NeurIPS 2026上首届实时对话智能体（RTCA）研讨会的征稿启事，聚焦于实时多模态对话系统的流式生成、交互自然性评估及系统部署等核心挑战。研讨会旨在推动语音、视觉、语言等多模态融合的实时交互技术，并建立共享基准与评估方法。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "audio",
+    "vision",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-17T09:51:37.066696+00:00"
+}
