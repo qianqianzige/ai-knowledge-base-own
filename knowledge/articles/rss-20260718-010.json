@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260718-010",
+  "title": "Prism accidentally leaked [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uz75qt/prism_accidentally_leaked_d/",
+  "author": "/u/Few-Monitor5103",
+  "published_at": "2026-07-17T17:59:44+00:00",
+  "collected_at": "2026-07-18T09:17:00.960957+00:00",
+  "summary": "Prism 平台意外泄露了用户提交的论文，用户在 Discord 上发现编译时返回了其他人的论文。虽然平台在 10 分钟内迅速下线网站，但用户仍担心自己的论文可能已被泄露。该事件暴露了 AI 论文管理平台的安全漏洞。",
+  "score": 7,
+  "tags": [
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-18T09:18:11.960742+00:00"
+}

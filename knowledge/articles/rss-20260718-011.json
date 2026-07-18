@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260718-011",
+  "title": "Tried testing qwen 35b moe model on s26 ultra , without compromising on precision [R] ,[D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uzik5s/tried_testing_qwen_35b_moe_model_on_s26_ultra/",
+  "author": "/u/Severe_Post_2751",
+  "published_at": "2026-07-18T01:40:59+00:00",
+  "collected_at": "2026-07-18T09:17:00.960972+00:00",
+  "summary": "该内容介绍了在S26 Ultra手机上运行Qwen 35B MoE模型，通过优化实现了约90 t/s的输入处理速度和8 tokens/s的输出生成，展示了在移动设备上部署大模型的可行性。作者为非机构背景的个人研究者，分享了技术成果并寻求合作。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-18T09:18:11.960746+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260718-009",
+  "title": "Stereo2Spatial: Convert Stereo Music Tracks to Spatialized Binaural Mixes [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uzevbg/stereo2spatial_convert_stereo_music_tracks_to/",
+  "author": "/u/kittenkrazy",
+  "published_at": "2026-07-17T22:55:00+00:00",
+  "collected_at": "2026-07-18T09:17:00.960943+00:00",
+  "summary": "该项目提出了一种将立体声音乐转换为空间化双耳混音的模型，通过流匹配扩散模型和振幅提升技术解决了原始波形建模的不稳定性问题，并提供了训练代码、预训练模型和Windows推理应用。其核心价值在于为缺乏高质量空间混音的现有音乐提供了一种实用的转换方案，并开源了完整技术栈。",
+  "score": 7,
+  "tags": [
+    "audio"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-18T09:18:11.960738+00:00"
+}
