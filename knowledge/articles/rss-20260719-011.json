@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260719-011",
+  "title": "Interactive map of GPT-2's token embedding space - tap any token and explore [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v09muj/interactive_map_of_gpt2s_token_embedding_space/",
+  "author": "/u/Limp-Contest-7309",
+  "published_at": "2026-07-18T22:42:20+00:00",
+  "collected_at": "2026-07-19T09:46:10.881598+00:00",
+  "summary": "该项目提供了一个交互式可视化工具，展示了GPT-2-small模型中32,070个字母token的嵌入空间。通过t-SNE降维和最小生成树连接，用户可以在移动设备上探索token之间的最近邻关系，直观理解嵌入空间的结构。",
+  "score": 7,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-19T09:47:28.580583+00:00"
+}

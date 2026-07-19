@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260719-013",
+  "title": "Deep learning tackles single-cell analysis – A survey of deep learning for scRNA-seq analysis [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v06nc1/deep_learning_tackles_singlecell_analysis_a/",
+  "author": "/u/teraRockstar",
+  "published_at": "2026-07-18T20:35:16+00:00",
+  "collected_at": "2026-07-19T09:46:10.881625+00:00",
+  "summary": "该论文综述了深度学习在单细胞RNA测序分析中的应用，系统梳理了25种方法，涵盖6个子类别，并提供了方法、目的、架构、指标、解释和新颖性的详细表格。内容对生物信息学和机器学习交叉领域具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-19T09:47:28.580593+00:00"
+}

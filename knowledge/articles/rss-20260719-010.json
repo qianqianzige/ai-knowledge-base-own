@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260719-010",
+  "title": "GPT-2 Small’s embedding geometry around “Trump”: discretized vs. continuous nearest neighbours [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v07xai/gpt2_smalls_embedding_geometry_around_trump/",
+  "author": "/u/Limp-Contest-7309",
+  "published_at": "2026-07-18T21:29:05+00:00",
+  "collected_at": "2026-07-19T09:46:10.881584+00:00",
+  "summary": "该可视化分析展示了GPT-2 Small静态嵌入表中“Trump”令牌的几何结构，对比了离散化与连续最近邻表示。离散化产生通用政治术语，而连续表示则生成更具体的相关人物组，揭示了嵌入空间中的语义结构。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-19T09:47:28.580579+00:00"
+}

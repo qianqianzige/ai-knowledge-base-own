@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260719-009",
+  "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
+  "author": "/u/TheWerkmeister",
+  "published_at": "2026-07-18T15:10:52+00:00",
+  "collected_at": "2026-07-19T09:46:10.881569+00:00",
+  "summary": "该内容质疑DeepMind赞助的Kaggle竞赛中获奖作品的质量，指出其方法存在严重缺陷，如生成无意义数据和未经证实的声明。作者通过详细分析揭示了评审过程中的主观性问题，引发对AI竞赛评审标准的讨论。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-19T09:47:28.580576+00:00"
+}

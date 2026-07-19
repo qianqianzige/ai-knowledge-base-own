@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260719-016",
+  "title": "TabFM Studio: point-and-click predictions on spreadsheets with tabular foundation models, fully local [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uzx1el/tabfm_studio_pointandclick_predictions_on/",
+  "author": "/u/Lckylke",
+  "published_at": "2026-07-18T14:15:03+00:00",
+  "collected_at": "2026-07-19T09:46:10.881663+00:00",
+  "summary": "TabFM Studio 是一个无需编程即可在电子表格上运行表格基础模型（如 Google TabFM）的 Web 应用。用户只需上传 CSV/Excel 文件，点击列头标记预测目标，即可自动完成预测，适合非程序员使用。该工具降低了表格模型的应用门槛，具有实用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-19T09:47:28.580597+00:00"
+}
