@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260720-014",
+  "title": "Follow up: GPT-2's vocabulary as a hyperbolic tree — 32,070 tokens in a Poincaré ball you can fly through [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v0pv45/follow_up_gpt2s_vocabulary_as_a_hyperbolic_tree/",
+  "author": "/u/Limp-Contest-7309",
+  "published_at": "2026-07-19T12:54:23+00:00",
+  "collected_at": "2026-07-20T10:43:50.438617+00:00",
+  "summary": "该项目将GPT-2的32,070个词元嵌入映射到庞加莱球中的双曲树结构，实现了可交互的3D可视化。通过利用双曲空间对树状结构天然适配的特性，解决了词元相似性形成的森林结构在平面空间中难以有效展示的问题，无需额外训练即可精确布局。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T10:45:04.637979+00:00"
+}

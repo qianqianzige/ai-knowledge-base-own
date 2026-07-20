@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260720-009",
+  "title": "Are there some textbooks that take a primarily engineering approach to machine learning (as opposed to a \"scientific\" approach)? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v16l6a/are_there_some_textbooks_that_take_a_primarily/",
+  "author": "/u/ConstructionBoth6461",
+  "published_at": "2026-07-20T00:32:08+00:00",
+  "collected_at": "2026-07-20T10:43:50.438546+00:00",
+  "summary": "该帖子讨论如何以工程化方法构建基于机器学习的软件系统，强调从零开始实现ML组件而非调用第三方工具。作者关注在商业环境中高效整合特征提取、数据集成、训练与部署基础设施等环节，并寻求相关教材推荐。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T10:45:04.637960+00:00"
+}
