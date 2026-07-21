@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260721-014",
+  "title": "Training a harness for model-agnostic and task-environment-agnostic capability improvements with PyTorch-like framework [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v1qbl7/training_a_harness_for_modelagnostic_and/",
+  "author": "/u/Megadragon9",
+  "published_at": "2026-07-20T16:26:55+00:00",
+  "collected_at": "2026-07-21T10:18:40.051908+00:00",
+  "summary": "提出了一种名为“Harness Training”的通用框架，通过训练一个冻结的“马具”来提升任意任务LLM在多种任务环境中的能力，并基于PyTorch-like框架实现。实验表明，该框架在Terminal-Bench和SWE-Bench上训练后，能有效迁移到未见过的任务环境，实现跨模型和跨任务的能力提升。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "llm",
+    "fine-tuning",
+    "code-generation",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-21T10:19:54.278622+00:00"
+}

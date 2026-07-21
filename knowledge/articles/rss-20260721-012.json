@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260721-012",
+  "title": "Reproducing OpenAI’s “persistently beneficial models” - GRPO trait install barely moves. Ideas? [P] [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v2b8rd/reproducing_openais_persistently_beneficial/",
+  "author": "/u/doctor-squidward",
+  "published_at": "2026-07-21T07:19:51+00:00",
+  "collected_at": "2026-07-21T10:18:40.051882+00:00",
+  "summary": "该帖子描述了在单张RTX 3090上复现OpenAI论文中“持久有益模型”的尝试，重点是通过GRPO方法安装一个风格化特质（传统主义），但特质分数仅提升2.4分，远低于所需的15分。作者排除了退化、记忆化、梯度消失等常见问题，并寻求关于提示数量、逐示例评分和风格化特质RL安装的社区建议。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T10:19:54.278616+00:00"
+}

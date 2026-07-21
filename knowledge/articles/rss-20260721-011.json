@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260721-011",
+  "title": "My OCR model mislabels section titles as body text. Is a CRF the right fix, or am I overcomplicating it? [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v2bs2k/my_ocr_model_mislabels_section_titles_as_body/",
+  "author": "/u/Present_Mention_2757",
+  "published_at": "2026-07-21T07:51:20+00:00",
+  "collected_at": "2026-07-21T10:18:40.051868+00:00",
+  "summary": "用户在使用OCR模型提取PDF层级结构时，发现标题被误标为正文，考虑使用CRF或BiLSTM-CRF进行序列标注来修正标签。问题核心在于如何结合文本特征和几何位置信息（如缩进、对齐方式）进行更准确的标题识别，同时保持方法的通用性。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T10:19:54.278612+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260721-013",
+  "title": "Exploring continual learning without replay buffers: Our findings using dynamic task-similarity routing [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v1rmbb/exploring_continual_learning_without_replay/",
+  "author": "/u/theawkwardbong",
+  "published_at": "2026-07-20T17:13:34+00:00",
+  "collected_at": "2026-07-21T10:18:40.051895+00:00",
+  "summary": "该内容介绍了一个名为Coincidex的开源持续学习框架，通过动态任务相似性路由替代传统重放缓冲区，在内存和隐私受限场景下实现任务学习。实验表明，该方案在清晰任务边界上表现良好，但在长尾分布漂移下稳定性不足。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T10:19:54.278619+00:00"
+}

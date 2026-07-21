@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260721-002",
+  "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+  "author": "dopamine_daddy",
+  "published_at": "Mon, 20 Jul 2026 16:36:36 +0000",
+  "collected_at": "2026-07-21T10:18:39.307856+00:00",
+  "summary": "本文探讨了如何测量arXiv上AI生成内容的比例，并分析了测量方法的局限性。作者指出，现有检测工具在区分人类与AI写作时存在偏差，尤其在学术论文中可能误判。该研究为评估AI对学术出版的影响提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T10:19:54.278589+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260721-009",
+  "title": "I just read LeCun’s recent thoughts on world models. Thoughts on JEPA as a path forward? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v1i26p/i_just_read_lecuns_recent_thoughts_on_world/",
+  "author": "/u/ConsciousGreenPepper",
+  "published_at": "2026-07-20T10:50:04+00:00",
+  "collected_at": "2026-07-21T10:18:40.051840+00:00",
+  "summary": "该帖讨论了Yann LeCun关于世界模型的最新观点，认为LLMs虽能回答问题但缺乏对物理世界的真正理解，并提出了JEPA作为潜在解决方案。帖子引发了关于JEPA是否只是寻找不存在的“灵丹妙药”的讨论，适合对AI架构和世界模型感兴趣的中级读者。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T10:19:54.278602+00:00"
+}
