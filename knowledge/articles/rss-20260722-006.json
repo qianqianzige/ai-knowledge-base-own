@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260722-006",
+  "title": "SkewAdam: A tiered optimizer that cuts MoE state memory by 97% (fits a 6.7B MoE on a 40GB GPU) [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v38k1m/skewadam_a_tiered_optimizer_that_cuts_moe_state/",
+  "author": "/u/Kooky-Ad-4124",
+  "published_at": "2026-07-22T07:04:40+00:00",
+  "collected_at": "2026-07-22T10:18:22.705461+00:00",
+  "summary": "SkewAdam是一种针对混合专家模型(MoE)训练的分层优化器，通过按参数行为分配不同精度的优化器状态（骨干网络使用动量和分解二阶矩，专家仅使用分解二阶矩，路由器使用精确二阶矩），将优化器状态内存从50.6GB降至1.29GB（减少97.4%），使得6.78B参数的MoE模型能在单个40GB GPU上训练。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-22T10:19:33.609008+00:00"
+}

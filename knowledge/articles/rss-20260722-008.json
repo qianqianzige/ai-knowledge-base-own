@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260722-008",
+  "title": "Looking for feedback on my GPU-accelerated Snake AI project [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v2xktw/looking_for_feedback_on_my_gpuaccelerated_snake/",
+  "author": "/u/Due_Highlight_9341",
+  "published_at": "2026-07-21T22:33:50+00:00",
+  "collected_at": "2026-07-22T10:18:22.705489+00:00",
+  "summary": "该项目利用GPU加速和强化学习（PPO+GAE）训练Snake游戏AI，通过并行运行4096个游戏实例和CoordConv架构，在10小时内达到平均86分的高分。其核心价值在于展示了高效训练游戏AI的技术方案，并提供了开源实现。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reinforcement-learning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-22T10:19:33.609014+00:00"
+}

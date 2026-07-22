@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260722-010",
+  "title": "Vibe-coded a tool to ELI5 research papers in-place [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v37s1f/vibecoded_a_tool_to_eli5_research_papers_inplace_p/",
+  "author": "/u/tumanian",
+  "published_at": "2026-07-22T06:21:48+00:00",
+  "collected_at": "2026-07-22T10:18:22.705510+00:00",
+  "summary": "作者开发了一个名为 paper-reader 的工具，允许用户在阅读研究论文时直接选择文本、公式或图表，并利用 Claude 等 AI 模型以完整论文为上下文进行解释，同时支持快速查看引文摘要。该工具通过 Vibe-coding 方式构建，基于 Vercel 和 Supabase，旨在减少用户在不同 AI 对话间复制粘贴的繁琐操作，提升论文理解效率。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "tool-use",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-22T10:19:33.609023+00:00"
+}
