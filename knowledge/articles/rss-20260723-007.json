@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260723-007",
+  "title": "Real task cost across GPT, Claude, Gemini and Kimi, 10.6x spread on models with only 2x price difference [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v450o3/real_task_cost_across_gpt_claude_gemini_and_kimi/",
+  "author": "/u/pixelo2323",
+  "published_at": "2026-07-23T05:51:02+00:00",
+  "collected_at": "2026-07-23T10:13:29.380470+00:00",
+  "summary": "该研究对比了GPT、Claude、Gemini和Kimi在10个实际任务中的真实成本，发现尽管标价差异仅2倍，但实际成本差异高达10.6倍，主要源于不可见的推理和思考token被按输出计费。研究揭示了当前模型在成本优化上的盲点，并提供了公开的基准测试方法和结果。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-23T10:14:41.179526+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260723-017",
+  "title": "Building an AI-text detector from scratch [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v3j2g0/building_an_aitext_detector_from_scratch_p/",
+  "author": "/u/gamedev-exe",
+  "published_at": "2026-07-22T15:15:31+00:00",
+  "collected_at": "2026-07-23T10:13:29.380604+00:00",
+  "summary": "该教程从零开始构建AI文本检测器，提供了详细的实现步骤和GitHub上的Jupyter Notebook代码。内容实用，适合希望了解AI文本检测原理的开发者。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-23T10:14:41.179553+00:00"
+}

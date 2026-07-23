@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260723-010",
+  "title": "One encoder, seven heads: what we learned training a unified security classifier with masked losses [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v3vuj9/one_encoder_seven_heads_what_we_learned_training/",
+  "author": "/u/PatronusProtect",
+  "published_at": "2026-07-22T22:48:22+00:00",
+  "collected_at": "2026-07-23T10:13:29.380514+00:00",
+  "summary": "该技术分享介绍了一个将七个独立的序列分类器整合为单一多任务模型（基于mmBERT-small编码器）的实践，通过掩码损失处理部分标签缺失问题，并公开了权重。实验表明，统一模型在单次编码推理下性能接近专用模型（F1得分0.916-0.980），但路由任务因语义重叠成为弱项。",
+  "score": 8,
+  "tags": [
+    "fine-tuning",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-23T10:14:41.179537+00:00"
+}
