@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260724-008",
+  "title": "GPT-5.5 Scores 10.6% on ActiveVision, Humans Hit 96.1% [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v4ns8l/gpt55_scores_106_on_activevision_humans_hit_961_r/",
+  "author": "/u/Justgototheeffinmoon",
+  "published_at": "2026-07-23T19:20:01+00:00",
+  "collected_at": "2026-07-24T10:09:50.683064+00:00",
+  "summary": "该论文提出了一个名为ActiveVision的新基准测试，旨在评估视觉模型在需要反复视觉感知而非单次静态描述的任务上的表现。GPT-5.5和Claude Fable 5在该基准上分别仅获得10.6%和3.5%的分数，而人类平均达到96.1%，揭示了当前前沿视觉模型在动态视觉推理方面的严重缺陷。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-24T10:11:03.902610+00:00"
+}

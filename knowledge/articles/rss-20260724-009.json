@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260724-009",
+  "title": "Prompt Injection in NeurIPS 2026? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v4j1uk/prompt_injection_in_neurips_2026_d/",
+  "author": "/u/Kwangryeol",
+  "published_at": "2026-07-23T16:34:33+00:00",
+  "collected_at": "2026-07-24T10:09:50.683079+00:00",
+  "summary": "该内容报告了在NeurIPS 2026论文审阅过程中发现的提示注入攻击，攻击者通过在论文PDF中嵌入特定短语，迫使审稿人的LLM生成包含这些短语的评论，从而可能掩盖低质量审阅。这揭示了AI辅助审阅流程中的安全漏洞，并提供了检测LLM生成文本的方法。",
+  "score": 7,
+  "tags": [
+    "security",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-24T10:11:03.902614+00:00"
+}

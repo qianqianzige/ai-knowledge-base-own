@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260724-014",
+  "title": "An MCP workflow for implementing deep-learning models from an engineering plan [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v4ebho/an_mcp_workflow_for_implementing_deeplearning/",
+  "author": "/u/hypergraphr",
+  "published_at": "2026-07-23T13:43:03+00:00",
+  "collected_at": "2026-07-24T10:09:50.683148+00:00",
+  "summary": "该内容介绍了一个基于MCP（Model Context Protocol）的工作流，用于从工程计划到深度学习模型实现的系统化过程。它通过将计划分解为实施块、关联研究论文、生成规范、按依赖顺序编码并验证，帮助工程师更结构化地推进项目。核心价值在于提供了一种人机协作的框架，而非完全自动化，适合需要严谨流程的ML工程师。",
+  "score": 7,
+  "tags": [
+    "mcp",
+    "code-generation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-24T10:11:03.902631+00:00"
+}
