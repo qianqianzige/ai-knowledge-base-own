@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260727-009",
+  "title": "CICD / KAFKA / KUBERNETES / Interview questions (MLE) [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v7jvsx/cicd_kafka_kubernetes_interview_questions_mle_r/",
+  "author": "/u/trouble_sleeping_",
+  "published_at": "2026-07-26T23:38:56+00:00",
+  "collected_at": "2026-07-27T11:12:31.760886+00:00",
+  "summary": "该内容询问关于直播部署技术面试的准备问题，涉及CI/CD、Kafka和Kubernetes等关键技术。核心价值在于为机器学习工程师提供面试准备方向，但缺乏具体问题或深入分析。",
+  "score": 5,
+  "tags": [
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T11:13:39.477281+00:00"
+}

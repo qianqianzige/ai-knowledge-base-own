@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260727-017",
+  "title": "I want to use AI coding agents for machine learning projects [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v758ek/i_want_to_use_ai_coding_agents_for_machine/",
+  "author": "/u/Fickle_Degree_2728",
+  "published_at": "2026-07-26T14:21:15+00:00",
+  "collected_at": "2026-07-27T11:12:31.760994+00:00",
+  "summary": "一位软件工程师寻求在本地使用AI编码代理（如Codex、Claude Code）进行ML项目开发，同时将代码执行在远程GPU上的解决方案。核心需求是本地编辑与远程GPU执行的无缝集成，以便高效构建、调试和迭代ML项目。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T11:13:39.477311+00:00"
+}

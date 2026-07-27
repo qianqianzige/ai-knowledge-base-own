@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260727-016",
+  "title": "Multi-Tenant SaaS: Which Architecture Would You Choose? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v794kw/multitenant_saas_which_architecture_would_you/",
+  "author": "/u/Fickle_Degree_2728",
+  "published_at": "2026-07-26T16:47:11+00:00",
+  "collected_at": "2026-07-27T11:12:31.760981+00:00",
+  "summary": "该内容讨论了为处理敏感文档的多租户SaaS平台设计RAG架构，比较了两种方案：使用基础LLM加全局RAG和用户特定RAG，或微调开源模型加用户RAG。作者倾向于Option 1，认为微调成本高且不必要，并寻求社区对架构设计的建议。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "llm",
+    "fine-tuning",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T11:13:39.477308+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260727-002",
+  "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/slvDev/esp32-ai",
+  "author": "boveyking",
+  "published_at": "Sat, 25 Jul 2026 18:59:50 +0000",
+  "collected_at": "2026-07-27T11:12:30.782093+00:00",
+  "summary": "该项目展示了如何在成本仅8美元的ESP32微控制器上运行一个2890万参数的语言模型，通过模型量化和优化技术实现了在资源受限设备上的本地推理。这为边缘AI部署提供了低成本、低功耗的解决方案，具有重要的实践价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T11:13:39.477264+00:00"
+}

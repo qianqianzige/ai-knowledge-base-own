@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260727-007",
+  "title": "I implemented the YOLO26n model inference from scratch using ARM64 Assembly Language (No framework) [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v6w394/i_implemented_the_yolo26n_model_inference_from/",
+  "author": "/u/Forward_Confusion902",
+  "published_at": "2026-07-26T06:43:11+00:00",
+  "collected_at": "2026-07-27T11:12:31.760855+00:00",
+  "summary": "该项目从零开始使用ARM64汇编语言和C语言实现了YOLO26n模型推理，不依赖任何现有框架，并应用了ARM NEON SIMD优化、Winograd卷积、缓存感知分块等底层优化技术。作者旨在深入理解神经网络推理引擎的低层工作原理，并探索在树莓派4等边缘设备上实现高效推理的优化方法。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-27T11:13:39.477275+00:00"
+}

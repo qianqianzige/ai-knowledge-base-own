@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260727-008",
+  "title": "Recent project I worked on: End to End Edge ML platform [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v7nudc/recent_project_i_worked_on_end_to_end_edge_ml/",
+  "author": "/u/No-Bug-4879",
+  "published_at": "2026-07-27T02:38:26+00:00",
+  "collected_at": "2026-07-27T11:12:31.760871+00:00",
+  "summary": "该项目介绍了一个端到端的边缘机器学习平台，旨在简化从原始传感器数据到在微控制器上部署模型的流程。平台包含自动标注工具和聊天机器人，可分析信号数据并提供洞察，主要面向tinyML领域。",
+  "score": 7,
+  "tags": [
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T11:13:39.477278+00:00"
+}

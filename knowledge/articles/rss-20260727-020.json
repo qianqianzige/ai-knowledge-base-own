@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260727-020",
+  "title": "I built a compiler that turns computation graphs into the weights of a vanilla transformer — no training anywhere [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v5fxbe/i_built_a_compiler_that_turns_computation_graphs/",
+  "author": "/u/notforrob",
+  "published_at": "2026-07-24T16:15:16+00:00",
+  "collected_at": "2026-07-27T11:12:31.761033+00:00",
+  "summary": "该项目构建了一个编译器，可将普通Python定义的计算图直接编译为标准Phi-3架构Transformer的权重，无需任何训练。它区别于RASP/Tracr，支持原生Python表达和直接加载到HuggingFace，展示了Transformer架构表达算法的能力边界。",
+  "score": 8,
+  "tags": [
+    "code-generation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-27T11:13:39.477322+00:00"
+}

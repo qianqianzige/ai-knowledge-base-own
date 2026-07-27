@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260727-012",
+  "title": "We compared different LLMs on IMO 2026 [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v6wskz/we_compared_different_llms_on_imo_2026_r/",
+  "author": "/u/pequalnp92",
+  "published_at": "2026-07-26T07:21:40+00:00",
+  "collected_at": "2026-07-27T11:12:31.760928+00:00",
+  "summary": "该研究以2026年国际数学奥林匹克竞赛（IMO）新题为基准，系统评估了多种大语言模型（LLM）的数学推理能力。结果显示，前沿模型在无需额外框架时即可接近满分，而较弱模型通过定制化多智能体框架（AutoFyn）能显著提升性能，但所有模型在解决最难问题时仍存在关键推理步骤缺失和幻觉问题。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T11:13:39.477295+00:00"
+}

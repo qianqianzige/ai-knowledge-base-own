@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260727-014",
+  "title": "Understanding GPU Inference Workloads [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v6sjiu/understanding_gpu_inference_workloads_d/",
+  "author": "/u/chinmaydagod",
+  "published_at": "2026-07-26T03:37:48+00:00",
+  "collected_at": "2026-07-27T11:12:31.760955+00:00",
+  "summary": "该帖子旨在收集用户在使用GPU推理工作负载（特别是通过RunPod、Vast.ai等在线服务）时的经验和痛点。作者通过Reddit社区进行调研，并邀请用户填写简短问卷，以更好地理解计算资源获取方面的挑战。",
+  "score": 5,
+  "tags": [
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T11:13:39.477301+00:00"
+}

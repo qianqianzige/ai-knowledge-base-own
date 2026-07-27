@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260727-010",
+  "title": "Open-weight 4B models approach o3-level medical question answering in Swedish [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v71wds/openweight_4b_models_approach_o3level_medical/",
+  "author": "/u/AccomplishedCat4770",
+  "published_at": "2026-07-26T11:58:39+00:00",
+  "collected_at": "2026-07-27T11:12:31.760900+00:00",
+  "summary": "该内容展示了通过后训练（SFT）将4B参数的开源模型MedGemma在瑞典医学执照考试多选题上达到60%的通过率，而更新的Gemma4-E4B和Qwen3.5-4B模型无需后训练即可达到77%准确率，启用推理后可达87%，接近o3水平。作者还探讨了推理长度控制（早期退出）和强化学习方法，并发现模型在瑞典语任务中仍用英语推理但表现良好。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T11:13:39.477288+00:00"
+}

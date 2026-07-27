@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260727-013",
+  "title": "Paper lengths, and reasonable assumptions in ML conferences. [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v6gh43/paper_lengths_and_reasonable_assumptions_in_ml/",
+  "author": "/u/OutsideSimple4854",
+  "published_at": "2026-07-25T18:48:18+00:00",
+  "collected_at": "2026-07-27T11:12:31.760941+00:00",
+  "summary": "作者作为机器学习理论论文作者，批评当前会议审稿中因论文长度限制导致的理论论文被不公对待，尤其是审稿人因数学难度或术语未解释而拒绝论文。文章呼吁在保持长度限制的同时，增加一条规则要求审稿人具备必要知识或诚实评估，而非因难度拒稿。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T11:13:39.477298+00:00"
+}
