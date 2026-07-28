@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260728-008",
+  "title": "Evaluated 6 frontier LLMs (GPT-5.4, Claude Sonnet 4.6, Claude Opus 4.7, Gemini Pro/Flash, Grok 4.3) on political, gender, and racial bias across 8 benchmarks (~20,600 examples) [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v8fnzw/evaluated_6_frontier_llms_gpt54_claude_sonnet_46/",
+  "author": "/u/marggggggggg",
+  "published_at": "2026-07-27T22:37:40+00:00",
+  "collected_at": "2026-07-28T10:27:14.256316+00:00",
+  "summary": "该研究对GPT-5.4、Claude Sonnet 4.6等6个前沿LLM在8个偏见基准（约2.06万样本）上进行了政治、性别和种族偏见评估，发现所有模型在政治偏见基准上均偏左，包括自称右倾的Grok，且GPT-5.4在种族相关问题上拒绝回答率最高（20.3%）。作为个人非同行评审项目，其方法存在单次运行和单一提示模板等局限，但提供了有价值的跨模型偏见对比数据。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-28T10:28:19.947232+00:00"
+}

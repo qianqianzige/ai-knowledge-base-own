@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260728-003",
+  "title": "Are single GPU research still published in ML/DL and its applications nowadays? Which are the most notable recent ones? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v8r7ab/are_single_gpu_research_still_published_in_mldl/",
+  "author": "/u/KingMakerMan",
+  "published_at": "2026-07-28T07:33:05+00:00",
+  "collected_at": "2026-07-28T10:27:14.256247+00:00",
+  "summary": "该讨论关注在算力资源有限（如单GPU）条件下，ML/DL研究是否仍能发表高质量成果。用户以InfiniteDiffusion（独立研究者使用单张RTX 3090完成）为例，探讨小型实验室和独立研究者的生存空间，反映了当前AI研究对算力依赖加剧的现状。",
+  "score": 7,
+  "tags": [
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-28T10:28:19.947207+00:00"
+}
