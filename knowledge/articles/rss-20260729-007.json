@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260729-007",
+  "title": "Vendor-agnostic ML inference on production edge devices [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v9s4mz/vendoragnostic_ml_inference_on_production_edge/",
+  "author": "/u/ppchaos",
+  "published_at": "2026-07-29T10:22:27+00:00",
+  "collected_at": "2026-07-29T10:32:12.098930+00:00",
+  "summary": "本文介绍了在视频编辑工具PostSlate中，使用ncnn的Vulkan后端实现跨厂商GPU（NVIDIA、AMD、Intel、Apple Silicon）的ML推理方案。通过Vulkan的通用性，避免了CUDA等特定运行时依赖，在NVIDIA 4070上实现了ArcFace和SCRFD模型10倍以上的推理加速，同时模型体积减半。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:33:22.485431+00:00"
+}

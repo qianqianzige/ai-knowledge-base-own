@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260729-010",
+  "title": "Neurips rebuttals not visible to reviewers [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v8yv7y/neurips_rebuttals_not_visible_to_reviewers_d/",
+  "author": "/u/grumpket",
+  "published_at": "2026-07-28T13:41:26+00:00",
+  "collected_at": "2026-07-29T10:32:12.098994+00:00",
+  "summary": "该内容讨论了NeurIPS会议中作者与审稿人讨论期的一个技术问题：作者提交的rebuttal（反驳意见）仅对程序主席和作者可见，而审稿人无法查看。这反映了会议系统在权限管理或数据同步上可能存在延迟或配置错误，影响了同行评审流程的透明度。",
+  "score": 5,
+  "tags": [
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:33:22.485441+00:00"
+}

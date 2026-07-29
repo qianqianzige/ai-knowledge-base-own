@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260729-015",
+  "title": "NeurIPS-side prompt injection triggering ethics reviewers? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v955f6/neuripsside_prompt_injection_triggering_ethics/",
+  "author": "/u/dontknowwhattoplay",
+  "published_at": "2026-07-28T17:28:35+00:00",
+  "collected_at": "2026-07-29T10:32:12.099066+00:00",
+  "summary": "该内容讨论了NeurIPS会议中通过提示注入技术检测LLM审稿人的做法，引发了伦理审查问题。即使伦理审查员也未被提前告知这一会议侧的操作，导致伦理问题被触发。核心价值在于揭示了AI会议中提示注入技术的应用及其潜在的伦理争议。",
+  "score": 7,
+  "tags": [
+    "security",
+    "prompt-engineering",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:33:22.485457+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260729-018",
+  "title": "My LLM kept implementing every method it found, so I added research and specification gates[D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v9ib5f/my_llm_kept_implementing_every_method_it_found_so/",
+  "author": "/u/hypergraphr",
+  "published_at": "2026-07-29T01:54:42+00:00",
+  "collected_at": "2026-07-29T10:32:12.099105+00:00",
+  "summary": "作者在构建基于LLM的工程工作流时发现，模型倾向于实现所有检索到的方法，导致代码臃肿且偏离原始目标。为此，作者在研究与实现之间增加了强制性的编辑阶段（specification gate），确保实现决策基于实际工程需求而非所有可能性。这一设计强调了在AI工作流中设置输出门控（gating）对于构建可靠工程系统的重要性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:33:22.485466+00:00"
+}

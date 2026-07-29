@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260729-017",
+  "title": "PIRL: From Open-Loop Exploration to Closed-Loop Reinforcement Learning [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v8wq2b/pirl_from_openloop_exploration_to_closedloop/",
+  "author": "/u/This_Ad9834",
+  "published_at": "2026-07-28T12:13:38+00:00",
+  "collected_at": "2026-07-29T10:32:12.099092+00:00",
+  "summary": "PIRL/PIPO 提出了一种闭环强化学习后训练框架，通过引入策略改进反馈信号，在每次更新后验证性能变化并相应强化或修正，解决了传统开环RL优化中更新方向不确定、训练不稳定甚至崩溃的问题。实验表明，该方法在数学推理、代码生成、工具使用和自蒸馏等任务上，能稳定提升PPO、GRPO等算法的性能。",
+  "score": 8,
+  "tags": [
+    "reinforcement-learning",
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:33:22.485463+00:00"
+}

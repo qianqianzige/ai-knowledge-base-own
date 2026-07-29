@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260729-014",
+  "title": "PNAS: Over Half of All Academic Articles Now Show LLM Influence—7.3M-Paper Study [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v93q78/pnas_over_half_of_all_academic_articles_now_show/",
+  "author": "/u/Justgototheeffinmoon",
+  "published_at": "2026-07-28T16:38:32+00:00",
+  "collected_at": "2026-07-29T10:32:12.099053+00:00",
+  "summary": "一项覆盖730万篇论文的实证研究发现，截至2025年，超过一半的学术文章显示出LLM的影响，这是关于AI在学术写作中渗透率的最权威量化指标。研究还揭示了不平等现象：低声望和非英语机构更倾向于采用LLM，这为政策制定提供了新视角。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:33:22.485454+00:00"
+}

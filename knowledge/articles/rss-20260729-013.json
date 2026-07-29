@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260729-013",
+  "title": "How to deal with text only vector search across multimodal embedding space? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v9ad2j/how_to_deal_with_text_only_vector_search_across/",
+  "author": "/u/AdaObvlada",
+  "published_at": "2026-07-28T20:34:01+00:00",
+  "collected_at": "2026-07-29T10:32:12.099039+00:00",
+  "summary": "该内容讨论了在跨模态嵌入空间中仅使用文本进行向量搜索的挑战，提出了将文本和图像嵌入为单独向量或组合向量的两种方案，并分析了文本搜索可能优先匹配文本嵌入的问题。核心价值在于为多模态检索场景提供了实用的设计思路和权衡考量。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:33:22.485451+00:00"
+}

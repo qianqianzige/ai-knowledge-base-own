@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260729-003",
+  "title": "NeurIPS 2026 Reviewer: AI-Generated Rebuttals (and Paper) [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v90r9r/neurips_2026_reviewer_aigenerated_rebuttals_and/",
+  "author": "/u/gateofptolemy",
+  "published_at": "2026-07-28T14:52:01+00:00",
+  "collected_at": "2026-07-29T10:32:12.098866+00:00",
+  "summary": "该帖子讨论了一位NeurIPS审稿人遇到的论文完全由AI生成（包括反驳意见和正文）的问题，反映了学术界对AI生成内容质量、审稿伦理和作者努力程度的担忧。核心价值在于引发对AI在学术评审中角色和标准的反思。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:33:22.485409+00:00"
+}

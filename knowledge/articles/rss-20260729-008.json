@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260729-008",
+  "title": "ISNAD: adapting classical isnad–rijal chain-of-transmission verification into a claim-level trust layer for multi-agent LLM systems [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v9qadk/isnad_adapting_classical_isnadrijal/",
+  "author": "/u/alizahidrajaa",
+  "published_at": "2026-07-29T08:40:24+00:00",
+  "collected_at": "2026-07-29T10:32:12.098946+00:00",
+  "summary": "该论文将古典伊斯兰圣训学中的传述链验证方法（isnād-rijāl）适配为多智能体LLM系统的声明级信任层，通过为每个声明附加分级传述链、跨独立链的协同验证以及内容独立评估，解决多智能体流水线中错误无声传播的问题。作者公开了论文、代码和评估，并明确指出了尚未验证的机制，体现了对框架局限性的透明态度。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:33:22.485438+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260729-016",
+  "title": "How exactly does the NeurIPS meta reviewer response work? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v8uic0/how_exactly_does_the_neurips_meta_reviewer/",
+  "author": "/u/ihatesalad1",
+  "published_at": "2026-07-28T10:34:30+00:00",
+  "collected_at": "2026-07-29T10:32:12.099079+00:00",
+  "summary": "该内容讨论了 NeurIPS 2025 会议中元审稿人（meta reviewer）回复机制的具体操作流程，包括作者如何通过 AC 机密评论回应元审稿意见，以及会议官方推特和邮件通知的回复时间安排。核心价值在于澄清了会议审稿流程中的模糊环节，帮助作者正确参与 rebuttal 阶段。",
+  "score": 6,
+  "tags": [
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:33:22.485460+00:00"
+}

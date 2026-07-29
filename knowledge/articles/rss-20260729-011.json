@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260729-011",
+  "title": "NeurIPS 2026 AI-generated reviews [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v8vuae/neurips_2026_aigenerated_reviews_d/",
+  "author": "/u/bricklerex",
+  "published_at": "2026-07-28T11:34:57+00:00",
+  "collected_at": "2026-07-29T10:32:12.099012+00:00",
+  "summary": "该帖子讨论了NeurIPS 2026会议中出现的AI生成评审问题，作者对提示注入实验的目的感到困惑，并质疑评审者是否直接复制LLM输出而未加审查。内容核心关注AI在学术评审中的伦理与质量控制挑战。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:33:22.485444+00:00"
+}

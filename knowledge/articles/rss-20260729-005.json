@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260729-005",
+  "title": "Workshop paper accepted, reviewers asked new experiments [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1v9owaf/workshop_paper_accepted_reviewers_asked_new/",
+  "author": "/u/rokk07",
+  "published_at": "2026-07-29T07:21:00+00:00",
+  "collected_at": "2026-07-29T10:32:12.098896+00:00",
+  "summary": "用户提交的论文被顶级会议附属研讨会接收，但审稿人要求补充实验，而该研讨会没有第二轮审稿环节。用户质疑此时要求新实验的意义，并寻求是否应执行实验、忽略请求或联系主席的建议。该内容反映了学术出版流程中的常见困惑，但缺乏具体技术细节。",
+  "score": 4,
+  "tags": [
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:33:22.485424+00:00"
+}
