@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260731-006",
+  "title": "How Kimi K3 Engineered Its Way to the Frontier [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vaysjf/how_kimi_k3_engineered_its_way_to_the_frontier_r/",
+  "author": "/u/noninertialframe96",
+  "published_at": "2026-07-30T16:37:50+00:00",
+  "collected_at": "2026-07-31T10:30:39.123737+00:00",
+  "summary": "Kimi K3 通过三项关键创新达到前沿水平：Kimi Delta Attention 用 128x128 矩阵替代 KV 缓存，大幅降低长上下文内存占用；Quantile Balancing 实现 896 个专家的均匀负载；AgentENV 微虚拟机运行时支持高效 RL 训练。这些技术共同推动了模型性能与效率的显著提升。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-31T10:31:52.780568+00:00"
+}

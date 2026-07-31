@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260731-007",
+  "title": "I built ganfs: A Python package that uses GANs to automate feature selection for high-dimensional datasets. (No domain expert required) [P] [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vahcwo/i_built_ganfs_a_python_package_that_uses_gans_to/",
+  "author": "/u/One_Crow_4710",
+  "published_at": "2026-07-30T02:54:23+00:00",
+  "collected_at": "2026-07-31T10:30:39.123756+00:00",
+  "summary": "ganfs 是一个利用生成对抗网络（GAN）自动进行特征选择的 Python 包，通过分析判别器对扰动的反应来评估特征重要性，无需领域专家干预。该方法旨在解决高维数据集特征选择的瓶颈，支持非线性关系，并已开源，提供 pip 安装和 arXiv 论文。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-31T10:31:52.780571+00:00"
+}

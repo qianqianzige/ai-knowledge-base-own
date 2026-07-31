@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260731-015",
+  "title": "AI Security Leaderboard: benchmarking model robustness [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vaargb/ai_security_leaderboard_benchmarking_model/",
+  "author": "/u/ARGleave",
+  "published_at": "2026-07-29T22:09:52+00:00",
+  "collected_at": "2026-07-31T10:30:39.123865+00:00",
+  "summary": "该帖子介绍了一个AI安全排行榜，通过自动化测试套件对前沿模型进行1500次越狱尝试，衡量其鲁棒性，并发现不同模型间存在显著安全差距。作者还提出了未来改进方向，如添加开源模型、扩展攻击领域和增强攻击强度，并征求社区反馈。",
+  "score": 8,
+  "tags": [
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-31T10:31:52.780587+00:00"
+}

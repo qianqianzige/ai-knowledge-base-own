@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260731-010",
+  "title": "Open-source tabular model validation toolkit TanML needs feedback [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1va7w4p/opensource_tabular_model_validation_toolkit_tanml/",
+  "author": "/u/AccomplishedLeg1508",
+  "published_at": "2026-07-29T20:22:16+00:00",
+  "collected_at": "2026-07-31T10:30:39.123800+00:00",
+  "summary": "TanML 是一个开源的表格机器学习模型验证工具包，提供从数据剖析、预处理、特征重要性排序到模型开发、评估、漂移分析、压力测试、SHAP 可解释性和审计报告生成的端到端工作流。它专为银行、信用风险、保险等受监管环境中的模型风险流程设计，旨在简化模型验证并提高透明度。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-31T10:31:52.780580+00:00"
+}

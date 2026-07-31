@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260731-008",
+  "title": "I taught an LSTM to move a mouse like a human [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vakwmq/i_taught_an_lstm_to_move_a_mouse_like_a_human_p/",
+  "author": "/u/Possible-Session9849",
+  "published_at": "2026-07-30T05:52:50+00:00",
+  "collected_at": "2026-07-31T10:30:39.123772+00:00",
+  "summary": "该帖子介绍了一个有趣的技术挑战：训练一个两层LSTM模型，结合混合密度网络（MDN），来模拟人类的鼠标移动轨迹，以对抗基于光标追踪的机器人检测器（如Cloudflare的Precursor）。作者展示了模型生成的鼠标移动视频，结果令人印象深刻，展示了深度学习在模拟人类行为方面的潜力。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-31T10:31:52.780574+00:00"
+}

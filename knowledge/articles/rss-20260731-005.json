@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260731-005",
+  "title": "MLVC: Multi-platform Learned Video Codec for Real-World Deployment [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vb3xwd/mlvc_multiplatform_learned_video_codec_for/",
+  "author": "/u/tanelai",
+  "published_at": "2026-07-30T19:40:56+00:00",
+  "collected_at": "2026-07-31T10:30:39.123722+00:00",
+  "summary": "MLVC 是一种为实际部署设计的多平台学习型视频编解码器，通过显式传输熵模型尺度参数，解决了跨 NPU 平台因数值差异导致的解码失败问题。该方案在消费级 NPU 上实现了 360p/540p 视频约 100 FPS 的编解码速度，推动了学习型视频编解码器的实用化。",
+  "score": 8,
+  "tags": [
+    "deployment",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-31T10:31:52.780564+00:00"
+}

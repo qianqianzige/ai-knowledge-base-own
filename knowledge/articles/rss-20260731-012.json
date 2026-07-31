@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260731-012",
+  "title": "I don’t think ML is worth learning [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vapd3e/i_dont_think_ml_is_worth_learning_d/",
+  "author": "/u/mnelyzeaN",
+  "published_at": "2026-07-30T10:05:54+00:00",
+  "collected_at": "2026-07-31T10:30:39.123827+00:00",
+  "summary": "作者在金融与AI系统领域工作，认为机器学习本身不值得学习，因为AI能像工程师一样应用ML，关键在于数据准备。他提出疑问：是否应专注于学习如何有效准备数据供AI使用。这引发了对ML学习价值与数据工程重要性的讨论。",
+  "score": 5,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "beginner",
+  "status": "review",
+  "updated_at": "2026-07-31T10:31:52.780584+00:00"
+}
