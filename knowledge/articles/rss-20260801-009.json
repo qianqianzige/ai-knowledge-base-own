@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260801-009",
+  "title": "VLMs can score well on benchmarks, while silently erasing meaningful terms and including hallucinate bias [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vcipzz/vlms_can_score_well_on_benchmarks_while_silently/",
+  "author": "/u/ade17_in",
+  "published_at": "2026-08-01T09:27:26+00:00",
+  "collected_at": "2026-08-01T09:51:51.850565+00:00",
+  "summary": "该研究指出视觉语言模型（VLMs）在胸部X光报告生成任务中，现有评估指标存在缺陷，会奖励重复模板、缺乏临床术语的报告，并导致罕见但有临床意义的术语被删除，同时引入偏见术语。作者提出了一个框架来量化这些术语擦除和偏见引入问题，以改进评估方法。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-01T09:53:26.228764+00:00"
+}

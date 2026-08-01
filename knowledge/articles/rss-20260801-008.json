@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260801-008",
+  "title": "I have trained a model to predict my blood sugar [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vc1txc/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
+  "author": "/u/0xdeadf1sh",
+  "published_at": "2026-07-31T20:09:34+00:00",
+  "collected_at": "2026-08-01T09:51:51.850550+00:00",
+  "summary": "该项目训练了一个编码器-only Transformer模型，用于预测未来2小时的血糖水平，结合了过去的血糖、碳水化合物和胰岛素数据以及未来的餐食和胰岛素信息。模型采用BERT风格的双向注意力机制，并使用DILATE和pinball损失函数来拟合中位数和不确定性区间，支持自回归模式以预测更长时间。作者提供了多种规模的模型和预训练/微调变体，并开源了代码和权重，展示了在个性化医疗预测中的实际应用。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-01T09:53:26.228755+00:00"
+}

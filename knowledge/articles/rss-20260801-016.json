@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260801-016",
+  "title": "Detecting *whether* text exists in an image? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vbzwp9/detecting_whether_text_exists_in_an_image_d/",
+  "author": "/u/Relative-Pace-2923",
+  "published_at": "2026-07-31T18:57:32+00:00",
+  "collected_at": "2026-08-01T09:51:51.850654+00:00",
+  "summary": "该帖子讨论了在图像中检测是否存在文本（二分类任务）的技术方法，作者探索了使用FPN、PaddleOCR检测骨干网络（LCNetv4）以及网格分类等不同架构，并询问在仅有全局标签（无边界框）情况下的最佳实践。内容涉及视觉任务中的架构选择、尺度变化处理和标签粒度对模型设计的影响，对从事图像文本检测或相关视觉分类任务的研究者具有参考价值。",
+  "score": 7,
+  "tags": [
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-01T09:53:26.228784+00:00"
+}

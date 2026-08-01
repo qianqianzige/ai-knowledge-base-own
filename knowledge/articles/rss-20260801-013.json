@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260801-013",
+  "title": "Meh-Compression [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vc5w42/mehcompression_d/",
+  "author": "/u/oatmealcraving",
+  "published_at": "2026-07-31T22:48:30+00:00",
+  "collected_at": "2026-08-01T09:51:51.850617+00:00",
+  "summary": "该内容介绍了一种通过切换线性矩阵压缩进行模型压缩的方法，利用反向传播学习在特定条件下选择最优的线性映射，以提升压缩效率。该方法提供了一种新颖的压缩思路，但缺乏详细实验验证，实用性有待确认。",
+  "score": 6,
+  "tags": [
+    "compression",
+    "model-compression"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-01T09:53:26.228780+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260801-010",
+  "title": "Learning path to fully understand the Kimi K3 technical report?[D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vbvlft/learning_path_to_fully_understand_the_kimi_k3/",
+  "author": "/u/Present_Mention_2757",
+  "published_at": "2026-07-31T16:20:13+00:00",
+  "collected_at": "2026-08-01T09:51:51.850578+00:00",
+  "summary": "该帖子是Reddit上一位机器学习学习者寻求理解Kimi K3技术报告的学习路径建议。作者具备深度学习基础，但缺乏MoE、MLA、分布式训练和现代后训练等高级主题知识，希望获得从基础到高级的阅读路线图。帖子核心价值在于引发社区对K3技术细节的讨论，但本身不包含具体技术内容。",
+  "score": 5,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-01T09:53:26.228767+00:00"
+}
