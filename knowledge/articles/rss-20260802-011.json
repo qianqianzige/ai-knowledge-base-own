@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260802-011",
+  "title": "How Symmetric Are the Insides of a Go Network? [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vcrki2/how_symmetric_are_the_insides_of_a_go_network_r/",
+  "author": "/u/icosaplex",
+  "published_at": "2026-08-01T16:18:53+00:00",
+  "collected_at": "2026-08-02T09:50:09.541297+00:00",
+  "summary": "该研究探讨了围棋神经网络在旋转/反射对称性下的内部表征，发现模型通过随机数据增强虽未强制对称，但自动学习到部分与方向无关的概念，且存在一个意外的发现。研究提供了详细的解释性分析和代码，对神经网络的内部机制提供了有价值的洞察。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-02T09:51:22.365382+00:00"
+}

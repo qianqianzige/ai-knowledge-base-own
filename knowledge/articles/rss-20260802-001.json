@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260802-001",
+  "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+  "author": "foxtrot8672",
+  "published_at": "Sat, 01 Aug 2026 22:25:12 +0000",
+  "collected_at": "2026-08-02T09:50:08.828498+00:00",
+  "summary": "MIT 研究显示，AI 提供的财务建议质量出人意料地高，尤其是在用户提出正确问题的情况下。该文章探讨了如何通过优化提问方式来提升 AI 在金融领域的实用性和准确性，为 AI 在专业咨询场景中的应用提供了实证支持。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-02T09:51:22.365346+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260802-002",
+  "title": "AI doesn't generate working products, that's still your job",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://weeraman.com/the-prototype-isnt-the-product/",
+  "author": "smckk",
+  "published_at": "Sat, 01 Aug 2026 07:52:10 +0000",
+  "collected_at": "2026-08-02T09:50:08.828528+00:00",
+  "summary": "本文指出AI生成的代码或原型并不等同于可交付的产品，开发者仍需负责将原型转化为生产级应用，涵盖测试、安全、性能优化等工程实践。文章强调AI工具应被视为辅助手段，而非替代品，核心价值在于提醒开发者保持对产品质量的掌控。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-02T09:51:22.365356+00:00"
+}

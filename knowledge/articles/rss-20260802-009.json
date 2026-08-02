@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260802-009",
+  "title": "[R] CausalVLBench: Benchmarking Visual Causal Reasoning in Large VLMs.",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vdd7ty/r_causalvlbench_benchmarking_visual_causal/",
+  "author": "/u/moschles",
+  "published_at": "2026-08-02T09:07:49+00:00",
+  "collected_at": "2026-08-02T09:50:09.541269+00:00",
+  "summary": "CausalVLBench 是一个用于评估大型视觉语言模型（VLMs）在视觉因果推理能力上的基准测试。该基准通过设计特定的视觉场景和因果问题，系统地测试模型对因果关系理解的能力，填补了现有评估体系中对视觉因果推理关注的不足。其价值在于为 VLMs 的视觉推理能力提供了更全面的评估工具，有助于推动模型在复杂视觉理解任务上的发展。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-02T09:51:22.365376+00:00"
+}

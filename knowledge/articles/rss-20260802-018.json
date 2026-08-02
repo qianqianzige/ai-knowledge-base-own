@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260802-018",
+  "title": "Github repo to learn the OPD/OPSD and how they perform compared to GRPO, on a consumer grade GPU [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vclrah/github_repo_to_learn_the_opdopsd_and_how_they/",
+  "author": "/u/LatentBotNet",
+  "published_at": "2026-08-01T12:11:34+00:00",
+  "collected_at": "2026-08-02T09:50:09.541388+00:00",
+  "summary": "该帖子在Reddit的r/MachineLearning社区中，寻求关于学习On-Policy Distillation (OPD)和On-Policy Self-Distillation (OPSD)算法的GitHub仓库或资源推荐，并希望了解这些算法与GRPO等RL算法在消费级GPU（如RTX 4090/5090）上的性能对比。帖子反映了社区对高效实现和对比学习的需求，但内容本身是提问而非技术分享。",
+  "score": 5,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-02T09:51:22.365392+00:00"
+}
