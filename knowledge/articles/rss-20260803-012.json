@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260803-012",
+  "title": "Looking for the right pipeline to convert academic textbook figures into interactive/editable assets [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vdlj8j/looking_for_the_right_pipeline_to_convert/",
+  "author": "/u/Afraid_Reviewer",
+  "published_at": "2026-08-02T15:50:21+00:00",
+  "collected_at": "2026-08-03T11:15:02.724245+00:00",
+  "summary": "该帖子讨论了一个文档理解项目，旨在将学术教科书中的图形转换为可交互、可编辑的结构化数字资产。作者提出了一个包含图形检测、标签识别与移除、几何存储等步骤的人工辅助工作流，并寻求低成本、轻量级的解决方案，以避免昂贵的多模态大模型。核心挑战在于在保留底层插图的同时清除嵌入的标签，并希望获得相关研究领域、开源工具和论文的推荐。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-03T11:16:23.166194+00:00"
+}

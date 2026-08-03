@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260803-008",
+  "title": "Context degradation in LLMs: what the papers actually show, and the habits I built for long analysis sessions [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vdsgcj/context_degradation_in_llms_what_the_papers/",
+  "author": "/u/usernamehere93",
+  "published_at": "2026-08-02T20:20:45+00:00",
+  "collected_at": "2026-08-03T11:15:02.724190+00:00",
+  "summary": "本文探讨了LLM在长对话或长文档处理中的上下文退化问题，基于论文证据分析了其成因，并分享了作者在长时间分析会话中构建的实用管理习惯，如上下文治理策略。内容兼具理论依据与实践指导，对提升长上下文任务可靠性有参考价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-03T11:16:23.166184+00:00"
+}
