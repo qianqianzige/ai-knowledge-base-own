@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260804-013",
+  "title": "I created an autonomous boxing benchmark [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1veqv8i/i_created_an_autonomous_boxing_benchmark_d/",
+  "author": "/u/jerkosaur",
+  "published_at": "2026-08-03T21:39:46+00:00",
+  "collected_at": "2026-08-04T10:29:23.487654+00:00",
+  "summary": "作者创建了一个基于物理引擎的AI拳击基准测试，通过实时比赛评估LLM的决策速度、适应性和策略能力。该基准测试追踪多种指标，包括延迟、工具调用正确性、状态感知和战斗统计，旨在提供一个有趣且全面的模型性能评估方式。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T10:32:36.139247+00:00"
+}

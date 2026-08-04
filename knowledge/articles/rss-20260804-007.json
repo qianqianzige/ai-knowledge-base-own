@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260804-007",
+  "title": "It's time to desk reject papers that don't include code that can reproduce the results [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vei12v/its_time_to_desk_reject_papers_that_dont_include/",
+  "author": "/u/Flaky-Ambition5900",
+  "published_at": "2026-08-03T16:17:53+00:00",
+  "collected_at": "2026-08-04T10:29:23.487529+00:00",
+  "summary": "该帖子讨论了机器学习会议审稿中代码可复现性问题，指出多数论文未提供完整代码，且部分代码存在缺陷导致结果无效。作者呼吁通过审稿流程强制要求代码公开，以提升研究质量和可复现性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T10:32:36.139229+00:00"
+}

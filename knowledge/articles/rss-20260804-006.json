@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260804-006",
+  "title": "The Downsides of LLM-Generated Peer Reviews [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vf4zjz/the_downsides_of_llmgenerated_peer_reviews_d/",
+  "author": "/u/Kwangryeol",
+  "published_at": "2026-08-04T09:03:02+00:00",
+  "collected_at": "2026-08-04T10:29:23.487509+00:00",
+  "summary": "本文讨论了LLM生成的同行评审的缺点，包括过度关注不重要的变量、批评过于抽象以及缺乏对方法细节的理解。作者强调，LLM生成的评审缺乏对问题相关性和严重性的判断，可能导致作者被迫回应大量无关紧要的质疑。文章呼吁评审者应基于具体技术依据进行批判，而不是直接复制LLM的输出。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T10:32:36.139225+00:00"
+}

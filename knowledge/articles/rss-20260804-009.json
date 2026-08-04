@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260804-009",
+  "title": "Automated Plagiarism with LLM-remixers [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vf623l/automated_plagiarism_with_llmremixers_d/",
+  "author": "/u/examachine",
+  "published_at": "2026-08-04T10:04:48+00:00",
+  "collected_at": "2026-08-04T10:29:23.487584+00:00",
+  "summary": "该内容讨论了一种利用LLM进行自动化学术剽窃的方法，通过让LLM重混现有论文的LaTeX文件来生成通过语法重叠检查的新论文，并指出这一现象已多次发生，引发对学术伦理的担忧。核心价值在于揭示AI技术被滥用于学术不端行为的风险，提醒研究社区关注和应对这一挑战。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T10:32:36.139236+00:00"
+}

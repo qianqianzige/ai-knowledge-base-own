@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260804-016",
+  "title": "ARPL — runtime ISA/topology detection for llama.cpp on ARM (built for Snapdragon 8 Elite) [r]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ven68z/arpl_runtime_isatopology_detection_for_llamacpp/",
+  "author": "/u/OpeningTough145",
+  "published_at": "2026-08-03T19:22:07+00:00",
+  "collected_at": "2026-08-04T10:29:23.487693+00:00",
+  "summary": "ARPL 是一个针对 llama.cpp 在 ARM 设备上运行时的 ISA 和拓扑检测工具，通过读取硬件信息（如 SDOT、I8MM、SME2 等 ISA 扩展和核心集群）自动配置线程数和上下文参数，免去手动调优。该项目已在 Snapdragon 8 Elite 上测试，显著提升了性能，但 CPU/GPU/NPU 异构分区尚未完成。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T10:32:36.139271+00:00"
+}
