@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260806-010",
+  "title": "Monodratic: learned product-hash routing for sparse causal attention [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vg3jda/monodratic_learned_producthash_routing_for_sparse/",
+  "author": "/u/dttdrv",
+  "published_at": "2026-08-05T10:28:44+00:00",
+  "collected_at": "2026-08-06T10:31:45.741596+00:00",
+  "summary": "Monodratic 提出了一种基于学习乘积哈希路由的稀疏因果注意力架构，通过将源块分配到有界因果发布列表并让查询探测产品地址，在保持固定远程块预算的同时实现近似线性复杂度。实验表明，在合成关联召回任务上，学习路由显著优于未训练路由和仅局部注意力，且与密集掩码 oracle 高度一致，但尚未在自然语言上验证。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-06T10:33:00.875126+00:00"
+}

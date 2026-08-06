@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260806-020",
+  "title": "Reactive Play: Achieved!! Experimenting with Atari Breakout [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vfa9im/reactive_play_achieved_experimenting_with_atari/",
+  "author": "/u/mikeysce",
+  "published_at": "2026-08-04T13:23:38+00:00",
+  "collected_at": "2026-08-06T10:31:45.741741+00:00",
+  "summary": "作者在Atari Breakout上进行了124次PPO实验，发现所有模型都收敛到记忆化的动作序列而非反应式策略。通过添加三行奖励塑形代码，直接奖励球下降时球拍与球的水平接近度，成功让PPO学习到反应式的球追踪行为，并在评估时无需额外奖励即可泛化。",
+  "score": 8,
+  "tags": [
+    "reinforcement-learning",
+    "reward-shaping"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-06T10:33:00.875142+00:00"
+}

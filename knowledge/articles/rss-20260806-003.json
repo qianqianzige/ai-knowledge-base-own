@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260806-003",
+  "title": "What are the biggest challenges in collecting high-quality speech and egocentric video datasets? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vgwecq/what_are_the_biggest_challenges_in_collecting/",
+  "author": "/u/FaithlessnessWeak199",
+  "published_at": "2026-08-06T06:35:24+00:00",
+  "collected_at": "2026-08-06T10:31:45.741489+00:00",
+  "summary": "该帖子讨论了构建高质量语音和以自我为中心的视频数据集所面临的挑战，强调了数据收集过程对数据集价值的重要性。作者提出了关于数据收集瓶颈、训练期间才显现的质量问题以及未来大规模数据集建设策略的问题，旨在引发社区讨论。",
+  "score": 7,
+  "tags": [
+    "audio",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-06T10:33:00.875096+00:00"
+}

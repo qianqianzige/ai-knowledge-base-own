@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260806-008",
+  "title": "Running Whisper, Qwen3-ASR, Nemotron & MOSS completely offline on iPhone [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vgbl7w/running_whisper_qwen3asr_nemotron_moss_completely/",
+  "author": "/u/marshmallow_ki",
+  "published_at": "2026-08-05T16:04:42+00:00",
+  "collected_at": "2026-08-06T10:31:45.741569+00:00",
+  "summary": "作者开发了一款名为 LiveTranscriber 的开源 iOS 应用，成功在 iPhone 上完全离线运行 Whisper、Qwen3-ASR、Nemotron 和 MOSS 等语音与语言模型，实现了实时转录、多说话人识别、摘要生成等功能。文章重点分享了移动端模型部署的工程挑战，如内存管理、流式延迟和推理后端切换，为移动端 AI 应用开发提供了实用参考。",
+  "score": 8,
+  "tags": [
+    "audio",
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-06T10:33:00.875118+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260806-004",
+  "title": "[R], Need some best model suggestions for Face Detection,Face Recognition,Body Detection and Body identification. [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vgx5dk/r_need_some_best_model_suggestions_for_face/",
+  "author": "/u/negativedreammachine",
+  "published_at": "2026-08-06T07:17:29+00:00",
+  "collected_at": "2026-08-06T10:31:45.741505+00:00",
+  "summary": "该帖子在Reddit的r/MachineLearning上寻求用于电影分析的人脸检测、人脸识别、身体检测和身体识别的模型建议，目标是计算演员的屏幕时间。用户提到当前使用MTCNN进行人脸检测，并询问更好的替代方案，以及TransNetV2用于镜头边界检测时出现误报的问题。帖子反映了实际应用中的模型选择需求，但缺乏具体技术细节或创新点。",
+  "score": 5,
+  "tags": [
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-06T10:33:00.875101+00:00"
+}

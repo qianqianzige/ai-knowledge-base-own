@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260806-005",
+  "title": "I Compressed Bad Apple into a 3MB Neural Network [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vfrco1/i_compressed_bad_apple_into_a_3mb_neural_network_p/",
+  "author": "/u/Which_Lie_8932",
+  "published_at": "2026-08-05T00:01:48+00:00",
+  "collected_at": "2026-08-06T10:31:45.741520+00:00",
+  "summary": "作者训练了一个小型MLP（SIREN架构）将Bad Apple动画压缩到3MB参数，通过时间拉伸和运动聚焦采样等技巧将验证MSE从0.0795降至0.0090，展示了隐式神经表示在视频压缩中的潜力。该工作虽未实现高压缩比，但提供了有价值的训练策略和实验洞察。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-06T10:33:00.875105+00:00"
+}

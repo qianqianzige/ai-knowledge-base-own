@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260806-013",
+  "title": "Do LLMs make ML research more fair for small teams? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vgh075/do_llms_make_ml_research_more_fair_for_small/",
+  "author": "/u/Hope999991",
+  "published_at": "2026-08-05T19:16:29+00:00",
+  "collected_at": "2026-08-06T10:31:45.741636+00:00",
+  "summary": "该讨论探讨了LLM是否通过提供编码、文献综述和写作支持，为小型研究团队或独立研究者降低了ML研究门槛，使其更公平。作者认为LLM虽不能替代导师或研究品味，但可能帮助资源有限的团队将好想法转化为可发表成果，同时质疑顶级实验室是否受益更多。",
+  "score": 6,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-06T10:33:00.875136+00:00"
+}

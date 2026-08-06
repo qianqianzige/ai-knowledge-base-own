@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260806-012",
+  "title": "NeurIPS 2026 post-rebuttal score distribution poll [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vfi23r/neurips_2026_postrebuttal_score_distribution_poll/",
+  "author": "/u/Zhiend727",
+  "published_at": "2026-08-04T18:05:47+00:00",
+  "collected_at": "2026-08-06T10:31:45.741623+00:00",
+  "summary": "该帖子在Reddit机器学习社区发起了一项关于NeurIPS 2026 rebuttal阶段后论文评分分布的投票调查，旨在收集社区反馈以了解评分趋势。由于缺乏官方数据，该调查试图通过社区自选样本提供参考，但作者也承认存在自选择偏差和恶意投票问题。",
+  "score": 4,
+  "tags": [
+    "evaluation"
+  ],
+  "audience": "beginner",
+  "status": "review",
+  "updated_at": "2026-08-06T10:33:00.875132+00:00"
+}
