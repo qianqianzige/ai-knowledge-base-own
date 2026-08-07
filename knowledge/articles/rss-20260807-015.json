@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260807-015",
+  "title": "Can recurring LLM traces be synthesized into deterministic pipelines of typed ML and NLP operators? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vhapso/can_recurring_llm_traces_be_synthesized_into/",
+  "author": "/u/Ok_Philosophy_4031",
+  "published_at": "2026-08-06T17:24:54+00:00",
+  "collected_at": "2026-08-07T08:48:40.784585+00:00",
+  "summary": "该帖子探讨了将重复出现的LLM工作负载（如从年度报告中提取客户-供应商关系）自动合成为由正则表达式、确定性解析器和传统ML/NLP模型组成的确定性流水线（DAG）的可行性。作者提出了一种方法，通过聚类LLM轨迹、推断类型化契约，并利用41种原子任务类型生成候选流水线，同时结合不确定性门控和回退机制来保证质量。核心挑战在于中间图并非潜在推理轨迹的恢复，而是基于有界输入分布的行为等价合成程序，作者正在寻求程序合成和形式验证领域的见解。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-07T08:49:54.257465+00:00"
+}

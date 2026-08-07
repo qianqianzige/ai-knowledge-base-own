@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260807-016",
+  "title": "The current state of language models and human preference based rankings [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vh42ed/the_current_state_of_language_models_and_human/",
+  "author": "/u/adam_alpha_finetuner",
+  "published_at": "2026-08-06T13:19:57+00:00",
+  "collected_at": "2026-08-07T08:48:40.784598+00:00",
+  "summary": "该帖子讨论了基于人类偏好的模型排名（如Arena AI）在推动模型发展中的作用，同时指出了其可能导致的过度格式化问题。作者介绍了Max Planck研究所发布的Comparity AI平台，该平台提供免费访问前沿大语言模型和个性化排行榜的功能，有助于用户根据自身需求选择模型。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-07T08:49:54.257468+00:00"
+}

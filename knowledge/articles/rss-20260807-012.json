@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260807-012",
+  "title": "Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own Rollout Errors [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vh2gn1/roundtrip_consistency_bidirectional_diffusion/",
+  "author": "/u/Clean-Hovercraft5825",
+  "published_at": "2026-08-06T12:10:36+00:00",
+  "collected_at": "2026-08-07T08:48:40.784545+00:00",
+  "summary": "该研究提出了一种双向扩散模型，通过前向和后向滚动的一致性（round-trip consistency）来预测模型自身的滚动误差，无需额外数据或集成方法。实验表明，单一双向模型在长序列生成中优于两个专门模型，为自回归模型的误差监测提供了新思路。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-07T08:49:54.257456+00:00"
+}

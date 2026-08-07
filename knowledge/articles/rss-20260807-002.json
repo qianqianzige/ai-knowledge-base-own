@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260807-002",
+  "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+  "author": "Wirbelwind",
+  "published_at": "Thu, 06 Aug 2026 11:58:07 +0000",
+  "collected_at": "2026-08-07T08:48:40.164954+00:00",
+  "summary": "该研究分析了40,000次游戏运行中人类审批AI代理命令的情况，发现人类遗漏了三分之一的威胁，揭示了AI代理权限审批中的安全漏洞。文章通过实证数据强调了在部署AI代理时，需要更严格的安全机制和自动化威胁检测，以弥补人类监督的不足。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-07T08:49:54.257427+00:00"
+}
