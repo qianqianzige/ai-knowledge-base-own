@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260808-017",
+  "title": "​Built a tool to generate slides from research papers using local LLMs (because I hate formatting decks and privacy matters) [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vi0c4k/built_a_tool_to_generate_slides_from_research/",
+  "author": "/u/nickemlop",
+  "published_at": "2026-08-07T13:14:39+00:00",
+  "collected_at": "2026-08-08T08:31:04.437544+00:00",
+  "summary": "作者开发了一个名为 academi_slide 的开源工具，利用本地 LLM（如 ollama、llama.cpp）从研究论文中自动提取内容并生成幻灯片草稿，支持多语言输入输出，强调隐私保护，避免将敏感数据上传至云端 AI 服务。该工具通过提示优化和幻灯片规划，在几分钟内生成演示文稿和简报，旨在简化繁琐的演示制作流程。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-08T08:32:14.576889+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260808-008",
+  "title": "Imagenet-1k Classifier trained entirely on an Android [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vhwwfr/imagenet1k_classifier_trained_entirely_on_an/",
+  "author": "/u/Tall_Abrocoma_3533",
+  "published_at": "2026-08-07T10:30:14+00:00",
+  "collected_at": "2026-08-08T08:31:04.437429+00:00",
+  "summary": "该帖子展示了一个在Android手机上完全使用CPU（Dimensity 9300+）训练的ImageNet-1k分类器，采用MLP架构，参数约50万，在32x32降采样数据集上训练5个epoch，验证准确率仅4.59%。尽管性能不佳，但展示了移动端训练AI模型的可行性和技术细节，具有实验性和教育价值。",
+  "score": 6,
+  "tags": [
+    "deployment",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-08T08:32:14.576875+00:00"
+}

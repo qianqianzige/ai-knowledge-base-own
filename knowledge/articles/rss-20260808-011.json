@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260808-011",
+  "title": "Improved compression of Bad Apple into a Neural Network [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vhvfws/improved_compression_of_bad_apple_into_a_neural/",
+  "author": "/u/cpldcpu",
+  "published_at": "2026-08-07T09:06:25+00:00",
+  "collected_at": "2026-08-08T08:31:04.437469+00:00",
+  "summary": "该帖子改进了将Bad Apple视频压缩进神经网络的方案，通过使用不同的采样器在生成批次时覆盖整个视频的像素，而非仅限部分帧，从而显著提升了视频重建的保真度。模型结构与原帖相同（4层512宽正弦层，792257个参数），但全帧率版本因需记忆更多时间信息而牺牲了图像质量，且模型未真正学习运动，中间帧无意义。作者还尝试了用自编码器单独压缩帧，虽减小了模型但质量下降。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "compression"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-08T08:32:14.576886+00:00"
+}

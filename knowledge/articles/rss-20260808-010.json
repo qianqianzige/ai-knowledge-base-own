@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260808-010",
+  "title": "Good OCR strategy for detecting doctor handwritting [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vi7br1/good_ocr_strategy_for_detecting_doctor/",
+  "author": "/u/Miserable-Love9055",
+  "published_at": "2026-08-07T17:40:14+00:00",
+  "collected_at": "2026-08-08T08:31:04.437456+00:00",
+  "summary": "该帖子询问如何开发一个从医生手写内容中提取文本的OCR工具，并附有示例图片。这是一个实际应用场景的技术求助，可能涉及手写识别、深度学习模型选择等。帖子本身没有提供具体方案，但引发了社区讨论，可能包含有价值的策略建议。",
+  "score": 5,
+  "tags": [
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-08T08:32:14.576882+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260808-009",
+  "title": "What is currently considered the theoretically optimal quantization bit-width for LLMs? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vi6im4/what_is_currently_considered_the_theoretically/",
+  "author": "/u/takuonline",
+  "published_at": "2026-08-07T17:10:03+00:00",
+  "collected_at": "2026-08-08T08:31:04.437443+00:00",
+  "summary": "该讨论探讨了在固定内存预算下，LLM量化位宽的理论最优值，比较了低比特量化（如2-bit、3-bit）与更大模型规模之间的权衡。用户引用了2025-2026年的研究趋势，指出3-bit及以下量化方法（如1.5-bit）展现出潜力，但缺乏系统性研究。核心价值在于提出了一个社区尚未充分解答的关键问题，并呼吁进行相关实证研究。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-08T08:32:14.576879+00:00"
+}
