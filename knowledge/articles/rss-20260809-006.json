@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260809-006",
+  "title": "73 NeurIPS workshops, and not a single one on Causality [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vj8lag/73_neurips_workshops_and_not_a_single_one_on/",
+  "author": "/u/Beautiful_Baker_2233",
+  "published_at": "2026-08-08T22:12:37+00:00",
+  "collected_at": "2026-08-09T08:32:56.108465+00:00",
+  "summary": "NeurIPS 2026 的 73 个研讨会中没有一个专门针对因果推断，反映出该领域在顶级会议中的关注度被 LLM 和智能体等热门方向所挤压。帖子作者对此表示担忧，认为因果推断可能逐渐边缘化，但仍可在 UAI/AISTATS/CLeaR 等专门会议上找到立足点。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-09T08:34:00.055692+00:00"
+}

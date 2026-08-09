@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260809-007",
+  "title": "[R] Generative design of novel bacteriophages with genome language models [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vjj4pr/r_generative_design_of_novel_bacteriophages_with/",
+  "author": "/u/moschles",
+  "published_at": "2026-08-09T07:11:17+00:00",
+  "collected_at": "2026-08-09T08:32:56.108485+00:00",
+  "summary": "该研究首次利用基因组语言模型（Evo 1和Evo 2）生成具有真实遗传结构和宿主嗜性的完整噬菌体基因组，并以裂解性噬菌体ΦX174为模板进行实验验证，成功获得16株具有显著进化新颖性的可行噬菌体。这项工作展示了语言模型在基因组规模设计中的潜力，为合成生物学和噬菌体疗法提供了新工具。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-09T08:34:00.055697+00:00"
+}

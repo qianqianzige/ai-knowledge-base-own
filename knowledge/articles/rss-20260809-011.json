@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260809-011",
+  "title": "Real-Time Conversational Agents (RTCA) Workshop @ NeurIPS 2026 — submissions now open, deadline Aug 29 AoE [N]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vir5t6/realtime_conversational_agents_rtca_workshop/",
+  "author": "/u/Few-Ferret9700",
+  "published_at": "2026-08-08T09:06:01+00:00",
+  "collected_at": "2026-08-09T08:32:56.108542+00:00",
+  "summary": "该内容宣布了NeurIPS 2026上的实时对话代理（RTCA）研讨会，聚焦于实时生成、交互自然度以及实时系统评估等关键挑战。研讨会旨在推动实时对话AI的研究，弥补离线基准与部署系统之间的差距，并邀请相关领域专家进行分享。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "audio",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-09T08:34:00.055711+00:00"
+}

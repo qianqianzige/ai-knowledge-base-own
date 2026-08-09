@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260809-008",
+  "title": "NeurIPS AI Assisted Review authors/reviewers? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vj3oqr/neurips_ai_assisted_review_authorsreviewers_d/",
+  "author": "/u/OutsideSimple4854",
+  "published_at": "2026-08-08T18:42:55+00:00",
+  "collected_at": "2026-08-09T08:32:56.108501+00:00",
+  "summary": "该帖子讨论了NeurIPS会议中AI辅助评审（LLM辅助）的实际体验，作者作为评审者和作者分享了评审过程中的问题，如评审质量不均、双盲被破坏、以及作者对清晰度评分低的困惑。内容反映了LLM在学术评审中的应用现状和挑战，对理解AI辅助评审的实践有参考价值。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-09T08:34:00.055700+00:00"
+}
