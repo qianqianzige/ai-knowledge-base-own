@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260810-012",
+  "title": "I never understood positional encoding until I read this article. [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vju3ym/i_never_understood_positional_encoding_until_i/",
+  "author": "/u/ImaginaryRea1ity",
+  "published_at": "2026-08-09T16:22:07+00:00",
+  "collected_at": "2026-08-10T09:10:05.836268+00:00",
+  "summary": "这篇文章通过直观的示例和清晰的解释，帮助读者深入理解Transformer中的位置编码（Positional Encoding）机制，解决了这一概念常被误解的痛点。内容具有较高的教学价值，适合希望扎实掌握Transformer原理的读者。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-10T09:11:10.909888+00:00"
+}

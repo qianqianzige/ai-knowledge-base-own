@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260810-004",
+  "title": "Noise-aware training for analog hardware: accuracy collapses at a threshold rather than degrading smoothly [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vjmw53/noiseaware_training_for_analog_hardware_accuracy/",
+  "author": "/u/Georgiou1226",
+  "published_at": "2026-08-09T10:55:50+00:00",
+  "collected_at": "2026-08-10T09:10:05.836134+00:00",
+  "summary": "该帖子通过实验展示了模拟硬件中权重噪声对神经网络精度的影响，发现精度下降存在阈值效应而非平滑退化，并验证了噪声注入训练能显著提高鲁棒性。作者还探讨了平坦极小值解释的合理性，并寻求更直接的噪声鲁棒性优化方法，为模拟计算硬件部署提供了实证见解。",
+  "score": 7,
+  "tags": [
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-10T09:11:10.909876+00:00"
+}

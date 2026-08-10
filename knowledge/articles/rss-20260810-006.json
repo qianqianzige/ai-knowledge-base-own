@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260810-006",
+  "title": "A Mechanistic Explanation of Prompt Injection (and why you should study roles) [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vjvzm4/a_mechanistic_explanation_of_prompt_injection_and/",
+  "author": "/u/katxwoods",
+  "published_at": "2026-08-09T17:36:22+00:00",
+  "collected_at": "2026-08-10T09:10:05.836162+00:00",
+  "summary": "本文从机制层面解释了提示注入攻击的工作原理，强调研究角色（roles）在LLM安全中的重要性。作者通过分析模型如何处理角色指令与用户输入，提出了更深入的理解和防御思路，对AI安全领域具有参考价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "security",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-10T09:11:10.909881+00:00"
+}
