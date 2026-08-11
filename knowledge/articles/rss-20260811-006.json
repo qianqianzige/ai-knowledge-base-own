@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-006",
+  "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.docker.com/products/docker-sandboxes/",
+  "author": "etoxin",
+  "published_at": "Mon, 10 Aug 2026 06:02:38 +0000",
+  "collected_at": "2026-08-11T08:45:10.998587+00:00",
+  "summary": "Docker Sandboxes 为 AI 代理提供可丢弃、隔离的沙箱环境，确保代理在执行任务时拥有安全、可控的运行空间。该产品通过容器化技术简化了环境管理，提升了 AI 代理的可靠性和安全性，适用于需要动态执行代码或工具的代理场景。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-11T08:46:15.317756+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-005",
+  "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+  "author": "riordan",
+  "published_at": "Mon, 10 Aug 2026 10:10:02 +0000",
+  "collected_at": "2026-08-11T08:45:10.998573+00:00",
+  "summary": "Meta 发布了 Muse Glimmer，一个 300 亿参数的开放模型，专为始终在线的本地代理工作流优化。该模型旨在高效执行代理任务，支持本地部署，减少延迟并增强隐私，为 AI 代理应用提供了新的基础设施选择。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-11T08:46:15.317752+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260811-013",
+  "title": "Comparing embedding models with synthetic query probing [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vkh1ul/comparing_embedding_models_with_synthetic_query/",
+  "author": "/u/pppeer",
+  "published_at": "2026-08-10T10:27:45+00:00",
+  "collected_at": "2026-08-11T08:45:11.685525+00:00",
+  "summary": "本文提出了一种名为“Synthetic Query Probing”的简单方法，通过比较不同嵌入模型在合成查询-内容对上的相似度分数，而非直接比较嵌入空间，来解决嵌入模型（如ADA到Titan）之间的可比性和阈值设定问题。该方法有助于理解不同嵌入空间的相似性关系，并支持检索系统的模型替换和阈值调整。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-11T08:46:15.317772+00:00"
+}

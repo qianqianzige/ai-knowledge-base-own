@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260811-011",
+  "title": "How to file a complaint about a published CVPR paper? [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vkn5x9/how_to_file_a_complaint_about_a_published_cvpr/",
+  "author": "/u/ElPelana",
+  "published_at": "2026-08-10T14:56:16+00:00",
+  "collected_at": "2026-08-11T08:45:11.685497+00:00",
+  "summary": "该帖子讨论了对CVPR 2026已发表论文的投诉流程，该论文的核心贡献是数据集但从未发布，且GitHub仓库为空。作者寻求如何向会议组织者正式投诉，反映了学术出版中数据可用性检查的缺失问题。",
+  "score": 5,
+  "tags": [
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-11T08:46:15.317765+00:00"
+}

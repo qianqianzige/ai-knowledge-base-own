@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260811-014",
+  "title": "Semi Edge Inference Idea [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vkhl99/semi_edge_inference_idea_d/",
+  "author": "/u/komorra",
+  "published_at": "2026-08-10T10:58:11+00:00",
+  "collected_at": "2026-08-11T08:45:11.685538+00:00",
+  "summary": "该帖子提出了一个将专有模型推理拆分为客户端和服务器端两部分的边缘推理方案，旨在通过将部分计算负载转移到客户端硬件来降低数据中心成本。作者设想通过训练两个独立模型（客户端模型和服务器端模型）并通过网络协议传输张量或潜在表示进行通信，并探讨了这种拆分可能带来的标准化和扩展性优势。该想法处于概念阶段，缺乏具体实现细节，但为边缘计算与模型推理结合提供了有价值的讨论方向。",
+  "score": 6,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-11T08:46:15.317775+00:00"
+}

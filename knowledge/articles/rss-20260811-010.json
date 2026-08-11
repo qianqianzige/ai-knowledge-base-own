@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-010",
+  "title": "Transformers are famously bad at arithmetic, so I set one's weights by hand (no training) and it multiplies with 100% accuracy [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vkrnb5/transformers_are_famously_bad_at_arithmetic_so_i/",
+  "author": "/u/notforrob",
+  "published_at": "2026-08-10T17:37:35+00:00",
+  "collected_at": "2026-08-11T08:45:11.685482+00:00",
+  "summary": "作者通过手写权重将小学乘法算法编译进Transformer模型，无需训练即可实现100%精确的多位数乘法，并发布了支持最高12位乘12位的检查点。该工作展示了通过直接设置权重而非训练来赋予模型特定能力的可能性，并对比了四种不同实现方式的效率差异。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-11T08:46:15.317762+00:00"
+}

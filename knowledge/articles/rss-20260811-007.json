@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260811-007",
+  "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.whodunnitai.com/",
+  "author": "MrRowTheBoat",
+  "published_at": "Mon, 10 Aug 2026 03:18:40 +0000",
+  "collected_at": "2026-08-11T08:45:10.998600+00:00",
+  "summary": "该项目展示了一个基于语音驱动的谋杀悬疑游戏，用户可以通过语音与AI嫌疑人进行实时对话，利用OpenAI的gpt-realtime-2.1模型通过WebRTC实现语音到语音的交互。系统包含嫌疑人工具调用和独立的gpt-5-mini裁判模型来评估用户提供的证据，技术栈包括Next.js、MongoDB和Clerk，展示了语音AI代理在互动娱乐领域的实际应用。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "audio",
+    "llm",
+    "tool-use",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-11T08:46:15.317759+00:00"
+}

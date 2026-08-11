@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260811-002",
+  "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://cactuscompute.com/needle",
+  "author": "HenryNdubuaku",
+  "published_at": "Mon, 10 Aug 2026 17:22:07 +0000",
+  "collected_at": "2026-08-11T08:45:10.998525+00:00",
+  "summary": "Needle2 是一个仅 14MB 的 agentic LLM，专为边缘设备（如手机、可穿戴设备、智能家居和机器人）设计，支持工具调用和结构化提取。它基于 Simple Attention Networks，在极低资源下实现高效推理，并可通过微调适应特定任务，为边缘 AI 提供了一种轻量级解决方案。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "tool-use",
+    "deployment",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-11T08:46:15.317741+00:00"
+}
