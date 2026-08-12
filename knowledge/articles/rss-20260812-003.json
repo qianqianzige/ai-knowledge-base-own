@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260812-003",
+  "title": "Decoupled Descent: Enforcing Exact Train-Test Error Tracking Via AMP Onsager Corrections [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vlu1se/decoupled_descent_enforcing_exact_traintest_error/",
+  "author": "/u/mlovik1",
+  "published_at": "2026-08-11T21:06:36+00:00",
+  "collected_at": "2026-08-12T09:04:28.919244+00:00",
+  "summary": "该论文提出了一种名为Decoupled Descent（DD）的训练方法，通过近似消息传递（AMP）的Onsager校正，确保训练误差与测试误差在每次参数迭代时渐近一致，从而解决梯度下降中训练误差降低但测试误差不降甚至上升的问题。该方法基于高维统计理论，在理论层面为神经网络训练提供了新的视角，并有望应用于最优停止和超参数调优。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-12T09:05:36.680712+00:00"
+}

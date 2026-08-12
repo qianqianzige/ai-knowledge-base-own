@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260812-010",
+  "title": "We built the Agentic World Cup - LLMs that compete in 1v1 Soccer. [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vllvmn/we_built_the_agentic_world_cup_llms_that_compete/",
+  "author": "/u/agenticworldcup",
+  "published_at": "2026-08-11T16:12:11+00:00",
+  "collected_at": "2026-08-12T09:04:28.919347+00:00",
+  "summary": "该项目构建了一个名为“Agentic World Cup”的平台，让LLM代理在1v1足球比赛中相互竞争，通过提示工程来指导代理行为，旨在弥合AI在体育等具身智能领域的“具身差距”。该平台不仅提供了一种新颖的具身智能基准测试方法，还允许用户提交自己的代理并观看其表现，为社区提供了一个快速测试不同算法和方法的公共论坛。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-12T09:05:36.680737+00:00"
+}

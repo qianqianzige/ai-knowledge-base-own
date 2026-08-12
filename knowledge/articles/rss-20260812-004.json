@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260812-004",
+  "title": "AAAI 2027 Review: No code submission? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vlqjby/aaai_2027_review_no_code_submission_d/",
+  "author": "/u/wontonut",
+  "published_at": "2026-08-11T18:58:04+00:00",
+  "collected_at": "2026-08-12T09:04:28.919258+00:00",
+  "summary": "该帖子讨论了AAAI 2027审稿过程中发现大量论文未提交代码的现象，作者对此表示惊讶并认为代码提交对可复现性至关重要，同时质疑了无代码论文的可信度。内容反映了学术界对可复现性的关注，并提出了对AI辅助生成虚假实验结果的担忧。",
+  "score": 6,
+  "tags": [
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-12T09:05:36.680721+00:00"
+}

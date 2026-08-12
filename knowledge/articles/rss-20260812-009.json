@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260812-009",
+  "title": "Planning/RL for a stochastic single-player merge puzzle: afterstates, previewed chance events, and long-horizon throughput [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vlfavg/planningrl_for_a_stochastic_singleplayer_merge/",
+  "author": "/u/CaiwenGong",
+  "published_at": "2026-08-11T11:53:33+00:00",
+  "collected_at": "2026-08-12T09:04:28.919334+00:00",
+  "summary": "该帖子详细描述了一个随机单人合并益智游戏的AI设计，包括游戏规则、状态表示、策略/价值网络、PUCT规划、训练过程及实验结果，并提出了多个技术问题，涉及2048式afterstate TD、Gumbel MuZero、树重用、平均奖励训练等方向。内容深入且具有实践价值，适合对游戏AI和强化学习感兴趣的读者。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "reinforcement-learning",
+    "planning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-12T09:05:36.680733+00:00"
+}

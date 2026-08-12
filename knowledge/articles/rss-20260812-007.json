@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260812-007",
+  "title": "Continued development of the model based on the SSN [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vlrajq/continued_development_of_the_model_based_on_the/",
+  "author": "/u/zemondza",
+  "published_at": "2026-08-11T19:25:06+00:00",
+  "collected_at": "2026-08-12T09:04:28.919305+00:00",
+  "summary": "作者在沉寂六个月后，重新构建了其混合脉冲/脑启发语言模型 NORD 5.5，核心设计围绕 CPU 优先推理，采用严格因果处理、无标准二次注意力、脉冲神经元动态和稀疏 MoE 等机制，旨在简化架构并提升推理效率。该项目仍处于实验阶段，作者计划进行基准测试以比较不同组件的影响。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-12T09:05:36.680729+00:00"
+}
