@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260813-011",
+  "title": "The Loss Does Not See the Basis, But Adam Does [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vmjb3p/the_loss_does_not_see_the_basis_but_adam_does_r/",
+  "author": "/u/EtherealGlyph",
+  "published_at": "2026-08-12T16:39:12+00:00",
+  "collected_at": "2026-08-13T09:04:34.406120+00:00",
+  "summary": "该研究揭示了Adam优化器因逐坐标二阶矩导致基依赖性问题，破坏梯度下降在低秩矩阵感知中的隐式低秩偏差，而Muon、Shampoo等保持该偏差。通过一参数族实验证明各向异性是性能退化的原因，并改进作者先前优化器。理论保证仅覆盖无记忆规则，动量影响为经验性。",
+  "score": 8,
+  "tags": [
+    "optimization",
+    "low-rank",
+    "matrix-sensing",
+    "adam",
+    "muon"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-13T09:05:44.761709+00:00"
+}

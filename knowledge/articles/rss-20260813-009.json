@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260813-009",
+  "title": "chessformer_lens demo: ablating 1 of a chess transformer's 128 attention heads makes the model stop finding Morphy's queen sacrifice [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vmvl4w/chessformer_lens_demo_ablating_1_of_a_chess/",
+  "author": "/u/Weird-Asparagus4136",
+  "published_at": "2026-08-13T00:29:52+00:00",
+  "collected_at": "2026-08-13T09:04:34.406092+00:00",
+  "summary": "该演示展示了通过消融（ablating）国际象棋Transformer模型中的一个注意力头，导致模型无法找到Morphy的皇后牺牲走法，揭示了特定注意力头在模型推理中的关键作用。该内容提供了可复现的Notebook，对于理解Transformer内部机制和可解释性研究具有价值。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-13T09:05:44.761703+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260813-012",
+  "title": "Looking for real-world examples of predictive analytics in mortgage lending [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vmf7xu/looking_for_realworld_examples_of_predictive/",
+  "author": "/u/Feeling-Emergency469",
+  "published_at": "2026-08-12T14:10:08+00:00",
+  "collected_at": "2026-08-13T09:04:34.406133+00:00",
+  "summary": "该帖子在Reddit的机器学习社区中寻求抵押贷款预测分析的实际案例，探讨了预测再融资行为时使用的变量类型，如信用活动、房产增值、利率和人生事件。内容虽为提问，但涉及金融领域预测建模的关键特征工程问题，对从业者有参考价值。",
+  "score": 6,
+  "tags": [
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-13T09:05:44.761713+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260813-010",
+  "title": "I built an \"honest\" CS conference ranking: sorted by how good the trip is, not the CORE ranking [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vmbdk6/i_built_an_honest_cs_conference_ranking_sorted_by/",
+  "author": "/u/JohnAZoidberg77",
+  "published_at": "2026-08-12T11:23:32+00:00",
+  "collected_at": "2026-08-13T09:04:34.406107+00:00",
+  "summary": "作者构建了一个名为 honestcsrankings 的网站，将约 540 个 CORE 排名会议按目的地质量（天气、安全、成本、城市氛围）而非学术排名进行排序，并提供了筛选、导出日历和分享链接等功能。该工具旨在帮助研究者选择既有利于职业发展又兼顾旅行体验的会议，同时包含一个专门列出学术排名高但目的地差的“爆冷”标签页。",
+  "score": 7,
+  "tags": [
+    "tool-use",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-13T09:05:44.761706+00:00"
+}
