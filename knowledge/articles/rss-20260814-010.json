@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260814-010",
+  "title": "worldproof: diagnosing where world-model predictions break and a measurement of when pixel metrics stop being able to rank models at all [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vnliv7/worldproof_diagnosing_where_worldmodel/",
+  "author": "/u/georgia_bucea",
+  "published_at": "2026-08-13T19:58:03+00:00",
+  "collected_at": "2026-08-14T09:00:44.903699+00:00",
+  "summary": "作者开发了开源工具 worldproof 用于诊断世界模型，并发现了一个关键问题：在真实机器人视频上，像素级指标（如 SSIM/PSNR）在短预测步数时无法区分模型（所有模型都接近完美），在长步数时又都趋于饱和，只有中间约 8-24 步的区间才具有判别力。该发现强调了评估设置中预测视界选择的重要性，并提供了测量方法。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-14T09:01:58.921581+00:00"
+}

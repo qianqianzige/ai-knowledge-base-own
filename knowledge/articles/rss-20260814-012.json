@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260814-012",
+  "title": "UrgenT Help Detecting Performance Regressions Using Machine Learning and Hardware Counters [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vngjmv/urgent_help_detecting_performance_regressions/",
+  "author": "/u/ZeroDark_Hereford",
+  "published_at": "2026-08-13T17:01:27+00:00",
+  "collected_at": "2026-08-14T09:00:44.903725+00:00",
+  "summary": "该帖子讨论在性能回归检测中使用机器学习/异常检测方法，核心问题是在仅有10个健康样本的情况下如何正确划分训练/验证/测试集、设置阈值及评估指标。作者提出了关于留一法、独立健康测试集以及使用误报率和检测率而非MSE/MAE的疑问，反映了小样本异常检测中的常见挑战。",
+  "score": 7,
+  "tags": [
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-14T09:01:58.921584+00:00"
+}

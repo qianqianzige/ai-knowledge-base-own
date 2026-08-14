@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260814-005",
+  "title": "City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban systems [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vn8oya/city2graph_a_python_library_for_heterogeneous/",
+  "author": "/u/Tough_Ad_6598",
+  "published_at": "2026-08-13T11:59:58+00:00",
+  "collected_at": "2026-08-14T09:00:44.903622+00:00",
+  "summary": "City2Graph 是一个 Python 库，旨在将地理空间数据转换为适用于空间分析、网络分析和图神经网络（GeoAI）的异构图。它支持从 OpenStreetMap、GTFS 等来源构建形态、交通、流动性和邻近性图，并提供与 PyTorch Geometric 等工具的转换功能。该库的论文已发表在《Computers, Environment and Urban Systems》期刊上，为城市系统研究提供了新的工具。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-14T09:01:58.921556+00:00"
+}

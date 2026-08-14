@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260814-007",
+  "title": "Reproducible canvas-aligned low-level patterns in somerandomllm-generated images and their possible relation to iterative editing artifacts [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vnq08v/reproducible_canvasaligned_lowlevel_patterns_in/",
+  "author": "/u/DickHorner",
+  "published_at": "2026-08-13T22:52:35+00:00",
+  "collected_at": "2026-08-14T09:00:44.903656+00:00",
+  "summary": "该帖子报告了在ChatGPT图像生成和编辑中发现的、可复现的、与画布对齐的低级空间模式，即使在全黑图像中也存在，并提出了这种模式可能与迭代编辑中出现的云状/斑驳伪影有关的假设。作者通过实验（如平移图像、生成多个黑色图像并分析相关性）提供了证据，但尚未确定其确切机制。",
+  "score": 7,
+  "tags": [
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-14T09:01:58.921570+00:00"
+}

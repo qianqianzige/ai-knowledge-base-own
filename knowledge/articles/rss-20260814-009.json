@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260814-009",
+  "title": "Are supervised and unsupervised learning still relevant today? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vo08wd/are_supervised_and_unsupervised_learning_still/",
+  "author": "/u/CriticalJackfruit404",
+  "published_at": "2026-08-14T07:14:31+00:00",
+  "collected_at": "2026-08-14T09:00:44.903686+00:00",
+  "summary": "该 Reddit 帖子在 2026 年 LLM 和深度学习主导的背景下，探讨了监督学习和无监督学习等经典机器学习方法的相关性，并询问它们是否仍值得学习以及是否有相关 Python 书籍推荐。内容反映了社区对传统 ML 基础在当前 AI 领域地位的讨论，对学习者有参考价值。",
+  "score": 5,
+  "tags": [
+    "llm"
+  ],
+  "audience": "beginner",
+  "status": "review",
+  "updated_at": "2026-08-14T09:01:58.921577+00:00"
+}
