@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260815-017",
+  "title": "Are there any theoretically-guided practices left in machine learning nowadays? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vohmy4/are_there_any_theoreticallyguided_practices_left/",
+  "author": "/u/NeighborhoodFatCat",
+  "published_at": "2026-08-14T19:52:59+00:00",
+  "collected_at": "2026-08-15T08:18:25.219765+00:00",
+  "summary": "该帖子探讨了机器学习中理论指导实践的历史变迁，指出许多传统理论（如过拟合、偏差-方差权衡）在实践中被推翻，并质疑当前机器学习是否已完全转向经验驱动。内容引发对理论在ML中当前角色的深刻反思，具有学术讨论价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-15T08:19:31.465911+00:00"
+}

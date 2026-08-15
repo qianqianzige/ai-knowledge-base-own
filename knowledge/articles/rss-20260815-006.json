@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260815-006",
+  "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
+  "author": "/u/notforrob",
+  "published_at": "2026-08-14T15:50:11+00:00",
+  "collected_at": "2026-08-15T08:18:25.219598+00:00",
+  "summary": "该项目通过自研编译器将Doom渲染算法转换为21B参数Transformer的权重，无需训练即可在Hugging Face上加载并生成渲染帧，展示了计算图到模型权重的创新编译方法。尽管性能极低（每帧需40分钟），但为算法与神经网络融合提供了独特视角。",
+  "score": 8,
+  "tags": [
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-15T08:19:31.465877+00:00"
+}

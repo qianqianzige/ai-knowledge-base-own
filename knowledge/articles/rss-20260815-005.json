@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-005",
+  "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
+  "author": "/u/BadOk2793",
+  "published_at": "2026-08-15T07:26:32+00:00",
+  "collected_at": "2026-08-15T08:18:25.219584+00:00",
+  "summary": "该 Reddit 帖子在 Reddit 的 r/MachineLearning 社区中发起讨论，探讨在拥有大量 GPU 且排除运行本地 LLM 的情况下，可以开展哪些创新或研究导向的项目。帖子列举了科学模拟、非文本生成、分布式计算、渲染管线等方向，并特别强调希望获得更具研究性和新技术含量的想法。",
+  "score": 6,
+  "tags": [
+    "vision",
+    "deployment",
+    "distributed-computing"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-15T08:19:31.465874+00:00"
+}

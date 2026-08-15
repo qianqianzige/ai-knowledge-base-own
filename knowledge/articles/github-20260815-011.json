@@ -1,0 +1,19 @@
+{
+  "id": "github-20260815-011",
+  "title": "unslothai/unsloth",
+  "source": "github",
+  "source_url": "https://github.com/unslothai/unsloth",
+  "author": "unslothai",
+  "published_at": "2026-08-15T02:28:27Z",
+  "collected_at": "2026-08-15T08:18:20.642517+00:00",
+  "summary": "unsloth 是一个本地 UI 工具，用于运行和训练大型语言模型及扩散模型，支持包括 Qwen3.8、Kimi K3、Gemma 4、DeepSeek-V4、FLUX 在内的多种最新模型。该项目旨在简化模型的使用和微调流程，为开发者提供便捷的本地化操作界面。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-15T08:19:31.465854+00:00"
+}

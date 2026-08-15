@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260815-012",
+  "title": "Open-source Python library + no-code web dashboard for evaluating oncology AI models at clinical decision thresholds. [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vod2c8/opensource_python_library_nocode_web_dashboard/",
+  "author": "/u/adom2989",
+  "published_at": "2026-08-14T17:06:09+00:00",
+  "collected_at": "2026-08-15T08:18:25.219695+00:00",
+  "summary": "oncothresh 是一个开源的 Python 库，专注于在临床决策阈值下评估肿瘤学 AI 模型，提供灵敏度、特异性、PPV/NPV 等指标及置信区间，并附带无代码 Web 仪表板。它填补了现有基准（如 PathBench）在阈值特定评估和不确定性量化方面的空白，适用于肿瘤细胞、Ki-67 等连续输出转化为二元决策的场景。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-15T08:19:31.465898+00:00"
+}

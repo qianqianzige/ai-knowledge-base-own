@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260815-016",
+  "title": "Building text to ASCII diffusion model , need advice and guidance [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vo3m71/building_text_to_ascii_diffusion_model_need/",
+  "author": "/u/Udbhav96",
+  "published_at": "2026-08-14T10:33:37+00:00",
+  "collected_at": "2026-08-15T08:18:25.219752+00:00",
+  "summary": "该帖子讨论构建一个将文本转换为ASCII艺术图像的扩散模型，作者具备ML基础并寻求论文推荐和项目指导。内容属于技术求助，但展示了将扩散模型应用于非传统输出模态的探索思路，对相关领域开发者有参考价值。",
+  "score": 6,
+  "tags": [
+    "vision",
+    "diffusion-model"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-15T08:19:31.465904+00:00"
+}

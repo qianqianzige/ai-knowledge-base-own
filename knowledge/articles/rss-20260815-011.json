@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-011",
+  "title": "How to build an adaptive learning/recommendation system for a question bank? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vog25j/how_to_build_an_adaptive_learningrecommendation/",
+  "author": "/u/whizzkidme",
+  "published_at": "2026-08-14T18:54:26+00:00",
+  "collected_at": "2026-08-15T08:18:25.219681+00:00",
+  "summary": "该帖子讨论了如何为题库构建自适应学习/推荐系统，旨在根据学生的强弱项动态推荐题目，并在适当难度下复习旧知识点。核心价值在于提供了一种个性化学习路径的设计思路，涉及强化学习和知识追踪等AI技术。",
+  "score": 6,
+  "tags": [
+    "recommendation",
+    "adaptive-learning",
+    "reinforcement-learning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-15T08:19:31.465895+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260815-015",
+  "title": "A linter for PyTorch 'torch-preflight' [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vo8vv0/a_linter_for_pytorch_torchpreflight_p/",
+  "author": "/u/LeJanbandhu",
+  "published_at": "2026-08-14T14:30:56+00:00",
+  "collected_at": "2026-08-15T08:18:25.219737+00:00",
+  "summary": "torch-preflight 是一个针对 PyTorch 代码的静态分析工具，能够在不执行代码的情况下检测常见的训练错误（如梯度累积未归一化、缺少 zero_grad 等），并估算 GPU 显存使用，帮助开发者避免浪费 GPU 资源。该工具已提供 13 条规则，并支持通过 pip 安装，目前处于开发阶段，欢迎社区反馈和贡献。",
+  "score": 8,
+  "tags": [
+    "code-generation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-15T08:19:31.465901+00:00"
+}

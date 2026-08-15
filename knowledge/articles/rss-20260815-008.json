@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260815-008",
+  "title": "How much does adding an honest limitations section hurt the paper? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1voksgz/how_much_does_adding_an_honest_limitations/",
+  "author": "/u/strammerrammer",
+  "published_at": "2026-08-14T21:55:55+00:00",
+  "collected_at": "2026-08-15T08:18:25.219636+00:00",
+  "summary": "这篇 Reddit 帖子在 r/MachineLearning 社区中提出了一个关于论文写作的开放性问题：在论文中添加诚实的局限性部分会对论文产生多大影响。作者担心这会引发审稿人的偏见，促使他们要求修复这些问题，并询问如果审稿人使用 AI 阅读论文，局限性部分是否会影响 AI 的判断。帖子引发了关于学术写作透明度和审稿过程的讨论，但并未提供具体的技术内容或解决方案。",
+  "score": 5,
+  "tags": [
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-15T08:19:31.465885+00:00"
+}

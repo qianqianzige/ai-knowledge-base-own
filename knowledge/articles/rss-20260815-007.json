@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-007",
+  "title": "BDH-CQ: IN-CONTEXT LEARNING WITH RECURRENT LATENT REASONING [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vov5r5/bdhcq_incontext_learning_with_recurrent_latent/",
+  "author": "/u/moschles",
+  "published_at": "2026-08-15T06:18:15+00:00",
+  "collected_at": "2026-08-15T08:18:25.219619+00:00",
+  "summary": "BDH-CQ 是一种结合上下文学习与循环潜在推理的推理系统，通过循环记忆更新和潜在空间迭代计算解决新任务，无需解码中间推理状态或更新参数。其 150M 参数配置在 ARC-AGI-1 上达到 29.5% pass@2，成本仅 $0.00070/任务，突破了成本-性能帕累托前沿，展示了高效推理的潜力。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-15T08:19:31.465881+00:00"
+}

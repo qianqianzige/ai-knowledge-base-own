@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-001",
+  "title": "AI by Hand",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.byhand.ai/",
+  "author": "sans_souse",
+  "published_at": "Fri, 14 Aug 2026 15:58:59 +0000",
+  "collected_at": "2026-08-15T08:18:24.387162+00:00",
+  "summary": "AI by Hand 是一个通过手工方式实现 AI 技术的项目，旨在帮助开发者深入理解 AI 核心原理。它提供了从零开始构建 AI 模型的教程和代码，强调动手实践和底层实现，适合希望掌握 AI 细节的开发者。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-15T08:19:31.465865+00:00"
+}
