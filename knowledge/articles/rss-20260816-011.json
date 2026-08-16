@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260816-011",
+  "title": "Survival of the Fitted: Qwen3.6-27B’s Jacobian lens reads and steers Qwen3.8-27B with zero refitting [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vpa5cv/survival_of_the_fitted_qwen3627bs_jacobian_lens/",
+  "author": "/u/imstilllearningthis",
+  "published_at": "2026-08-15T18:24:00+00:00",
+  "collected_at": "2026-08-16T08:19:18.148590+00:00",
+  "summary": "该研究测试了Jacobian透镜（一种可解释性工具）在模型版本更新（Qwen3.6-27B到Qwen3.8-27B）后的迁移能力，发现透镜在读取潜在实体和引导生成时仍能有效工作，尽管在表面任务上有所损失。结果表明跨检查点迁移是可行的，为监控管道提供了实用价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-16T08:20:24.318902+00:00"
+}

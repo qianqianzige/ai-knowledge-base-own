@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260816-008",
+  "title": "How can we solve long-range recall in linear attention? [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vpqwdc/how_can_we_solve_longrange_recall_in_linear/",
+  "author": "/u/No-Coffee-8227",
+  "published_at": "2026-08-16T07:47:09+00:00",
+  "collected_at": "2026-08-16T08:19:18.148548+00:00",
+  "summary": "该帖子讨论了线性注意力模型在长序列（如DNA序列）上的长程召回问题，指出即使HyenaDNA等模型在百万token级别也表现不佳，并探讨了可能的解决方案，如外部记忆、滑动窗口和混合架构。核心价值在于揭示了线性注意力在超长序列上的根本性局限，并提出了对可扩展方案的迫切需求。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-16T08:20:24.318895+00:00"
+}

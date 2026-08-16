@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260816-001",
+  "title": "AI has access to a vastly larger working memory than the human brain",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+  "author": "rzk",
+  "published_at": "Sat, 15 Aug 2026 18:13:02 +0000",
+  "collected_at": "2026-08-16T08:19:17.513738+00:00",
+  "summary": "该文章探讨了AI在数学推理中的工作记忆优势，指出AI拥有比人脑更大的工作记忆容量，但并未超越数学家的思考能力。文章分析了AI在数学问题解决中的局限性，强调其依赖计算而非真正的理解，对AI推理能力的讨论具有启发性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-16T08:20:24.318878+00:00"
+}

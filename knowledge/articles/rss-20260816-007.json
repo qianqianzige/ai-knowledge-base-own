@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260816-007",
+  "title": "Dataset: Starfield Fauna - 20,000 images in 50 species categories. [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vp9q5v/dataset_starfield_fauna_20000_images_in_50/",
+  "author": "/u/eccLykta",
+  "published_at": "2026-08-15T18:06:57+00:00",
+  "collected_at": "2026-08-16T08:19:18.148532+00:00",
+  "summary": "该数据集提供了来自游戏《Starfield》的20,000张图像，涵盖50个物种类别，用于图像分类任务。图像通过视频捕获提取，并经过筛选和归一化处理，确保训练、验证和测试集的分布均衡。该数据集为游戏环境中的视觉识别研究提供了有价值的资源。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "dataset"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-16T08:20:24.318892+00:00"
+}
