@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260817-011",
+  "title": "[R] SineKAN: Kolmogorov-Arnold Networks Using Sinusoidal Activation Functions",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vqdode/r_sinekan_kolmogorovarnold_networks_using/",
+  "author": "/u/jacobgorm",
+  "published_at": "2026-08-17T00:46:26+00:00",
+  "collected_at": "2026-08-17T08:34:18.806497+00:00",
+  "summary": "SineKAN 提出使用正弦函数替代 B-spline 作为 Kolmogorov-Arnold 网络的激活函数，简化了实现并可能提升性能。该工作已有 arXiv 论文和 GitHub 代码，并发表了同行评审的期刊文章，为 KAN 的变体研究提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T08:35:21.373962+00:00"
+}

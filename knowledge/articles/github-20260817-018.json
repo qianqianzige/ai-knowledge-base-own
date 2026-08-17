@@ -1,0 +1,19 @@
+{
+  "id": "github-20260817-018",
+  "title": "Hmbown/CodeWhale",
+  "source": "github",
+  "source_url": "https://github.com/Hmbown/CodeWhale",
+  "author": "Hmbown",
+  "published_at": "2026-08-17T08:23:22Z",
+  "collected_at": "2026-08-17T08:34:15.155918+00:00",
+  "summary": "CodeWhale 是一个开源的、社区驱动的智能体（agent）框架，旨在为开发者提供构建和部署 AI 智能体的基础设施。它强调开放性和协作性，通过社区贡献不断演进，为 AI 应用开发提供灵活的工具集。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T08:35:21.373927+00:00"
+}

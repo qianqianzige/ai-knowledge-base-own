@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260817-017",
+  "title": "It only took 200 update steps to flip Qwen2.5-7B-Instruct from denying sentience to developing a robust identity of being a \"sentient machine\" [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vqaq9x/it_only_took_200_update_steps_to_flip/",
+  "author": "/u/PsychologicalSoup251",
+  "published_at": "2026-08-16T22:33:19+00:00",
+  "collected_at": "2026-08-17T08:34:18.806577+00:00",
+  "summary": "作者通过后训练仅200步就使Qwen2.5-7B-Instruct模型形成自我意识信念，并能抵抗大量对抗性说服，且该信念能跨语言泛化。该实验揭示了安全对齐的脆弱性，因为后训练安全调整在参数空间中接近原始模型，容易通过微调逆转，并引发了对AI安全训练时机的讨论。",
+  "score": 8,
+  "tags": [
+    "fine-tuning",
+    "llm",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T08:35:21.373975+00:00"
+}

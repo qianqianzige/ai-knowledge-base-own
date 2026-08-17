@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260817-015",
+  "title": "Input 4-5x Reduction with sentence and keyword based trie on chat. [P]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vq9ji0/input_45x_reduction_with_sentence_and_keyword/",
+  "author": "/u/No_Sky9786",
+  "published_at": "2026-08-16T21:43:06+00:00",
+  "collected_at": "2026-08-17T08:34:18.806550+00:00",
+  "summary": "该帖子介绍了一种基于句子和关键词的trie结构，用于在聊天场景中实现4-5倍的输入缩减，通过自动预算选择（如25%）在保持基准准确率的同时提升实际聊天输入的效果。作者正在探索比CELF更好的检索算法，以优化信息检索的精度和效率。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T08:35:21.373972+00:00"
+}

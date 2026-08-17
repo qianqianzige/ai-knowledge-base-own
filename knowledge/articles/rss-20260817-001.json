@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260817-001",
+  "title": "The AI Credit Resale Economy",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://vectoral.com/blog/who-are-the-token-brokers",
+  "author": "mlenhard",
+  "published_at": "Sun, 16 Aug 2026 14:44:55 +0000",
+  "collected_at": "2026-08-17T08:34:17.635242+00:00",
+  "summary": "本文探讨了AI信用转售经济，即通过中间商（token brokers）买卖AI模型API访问额度或信用额度的现象。文章分析了这一新兴市场的运作机制、参与者角色及其对AI资源分配和成本优化的影响，揭示了其作为AI基础设施中一个潜在重要环节的价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T08:35:21.373938+00:00"
+}

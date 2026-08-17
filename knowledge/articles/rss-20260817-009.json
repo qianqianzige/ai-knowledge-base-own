@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260817-009",
+  "title": "SSOG-Attention: Sum Of Separable Gaussians as a sub-quadratic and scalable alternative to SDPA. [R]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vpt6ay/ssogattention_sum_of_separable_gaussians_as_a/",
+  "author": "/u/4rtemi5",
+  "published_at": "2026-08-16T10:06:07+00:00",
+  "collected_at": "2026-08-17T08:34:18.806468+00:00",
+  "summary": "SSOG-Attention 提出了一种基于可分离高斯和（Sum of Separable Gaussians）的注意力机制，作为缩放点积注意力（SDPA）的亚二次复杂度替代方案，将复杂度从 O(N²·d) 降至 O(N·√N·d)。实验表明，在 CIFAR-100 上性能优于 SDPA，在 ImageNet-1k 上性能相当且收敛更快，同时内存效率更高，为长序列 Transformer 提供了可扩展的注意力实现。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-17T08:35:21.373954+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260817-013",
+  "title": "Revisiting the Efficient Channel Attention paper (2019, 12k citations) - the central hypothesis isn't quite right [D]",
+  "source": "rss:Reddit r/MachineLearning",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1vptaw9/revisiting_the_efficient_channel_attention_paper/",
+  "author": "/u/arkuto",
+  "published_at": "2026-08-16T10:13:44+00:00",
+  "collected_at": "2026-08-17T08:34:18.806523+00:00",
+  "summary": "该帖子重新审视了高效通道注意力（ECA）论文，通过在国际象棋残局表库上的实验挑战其核心假设，即跨通道交互是关键。结果表明，k=1（无跨通道交互）的ECA仍优于SE，削弱了原始假设，并建议在合成数据集上测试架构以区分正则化效应和架构效率。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T08:35:21.373965+00:00"
+}
